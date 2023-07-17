@@ -1,4 +1,5 @@
-# 2023 Boost overview
+
+## (**LEGAL DISCLAIMER**) These notes refer to and are copied from SKILSTAK.IO, Which refer to the 2023 Skilstak Boost Project overview Page. All legal trademarks are of Robert S. Muhlestein.(rwxrob)
 
 Here's what we currently plan to cover over approximately 30 weeks in 2023 with an estimated completion date sometime around December 16th based on two hours per week (the least we have ever done per week). Most all are accomplished from the terminal command line (and not a graphic user interface):
 
@@ -113,3 +114,5 @@ Some people may find it better to simply wait until the entire 2023 Boost has co
 
 * How to install Linux on hardware.
 * How to use Linux graphic user interfaces, desktops, and window managers.
+
+"SKILSTAK", "SKILSTAK Beginner Boost", "SKILSTAK Boost", “Beginner Boost” and “Boost” are legal trademarks of Robert S. Muhlestein but can be used freely to refer to the this project without limitation.
