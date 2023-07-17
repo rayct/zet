@@ -1,5 +1,5 @@
 
-## (**LEGAL DISCLAIMER**) These notes refer to and are copied from SKILSTAK.IO, Which refer to the 2023 Skilstak Boost Project overview Page. All legal trademarks are of the author of of the Skilstak Project: Robert S. Muhlestein. (rwxrob)
+## (**LEGAL DISCLAIMER**) These notes refer to and are copied from the SKILSTAK.IO, 2023 Skilstak Boost project overview Page and are for my own personal and a non profit purpose. All legal trademarks remain under the author of the Skilstak Project: Robert S. Muhlestein. (rwxrob)
 
 Here's what we currently plan to cover over approximately 30 weeks in 2023 with an estimated completion date sometime around December 16th based on two hours per week (the least we have ever done per week). Most all are accomplished from the terminal command line (and not a graphic user interface):
 
