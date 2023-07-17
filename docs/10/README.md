@@ -2,9 +2,9 @@
 
 Here's what we currently plan to cover over approximately 30 weeks in 2023 with an estimated completion date sometime around December 16th based on two hours per week (the least we have ever done per week). Most all are accomplished from the terminal command line (and not a graphic user interface):
 
-!!! note "Consider waiting until we are done"
+## Note "Consider waiting until we are done"
 
-    Some people may find it better to simply wait until the entire 2023 Boost has completed so they can work as fast as they want through the material at their own pace---particularly if you are impatient and have a hard time with the informal, often disorganized way we work through the content.
+Some people may find it better to simply wait until the entire 2023 Boost has completed so they can work as fast as they want through the material at their own pace---particularly if you are impatient and have a hard time with the informal, often disorganized way we work through the content.
 
 ## Manage your learning
 
