@@ -1,0 +1,1 @@
+# Set up Mail and Sendmail or Mutt. (Perhaps Play around with both)
