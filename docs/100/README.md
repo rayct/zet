@@ -1,1 +1,2 @@
-# Set up Mail and Sendmail or Mutt. (Perhaps Play around with both)
+# Set up Mail and Sendmail or Mutt.
+(I will try both!)
