@@ -1,4 +1,9 @@
-# Prohramming Languages to explore
+# Programming Languages to explore
 
 1. Haskel
-2. Scada
+1. Scada
+1. C
+1. Python
+1. GO
+
+
