@@ -1,5 +1,5 @@
 # QEMU/KVM Libvirt - cli commands
-## Example uses Windows 10
+## Demonstration using Windows 10
 ### Windows 10 Download Link
 https://www.microsoft.com/en-us/software-download/windows10
 1. CLI line backup command
