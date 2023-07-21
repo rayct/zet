@@ -26,3 +26,8 @@
 
 1. Enter Password/Passphrase you created
 
+### Get and copy the public key
+
+`cat ~/.ssh/id_rsa.pub`
+
+
