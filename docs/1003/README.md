@@ -23,6 +23,7 @@ Now, in your Markdown files (e.g., `index.md`, `about.md`, etc.), you can use th
 For example:
 
 ```markdown
+
 # Welcome to My MkDocs Site
 
 This is some content for your page.
