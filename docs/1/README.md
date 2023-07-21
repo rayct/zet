@@ -1,4 +1,7 @@
-# Cloud Engineer vs DevOps Engineer
+# Techy Questions
+
+
+## Cloud Engineer vs DevOps Engineer
 ## Intro and why people mix up these two roles?
     - DevOps Engineer role
     - Different Objectives of DevOps and Cloud Engineer
