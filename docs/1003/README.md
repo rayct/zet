@@ -1,3 +1,5 @@
+
+
 To add a build date to the bottom of the page in MkDocs, you can use the MkDocs built-in feature called "Variables." Variables allow you to define custom variables in your MkDocs configuration file (usually named `mkdocs.yml`), and then reference those variables in your Markdown pages. Here's how you can add a build date using variables:
 
 Step 1: Configure `mkdocs.yml`:
