@@ -74,7 +74,7 @@
 
  `git config --local user.signingkey ****************`
 
-# BUG!... gpg failed to sign the data fatal: failed to write commit object [Git 2.10.0]
+# Important! BUG!... gpg failed to sign the data fatal: failed to write commit object [Git 2.10.0]
 ## TIP! "If gnupg2 and gpg-agent 2.x are used, be sure to set the environment variable GPG_TTY "
 `export GPG_TTY=$(tty)`
 
