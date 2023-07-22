@@ -93,3 +93,4 @@ https://www.gnupg.org/(it)/documentation/manuals/gnupg/Common-Problems.html
 1. Enter your passphrase/password to protect the key
 1. Now checkthe commit on your Githib page to see if it has been signed,
 
+**Documentation By:** `Ray C. TURNER`
