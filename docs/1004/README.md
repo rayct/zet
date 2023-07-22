@@ -52,10 +52,13 @@
 `gpg --list-secret-keys --keyid-format=long`
 
 ### Then export the GPG public key by using the key ID listed in the first column named sec.
+1. Copy Paste from example below for export
 `sec  rsa4096**************** 2022-10-12 [SC]`
 
+`gpg --armor --export ****************`
+
 1. Copy and paste the key listed after the rsa4096 (`****************`)
-1. Now copy the entire key over to your Github website under the **'Create a New GPG Key'** Section.
+2. Now copy the entire key over to your Github website under the **'Create a New GPG Key'** Section.
 
 ### Now make sure you are in the repo folder!
 
@@ -70,6 +73,19 @@
  1. Specify the ID of the key will be used
 
  `git config --local user.signingkey ****************`
+
+# BUG!... gpg failed to sign the data fatal: failed to write commit object [Git 2.10.0]
+## TIP! "If gnupg2 and gpg-agent 2.x are used, be sure to set the environment variable GPG_TTY "
+`export GPG_TTY=$(tty)`
+
+### Solution found at Stackoverflow
+https://stackoverflow.com/questions/39494631/gpg-failed-to-sign-the-data-fatal-failed-to-write-commit-object-git-2-10-0
+
+See GPG’s documentation about common problems.
+https://www.gnupg.org/(it)/documentation/manuals/gnupg/Common-Problems.html
+
+
+
 
 ### We will now test the config by commiting something.
 
