@@ -18,7 +18,7 @@ In this example, we've defined a variable named `build_date` with a date format 
 
 Step 2: Reference the variable in your Markdown pages:
 
-<!-- Now, in your Markdown files (e.g., `index.md`, `about.md`, etc.), you can use the variable by referencing it as `{% variable_name %}`. In our case, it's `{% build_date %}`. Place this reference at the bottom of your desired Markdown page. -->
+# Now, in your Markdown files (e.g., `index.md`, `about.md`, etc.), you can use the variable by referencing it as `{% variable_name %}`. In our case, it's `{% build_date %}`. Place this reference at the bottom of your desired Markdown page.
 
 For example:
 
