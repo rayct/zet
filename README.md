@@ -3,4 +3,4 @@ This is where I dump my knowledge as it happens, all my zettels ("slips" or note
 
 Everything is in docs or at https://rayct.github.io/zet
 
-Special Thanks to Robert S. Muhlestein (rwxrob) for Inspiring me to create this.
+A very Special Thank you to Robert S. Muhlestein (rwxrob) for Inspiring me to create this and for his supreme abilty and Intelect to educate the.
