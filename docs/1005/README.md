@@ -48,8 +48,7 @@ If anyone has also the same issue, check this article from Vmware. It solved for
     Click OK to close the Virtual Machine properties window.
 1. Power on the virtual machine.
 
-## The Third Industrial Revolution: A Radical New Sharing Economy
-    * https://www.youtube.com/watch?v=QX3M8Ka9vUA - min:31:00
+
 
 **Documentation By:** `Ray C. TURNER`
 
