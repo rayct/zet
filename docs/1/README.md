@@ -1,5 +1,9 @@
 # Techy Questions
 
+# 20% Aggregate Efficiency
+## By learning these two laws of energy that govern the universe it must be Incorporated into the Business education system, the 1st and 2nd laws of Thermaldynamics that Govern economic activity
+## Currently no Business School teaches the above.
+
 
 ## Cloud Engineer vs DevOps Engineer
 ## Intro and why people mix up these two roles?
