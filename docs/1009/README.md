@@ -22,3 +22,4 @@
     Type the Following Command
         1. 'ssh-keygen -f "/home/ray/.ssh/known_hosts" -R "192.168.1.84"`
 
+**Documentation By:** `Ray C. TURNER`

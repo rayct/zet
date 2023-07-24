@@ -27,3 +27,5 @@ Related:
    `ctl+a` then press `c`
 3. Switching Screens
    `ctl+A+A` You can hold down `ctl` double press `A` to switch screens.
+
+**Documentation By:** `Ray C. TURNER`
