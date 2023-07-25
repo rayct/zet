@@ -12,16 +12,16 @@ This 21st century smart digital infrastructure is giving rise to a radical new s
 
 To learn more visit: <a href="https://www.vice.com/en/topic/impact">Impact</a>
 
-Intro
+## Intro
 "The value of information does not survive the moment in which it was new.
 It lives only at that moment; it has to surrender to it completely
 and explain itself to it without losing any time." "A story is different. It does not expend itself.
 It preserves and concentrates its strength and is capable of releasing it even after a long time."
 — Walter Benjamin
 
-Vice Documentary Films IMPACT
-PRESENT THE THIRD INDUSTRIAL REVOLUTION
-A RADICAL NEW SHARING ECONOMY
+## Vice Documentary Films IMPACT
+## PRESENT THE THIRD INDUSTRIAL REVOLUTION
+## A RADICAL NEW SHARING ECONOMY
 
 The global economy is in crisis.
 Economists warn that we face another 20 years of declining productivity, slow growth, steep unemployment and increasing inequality.
@@ -967,3 +967,4 @@ And they say— There are eight or nine states that passed legislation now sayin
 profits don't have to be a first motive; therefore you won't risk hostile takeovers. So there's a lot of stuff moving, but it's difficult.
 So are you— I encourage you to do that. Take some risk. Don't sell out. That's what I'm saying.
 
+**Documentation By:** `Ray C. TURNER`
