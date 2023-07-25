@@ -28,4 +28,10 @@ Related:
 3. Switching Screens
    `ctl+A+A` You can hold down `ctl` double press `A` to switch screens.
 
+1. Detaching a Screen
+    `screen -d`
+
+1. Reattach a Screen
+    `screen -r`
+
 **Documentation By:** `Ray C. TURNER`
