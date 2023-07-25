@@ -27,12 +27,16 @@ The global economy is in crisis.
 Economists warn that we face another 20 years of declining productivity, slow growth, steep unemployment and increasing inequality.
 The economic downturn is fueling growing discontent toward governing institutions and spawning extreme political movements
 around the world.
+
 And now, after 200 years of industrial activity, scientists report that climate change is ravaging the planet, taking us into
 the sixth mass extinction of life on Earth.
+
 Where do we go from here?
+
 Jeremy Rifkin is an economic and social theorist and the author of over 20 books including "The Zero Marginal Cast Society," "The Third Industrial Revolution,"
 and "The Empathic Civilization." He is an advisor to the European Union and The People's Republic of China,
 and a principal architect of their Third Industrial Revolution plans.
+
 Let me start on a very somber note. I hope it will end up being a liberating reflection.
 You'll have to judge. GDP is slowing all over the world everywhere.
 And the reason is productivity has been declining for twenty years all over the world.
