@@ -1,18 +1,19 @@
 # Setup YouTube Channel "notes and Zettels"
 # Coming Soon! Hopefully in 2023/24
 
-# About Section Page
+# YouTube About Section Page
 ## Description
 ### Managed Services Provider (MSP)
 #### "IT Services, Tech Support, and Community"
 
-"As a tech professional, I am committed to passing on to the community what I have learned in 25+ years in the tech space."
+"As a tech professional, I am committed to passing on to the community what I have learned in 25+ years in the tech space. I aim to cover a range of topics, including how-tos, discussions, certification guides, and walkthroughs on various IT technologies, from Open Source projects to proprietary software. If you have any requests for specific topics, please feel free to contact me and let me know.
 
-"I aim to cover a range of topics, including how-tos, discussions, certification guides, and walkthroughs on various IT technologies, from Open Source projects to Proprietary software." 
+Interested in sponsoring RayC Tech Support? Email ray@rayturner.tech."
 
+---
 
-### DEFINITION
-Managed Services Provider (MSP)
+## DEFINITION
+### Managed Services Provider (MSP)
 
 Alexander S. Gillis, Technical Writer and EditorJohn Moore, Industry Editor
 What is a managed service provider?
