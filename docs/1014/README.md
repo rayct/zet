@@ -6,6 +6,8 @@
 ### Managed Services Provider (MSP)
 #### "IT Services, Tech Support, and Community"
 
+### Disclaimer:
+#### Content tends to be educational in nature.
 "As a tech professional, I am committed to passing on to the community what I have learned in 25+ years in the tech space. I aim to cover a range of topics, including how-tos, discussions, certification guides, and walkthroughs on various IT technologies, from Open Source projects to proprietary software. If you have any requests for specific topics, please feel free to contact me and let me know.
 
 Interested in sponsoring RayC Tech Support? Email ray@rayturner.tech."
