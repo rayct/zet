@@ -39,7 +39,7 @@ the services we need and we need to actually configure also xor to work with kvm
 
 
 
-# Note
+# Note!
 "FreeBSD is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix." FreeBSD differs from Linux in that it's a whole OS (Unix), from the kernel, drivers, software and documentation, whereas Linux offer the kernel and drivers only, and it's then up to the distribution to provide the rest (all distributions being derivatives of the GNU/Linux operating system). A different approach indeed.
 
 #### FreeBSD Handbook: <https://docs.freebsd.org/en/books/handbook/x11/#x11-wm>
