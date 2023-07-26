@@ -14,3 +14,5 @@
 Related:
 
 * <https://github.com/rwxrob/dot>
+
+**Documentation By:** `Ray C. TURNER`
