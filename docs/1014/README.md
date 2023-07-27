@@ -1,4 +1,4 @@
-# Setup YouTube Channel "notes and Zettels"
+# My YouTube Channel Setup "notes and Zettels"
 # Coming Soon! Hopefully in 2023/24
 
 # YouTube About Section Page
