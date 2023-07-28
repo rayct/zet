@@ -2,7 +2,7 @@
 
 **Upcoming Project - August 2023**
 
-Creating a full-fledged URL shortener with a SQL database and API involves several components. For simplicity, I'll guide you through building a basic version using Flask as the web framework, SQLite as the database, and a RESTful API to interact with the URL shortener. Note that this implementation is meant for learning purposes and may not be suitable for production use.
+Creating a full-fledged URL shortener with a SQL database and API involves several components. For simplicity, I'll guide you through building a basic version using `Flask` as the web framework, `SQLite` as the database, and a `RESTful API` to interact with the URL shortener. Note! that this implementation is meant for learning purposes and may not be suitable for production use.
 
 
 ## Implementation 1 - Python
@@ -125,12 +125,19 @@ python app.py
 
 Visit `http://127.0.0.1:5000/` in your browser, and you'll see a form where you can input your long URL. After submitting, the app will generate a short URL, store it in the database, and display it as a JSON response. When you visit the short URL, you will be redirected to the original long URL.
 
-This implementation covers the basics of a URL shortener with a SQL database endpoint and API using Flask. Keep in mind that in a real-world scenario, you'd need to add more robust error handling, user authentication, and possibly implement additional features for security and analytics.
+This implementation covers the basics of a URL shortener with a SQL database endpoint and API using Flask.
+
+**NOTE!...** Keep in mind that in a real-world scenario, you'd need to add more robust error handling, user authentication, and possibly implement additional features for security and analytics.
 
 
 ## Implementation 2 - GO
 
-Sure! Let's convert the simple URL shortener to Go (Golang). We'll use the Gorilla Mux router for handling routes and the standard "database/sql" package to work with an SQLite database. Make sure you have Go installed and have set up your workspace properly.
+* Stack
+    * GO
+    * Gorilla Mux Router
+    * SQLite
+
+Simple URL shortener in `Go (Golang).` We'll use the `Gorilla Mux router`for handling routes and the standard `"database/sql"` package to work with an `SQLite database.` Make sure you have `Go` installed and have set up your workspace properly.
 
 ### Create a new directory for your Go project and navigate into it.
 
@@ -294,4 +301,4 @@ go run main.go
 
 Now, visit `http://127.0.0.1:8080/` in your browser, and you'll see a form where you can input your long URL. After submitting, the app will generate a short URL, store it in the database, and display it as a JSON response. When you visit the short URL, you will be redirected to the original long URL.
 
-Remember, this is a basic implementation, and in a real-world scenario, you'd need to add more robust error handling, user authentication, and possibly implement additional features for security and analytics.
+**NOTE!...** Remember, this is a basic implementation, and in a real-world scenario, you'd need to add more robust error handling, user authentication, and possibly implement additional features for security and analytics.
