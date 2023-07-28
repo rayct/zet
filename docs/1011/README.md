@@ -49,7 +49,7 @@ Related:
 
     `screen -r`
 
-# TMUX
+# TMUX - Using a Custom `.conf`
 ### Note! The meta Key in TMUX is `ctl+b` as apposed to Screens `ctl+a`
 1. Create a new Screen
 
@@ -63,7 +63,9 @@ Related:
 
     `ctl+b` then press `w`
 
-# Turnng TMUX into Sscreen
+1. Split panes - Vertically
+
+    `ctl+a` then press `h` and `l` to go back and forth.
 
 
 **Documentation By:** `Raymond C. TURNER`
