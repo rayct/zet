@@ -5,6 +5,11 @@
 A simple URL shortner project witten in 5 different programming languages purely for comparison and performance measuring.
 
 ## Possible Languages Shortlist
+    * GO
+    * Python
+    * C
+    * JavaScript
+    * TypeScript
 
 ### Go
 Creating a full-fledged URL shortener is a complex task that involves handling database storage, HTTP server, and redirect logic. For the purpose of this example, I'll provide a simplified implementation of a URL shortener using Golang. This example will use an in-memory map as a simple database, but in a real-world scenario, you'd want to use a more robust database like MySQL or PostgreSQL.
