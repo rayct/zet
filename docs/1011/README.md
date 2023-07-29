@@ -67,5 +67,10 @@ Related:
 
     `ctl+a` then press `h` and `l` to go back and forth.
 
+1. Copy and Paste between panes
+   * `ctl+a` then press `[` to copy
+   * then switch panes as described above
+   * then `ctl+a` then `]` to paste in to next pane
+
 
 **Documentation By:** `Raymond C. TURNER`
