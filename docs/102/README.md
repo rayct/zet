@@ -66,7 +66,15 @@ To apply the changes without having to log out and log back in, run the followin
 source ~/.profile
 ```
 
-Step 7: Verify the installation (same as before)
+Step 7: Verify Go environment variables
+
+To check if the Go environment variables have been set correctly run:
+
+```bash
+go env
+```
+
+Step 8: Verify the installation (same as before)
 
 To check if Go is installed correctly, run:
 
