@@ -1,33 +1,44 @@
 # Social and Economic Theory
 ## The Third Industrial Revolution: A Radical New Sharing Economy
 
-The Social and Economic theorist: **'Jeremy Rifkin'**
-
-8,059,950 views  13 Feb 2018
-
 📺 <https://tinyurl.com/336f838x>
 
 To learn more visit: <a href="https://www.vice.com/en/topic/impact">Impact</a>
 
-# Intro
-"The value of information does not survive the moment in which it was new.
-It lives only at that moment; it has to surrender to it completely
-and explain itself to it without losing any time." "A story is different. It does not expend itself.
-It preserves and concentrates its strength and is capable of releasing it even after a long time."
-— Walter Benjamin
-Vice Documentary Films IMPACT
-PRESENT THE THIRD INDUSTRIAL REVOLUTION
-A RADICAL NEW SHARING ECONOMY
+8,061,161 views - Feb 13, 2018
+
+The Social and Economic theorist: **'Jeremy Rifkin'**
+
+***Jeremy Rifkin is an economic and social theorist and the author of over 20 books including "The Zero Marginal Cast Society," "The Third Industrial Revolution,"
+and "The Empathic Civilization." He is an advisor to the European Union and The People's Republic of China,
+and a principal architect of their Third Industrial Revolution plans.***
+
 The global economy is in crisis.
 Economists warn that we face another 20 years of declining productivity, slow growth, steep unemployment and increasing inequality.
-The economic downturn is fueling growing discontent toward governing institutions and spawning extreme political movements
-around the world.
-And now, after 200 years of industrial activity, scientists report that climate change is ravaging the planet, taking us into
-the sixth mass extinction of life on Earth.
+The economic downturn is fueling growing discontent toward governing institutions and spawning extreme political movements around the world.
+And now, after 200 years of industrial activity, scientists report that climate change is ravaging the planet, taking us into the sixth mass extinction of life on Earth.
+
 Where do we go from here?
-Jeremy Rifkin is an economic and social theorist and the author of over 20 books including "The Zero Marginal Cast Society," "The Third Industrial Revolution,"
-and "The Empathic Civilization." He is an advisor to the European Union and The People's Republic of China,
-and a principal architect of their Third Industrial Revolution plans.
+
+The exponential exhaustion of natural resources, declining productivity, slow growth, rising unemployment, and steep inequality, forces us to rethink our economic models. Where do we go from here? In this feature-length documentary, social and economic theorist Jeremy Rifkin lays out a road map to usher in a new economic system. 
+
+A Third Industrial Revolution is unfolding with the convergence of three pivotal technologies: an ultra-fast 5G communication internet, a renewable energy internet, and a driverless mobility internet, all connected to the Internet of Things embedded across society and the environment. 
+
+This 21st century smart digital infrastructure is giving rise to a radical new sharing economy that is transforming the way we manage, power and move economic life. But with climate change now ravaging the planet, it needs to happen fast. Change of this magnitude requires political will and a profound ideological shift. 
+
+"The value of information does not survive the moment in which it was new.
+It lives only at that moment; it has to surrender to it completely
+and explain itself to it without losing any time."
+
+"A story is different. It does not expend itself.
+It preserves and concentrates its strength and is capable of releasing it even after a long time."
+
+— Walter Benjamin
+
+
+
+
+## Intro
 Let me start on a very somber note. I hope it will end up being a liberating reflection.
 You'll have to judge. GDP is slowing all over the world everywhere.
 And the reason is productivity has been declining for twenty years all over the world.
@@ -702,247 +713,305 @@ And I always get silence. 'Cause the only other plan is to stay where we are and
 and an environmental abyss. But here's what I'd like to do: I'm gonna turn it over to you.
 Let's think about your sensibilities and find out if we can come to some common ground on how we can begin to move this from this little room
 out to all the larger communities and networks are in. Is that a deal?
-Who wants to start? Hello, my name is Lena. And my question will be related to technological unemployment.
-What is your take on that? We are moving to an automated world.
-There's no doubt about it. However, as I said during the talk, we've got two generations of massive employment,
-that's clear, to lay out this infrastructure. That's gonna require millions and millions of jobs. We know this on the ground as we're laying this out
-in Europe right now. It's a huge amount of jobs. Robots can't do it. AI can't do it. This is infrastructure shift.
-However, as this smart digital economy and society moves in,
-it can be run by very small supervisory workforces with analytics, big data, algorithms and apps
-—that's why we call it "smart world," "smart society," "smart economy." Then, what do we do once we have the smart society in
-and it's automated, running by analytics? We're not gonna pay people just to do nothing. We already know where the employment is going.
-And that is, as we continue to automate the market economy, employment is shifting to the nonprofit social economy
-and the sharing economy —we already know that. The nonprofit sector is the fastest growing
-employment sector right now in the world. It's about 9.5, 10% of the American employment—
-paid employments and nonprofit. Why is it heading there? Because, in the social economy, the nonprofit economy,
-and large sections of the sharing economy, social capital is as important as market capital.
-And, in this realm —the nonprofit realm, the social economy,
-the sharing economy— it requires human beings engaged with other human beings.
-Machines aren't only supplemental. We will never have a robot raising a child and interacting with them in a childcare center
-to develop their brain. It's never gonna happen. They may bring the lunch to the kid —the robot—
-but it's gonna require human beings working with those children. And whether it's in parts of healthcare
-and the knowledge industries, in cultural areas, humans with humans.
-The only other question is, how does this sector survive financially? Johns Hopkins University
-does a study of nonprofits in 40 countries every few years. And guess what they found: Over half the income for nonprofits
-which are one of the biggest employers now, comes with fees for services. If you're doing health research, you set up a health clinic.
-You get fees for services and then you can continue to do your nonprofit research.
-If we get any of this transition right, we automate the market, we move to social capital
-where we can use our minds much more expansively, so we can learn to live as a human family and steward each other steward our fellow creatures,
-steward the Earth. That's a much more noble mission. I believe that in order to create a better tomorrow,
-we also need to look at rehabilitating our psychology. Yeah, I'm in agreement with you.
-You know, and I have to say, our academic disciplines —I'm gonna step on more toes. The academic disciplines in our school systems are so moribund.
-It's dysfunctional. We have an internet generation that lives one way of life
-in terms of their mind outside the classroom, and another inside the classroom. In the classroom, for example, when we think about education,
-the first thing we realize is the classroom looks a little bit like a factory. These big, giant institutions.
-And the kid comes in there in 1st grade —a little boy or girl— and they immediately realize there's a central authority of the teacher,
-they have to be silent, if they share knowledge with each other it's called cheating, and they're expelled.
-And they learn that their mission is to be efficient, but only in the sense of being able to have the skills they need
-to follow orders and tend the machinery of the Industrial Revolution. Yet, an internet generation out of school—
-You're all sharing knowledge. The whole point of the Internet is to share your talents and skills,
-open-source, no intellectual property and begin to crowdsource the knowledge of the world together.
-That is so different than what you're getting in school. So let me say one thing about this. You know what we're doing in northern industrial France?
-All 7 universities have come together and 200 high schools, and the universities are led by Catholic University of Lille.
-Here's what they've done: all faculty now teach interdisciplinary so that you learn various perspectives
-and there's more than one way to look at things and you have to share a common language. No silence. Secondly, all the students now are put into modules,
-in teams, and they work with their teams and the students have to teach each other. The teacher becomes a facilitator and a guide,
-but the students have to teach each other. If they share knowledge, it's good—it's not cheating.
-Then they learn that knowledge is not power and something one possesses at the expense of the other.
-Knowledge is the shared experience you have as a social being. And the learning now is clinical.
-What's the good of learning if theory isn't brought together with practice? So their learning is clinical. They've taken service-learning, which you all did here,
-and they've elevated to pedagogy. So whatever you're learning, you have to apply it with your fellow citizens
-in the neighborhoods where these universities are. How do you like that? Catholic University of Lille.
-That's the revolution. I believe in the Darwinian theory of humanity being more Darwinian than utopian.
-What would you do about basically corruption and fraud? Let me be very clear: I am an anti-utopian.
-If you read my books, I don't believe in utopias. I don't like utopias. I think utopia is are dangerous.
-Our human spirit, the empathic spirit, is designed to show compassion to our frailties
-—our precarious existence.
-An empathic world is never a utopian world. Utopias are worlds that are perfect.
-There's no mortality, there's no pain, there's no suffering, and every moment is perfect.
-There's no such world. I looked through history and it says that the most civilized societies are the ones that can move empathy to larger reigns.
-And there's a history of that, of empathy. So I like an empathic world where we understand each other's frailties,
-we show compassion with each other's desires to flourish, we reach out to each other —and we do this every day.
-And when someone that we know is in joy, or pain, or suffering— We do this with our fellow creatures that are in trouble.
-It's the empathy that runs day to day life, not utopias. And I think George Frederick Hegel got it right.
-He wrote a little passage that I read 40 years ago. He said, "Happiness are the blank pages of history,
-because they are the periods of harmony." I thought, "What does that mean?" Over and over I kept thinking of it.
-Well, he's right because, when you read historians and you read their view of history,
-you think we're pretty pathological creatures. because historians always chronicle the mayhem, the genocides, the wars,
-the redress of social grievances because those moments are extraordinary, not ordinary. They imprint a stamp on us, they move us to fright and flight
-because they're so extraordinary their remembered for generations. But when you then chronicle all of history as if it's
-a series of these very very dysfunctional episodes in life, you get a pretty dire picture of the human race, correct?
-Happiness of the blank periods in history, where most of us, as we evolve our empathic concerns to larger social units,
-our day-to-day life is reaching out to each other in some ways to help, to show our concern, to provide our compassion.
-It's not the few —we do this as the multitudes. I'll give you an example: Cooperatives. You never hear about cooperatives in business school.
-There are banking cooperatives, and housing cooperatives, and agricultural cooperatives instruction cooperatives. In some countries they're the largest banks.
-They're the social housing. It's never mentioned in business school, because it's a different form. It's people coming together and sharing their destiny.
-This is the true sharing economy: Cooperatives. And that's why they're the engine, the vehicle for the new sharing economy.
-But they're never mentioned. Societies that are able to nurture the empathic sensitivities
-that are in our neural circuitry are the ones that don't have to worry as much about the secondary drives, which are
-brutality, and corruption, and all the bad things that go with them. So I have a little bit better picture in my mind
-of the evolution of the human race. What I'm suggesting is the next stage is biosphere consciousness. As we begin to see climate change impacting our entire community,
-and there's nowhere to escape, we begin to realize we're part of that community. And so we're getting our younger generations
-beginning to empathize with our fellow human beings and our fellow creatures in one biosphere. This is a hopeful narrative of the human race,
-with all the dark periods in between. So I hope you leave with that message—
-At least I believe that the history the human race is to overcome, and to transcend ourselves,
-and to empathize in larger social units until we see ourselves as part of one life force on the planet.
-I'm Tony. I think you might be coming up against something with these new corporate agreements that they want to force on us:
-TPP, TTIPS and so on. But they do seem to contain provisions that would
-put corporations that are at an advantage over governments —over elected governments. Well, let me give you a counter pose:
-There's another kind of agreement emerging with very different politics. President Xi and Premier Li introduced an idea called
-"Belt One..." "Belt One Road" —the Belt and Road initiative. This is a very different initiative because here's
-the US trying to isolate —if you will—China with its specific agreements; corporate led.
-And the belt road initiative is the idea of resurrecting the old Silk Road, from Shanghai to Rotterdam.
-But it requires a different sensibility. Originally it was designed just to get a railroad across
-the hinterlands, crossing the stands all the way into Europe and The Mediterranean, a route around the southern edge, and Italy.
-But then it quickly escalated to a conversation— Wait a minute! Europe's doing "Digital Europe,"
-the Internet of Things platform, 3rd Industrial Revolution, and that— It not only will be in the EU, but our partnership regions
-in the Mediterranean. That's a billion people market: 500 million in the Union, 500 million in our partnership regions
-in the Mediterranean and North Africa. China has a similar plan that we've worked with with them. It's identical, called "China Internet Plus."
-So the conversation quickly went to, "Wait a minute! Europe is China's largest trading partner.
-China is Europe's second largest trading partner. How about a belt road initiative from Shanghai to Rotterdam?
-That's now in deep conversation, but it requires a different sensibility. No one can control
-the Internet of Things platforms centrally, because it's designed to be distributed—
-that's the resiliency of the system. And so that, if anyone power or any nation across the region,
-you know, is going to try to control it from the top, you can't do it because you can go off-grid. And I think all the parties are aware of this.
-And in my dealings in Beijing, in Brussels, in Berlin, they're aware that this is a new partnership.
-It requires collaboration. You gotta share. You gotta share best practices. You gotta share the science and technology.
-You gotta get over the suspicion— Everyone benefits in a network. That's the—it's not geopolitics.
-It isn't, "We control. We close. And then we overpower you."
-It doesn't work in an Internet of Things world. You have to have it borderless. It has to be open. It has to allow you to have a distributed
-ability to go off and on when you want, and have block chains. So, I think this belt Road initiative is quite interesting because
-it may not just be for Eurasia. This may be a vision that would be, for a millennial generation,
-a vision that could move from the Americas, from Canada and the United States down to Chile—
-then you have really a distributed biosphere infrastructure revolution, not a traditional geopolitical revolution.
-And, therefore, it requires everyone to be involved, because everyone's a player.
-My name is Denille. How do you see your vision and what you've been talking about affecting large food systems
-in industrialized countries, as well as developing countries? You know how much energy the agricultural system uses?
-About a third of their cost —our energy costs. The fertilizers; those are fossil fuels.
-The pesticides; those are fossil fuels. The machinery; it's all run by fossil fuels.
-The packaging, the plastics; it's made out of fossil fuels. The water that they have to bring in to irrigate,
-the electricity grids; run by fossil fuel and nuclear power to move the water. So, if you wanna take a look at agriculture,
-it is a huge player. Not only that: The fertilizers emit nitrous oxides,
-which are much more potent in terms of their impact than CO₂.
-You know that 40%—I believe it is— of the land that's used for agriculture in the world today
-is to grow feed for animals? It takes at least 8 pounds of feed to create 1 pound of beef.
-That makes the transport industry look like super efficient. It's the most inefficient system we know on the food chain.
-If you look at pure injustice, you'd have to say the shift to a feed grain animal culture
-and a chemical farming culture for pasturing animals is one of the great injustices in the history of the world.
-Some of us live high up on the food chain; the rest are denied access to the land. We got to turn that around so,
-in Europe, we are interested in organic agriculture. We're interested in moving from pesticides and chemical agriculture
-to ecological agriculture, where we learn to live with the surrounding flora and fauna,
-and we find ways to encourage the flora and fauna to be able to be compatible with what we're growing.
-In the old chemical world, if it moves, kill it. Everything surrounding your crops should be killed.
-So we live in a chemical wasteland across the agricultural fields with runoff poisoning our water. It sounds shameful.
-So we wanna move to organic agriculture. We had mechanical agriculture in the 1st Industrial Revolution. It started late 1st Industrial Revolution.
-We had chemical agriculture in the 2nd Industrial Revolution. We need to have smart, organic, ecological agriculture
-in the 3rd Industrial Revolution, and we have to bring back regional and local agriculture that supports local communities.
-It's absurd to ship a tomato around the world. Ridiculous!
-Hi, I'm Rochelle. I was wondering if you could talk a little bit about water. And how water plays into this decentralized vision.
-How the privatization of water plays out. I was just hoping you could speak to that. There's only a small amount of water on this planet
-that's available for human reuse. Less than 1%; the rest is not available. There is a deep nexus between energy and water
-that's never, just never explained. You have to have energy to move water.
-And that is that 8% of all the energy we generate in the world —power— goes to extracting water,
-treating water, moving it through pipelines in water, and recycling the waste.
-But you need water to move energy. This isn't well known. And, that is, the energy industry uses—
-Over half of all the water we use goes to the power industries. Of all industries, over half.
-And this will surprise you: In France, which is 80% nuclear power,
-you know how much of the water they use for cooling off nuclear reactors in France? Almost 50% of all the fresh water consumed in France
-goes to cooling the nuclear reactors. Yeah, and when the water comes back, it's heated.
-So it's dehydrating ecosystems that are already facing drought for their agriculture. And now, sometimes the water is so hot
-because of climate change in the summer, they can't even use it to cool the nuclear reactors and they have to slow down the electricity.
-So what's the nexus? We have to begin to create a new plan,
-so that people get control over their water in a distributed system that brings water together with energy.
-I'll give you an example of why: If the electricity grid is disrupted —let's say one of the transformers,
-big electricity transformers, either through cyber crimes, cyber terrorism, or natural disaster goes down and your power goes down— there's no water.
-We're dead in three weeks. That's how vulnerable system is. That's why we have to build in resilience
-by keeping it so distributed. So what do we do? I'm in Hauts-de-France a couple of weeks ago. This little startup—
-They've taken a whole social housing complex, huge housing complex.
-They took the whole roof and turned it into a cistern. Why did they do that? Because the water falls, and as it falls,
-it generates electricity in a turbine. So they're using for electricity, but now we're saying, "Use it as a cistern."
-So if the power grid goes out and you can't get water, you're dead in a couple of weeks.
-You have the water right built-in to your home office and factory, on the roofs or nearby, you can share it in a cooperative.
-And then that water can be used, potable for fresh water. And then we're now talking with companies about...
-With housing, that you can take the water, use it for your toilet water,
-and you will be able to recycle it right back on site. So you can go distributed and decentralized
-when the real power grid goes out. They key to maintaining this system is it's distributed. If anything happens in one part of the system,
-you can go off. Well distributed and decentralized, and share your water, share your energy.
-So water and energy go together, and you've just hit —and I'm glad you said this— something that has really come to the top of the agenda for us now:
-How do we create a distributed water internet to go side-by-side with the energy internet? Very cool thinking.
-My name is Elizabeth and I just have a question for underdeveloped countries. How do they play a part in this whole 3rd Industrial Revolution?
-Can they sort of skip the gun, because they don't have an established infrastructure? Yeah, you just answered the question I was about to answer.
-Very good! Well here's what we realize, just what you said. What we finally realized is in the developing world,
-their liability is their key asset. Their liability is: they have no infrastructure.
-That's their asset. Because, it's easy to build virgin infrastructure, with new codes and regulations from scratch,
-than to take an old infrastructure with old codes and regulations and transform it. So what we're learning in the developing world
-is this can move more quickly. We saw the opportunity that the developing world can leapfrog right past
-the 1st and 2nd Industrial Revolution into the 3rd. So the United Nations has now embraced the 3rd Industrial Revolution narrative
-that we've just talked about tonight. The biggest problem in the developing world: No electricity.
-Ban Ki-moon has made this his pledge: Universal electricity. We got a billion people that have no electricity.
-They're in the dark. We have 40% of the human race with infrequent, not reliable electricity.
-And what keeps women enslaved in this world? It's no electricity.
-And what we see with these big families, in these patriarchal, brutal conditions, and male-oriented cultures? No electricity. Why?
-Because, with no electricity, women are the slaves, the children of the slaves, more children, more hands on deck
-that can actually carry the energy load. We forget the relationship between electricity and
-freeing women in the West. Women were the slaves at the hearth until electricity came in. Electricity freed women from that slavery, if you will,
-to go to school beyond the first 5 grades, and then electricity created new skills
-that didn't require upper-body strength, but up here. Electricity revolution created all sorts of new skills.
-And, when that happened, as women became more educated and more independent, and had the new skills of the 2nd Industrial Revolution?
-Fewer babies. You can give out millions of condoms; it'll make no difference, until you bring electricity into the developing world,
-free the women, and you have them get educated, and have them be recognized as half the human race.
-And what's interesting is the women are setting up these micro grids—a lot of it.
-So, you see it in rural Africa, they go into a village
-—it's happening in India, too— and small startups. They come in, they lease a solar panel on each roof.
-They give you a lease, and then they give you a cell phone. This is happening all across rural India and now sub-Sahara Africa.
-But instead of a big centralized grid then you go village, to village, to village and you create micro grids that are laterally scaled.
-This is going to take off very, very quickly—it already is. This is the smart social entrepreneurs of the next generation.
-This is why I'm really pleased to see this happen. It brings confidence that we can do better.
-I'm Ray, and I've been thinking during your whole talk about how do we overcome monopoly?
-We have to worry about a new kind of monopoly. Now, I'm gonna be honest with you: I love Google!
-It is the magic box! I'm now so lazy that anything that comes up, especially in my age, I ask the magic box.
-It is a great research engine. However, when everybody needs Google, and it's the only research engine,
-and it's our window to the research we need, it starts to look like a global monopoly,
-and it starts to look like a public utility. What did we do with successful businesses
-that had a product line that was so important that everybody needed it, and it was a public good.
-What did we do in the 2nd Industrial Revolution with the telephone industry? We, in America— In other parts of the world,
-the government took over a lot of it— but in America we kept them in the private sphere, like AT&T,
-but we regulated them as utilities. And we did this across the electricity utilities,
-the many of the power utilities. We regulated them. I think it's naive to believe that we won't do this.
-The Millennials and your children— This is the new political movement. You're gonna be asking the question: How do we get the best out of these new enterprises,
-but they have to be regulated as public goods, in the realm, so that we all we all ensure that we get equal access,
-that we have some control over our creative content and data, may be through block chains, and that we're able to secure our privacy, etc.
-Facebook? Same thing. When the whole human family has to come together on Facebook to communicate with each other, it's a great service,
-but it looks like a public good, it's a utility. And we're gonna have to have some kind of global authorities
-to regulate them. Does this make sense? This is the politics of your generation. This is the politics of the new 3rd Industrial Revolution.
-Hi, I'm Carlin. In the words of your Wharton alumni,
-how do we make America great again?
-Let me say something to take us from another corner. President Obama wanted a green economy.
-He spent billions and billions of dollars of our tax money for a green economy, and we don't have a green economy.
-Why did this happen? Because the mentality here in this country
-is all we need to do is use tax money to incentivize, 'cause we want a million Steve Jobs.
-So, what happened with President Obama is he would incentivize, give some money to a solar factory here,
-a battery factory over there... Incentivize. But you can't start with that.
-You have to start with incentivizing the infrastructure itself, which requires everybody coming together. Now, he made a very famous statement
-during his second presidential campaign, which got to the heart of it. You may recall that he was speaking of small businesses
-and he made an offhanded comment saying, "You didn't build that." Remember this comment? It went viral: "You didn't build that."
-And they went they went nuts. He was referring to infrastructure, and he was trying to say the infrastructure comes first.
-Then you can create your new businesses with it. The problem is, they went viral because the small business said,
-"No, we create America! It's the entrepreneurial spirit!" We've actually so dummy down our country
-that we actually have no idea how businesses feed off the infrastructure that come
-from public-private partnerships: government, industry, and civil society. Who do they think created the public school systems,
-so that we could train the workforces? Private businesses didn't do that. Who laid out the interstate highways with tax money?
-You think private businesses will lay out an interstate highway system with no lights from coast-to-coast?
-Who under wrote all the pipelines that had to bring in the electricity, the gas and the telephone industry?
-On and on and on... In fact, let's look at Steve Jobs! The fact is that most of the research that went into his smartphone
-was government-funded research; he marketed the product! But we've so dummy down
-that half the country or more doesn't want the government to do anything— They don't even want the government. This is the failure of the USA.
-We do not have a social market economy. Europe does; other parts of the world do.
-But, in America, we have this whole idea that it's just the entrepreneurial spirit.
-Let the companies rule, let the marketplace reign. This is our death now. Because, if we can't work together in each county, in each state
-with business, civil society, and academia, to lay out this platform and create the regulations codes and standards,
-then the new businesses come, then the new models plug in. So what I'm saying is, look to the infrastructure.
-And your millennial generation, it's up to you now to bring this sense of a social market economy
-back into the dialogue. We need government, we need business, we need the civil society,
-we need public capital, we need private capital, and we need social capital. All three equal players at the table.
+
+## **Q+A:**
+### Rethinking Employment in an Automated Economy
+??? question "Q1 - Technological Unemployment"  
+    **Question 1:**
+    Hello, my name is Lena. And my question will be related to technological unemployment. What is your take on that?
+
+    **Answer:**
+    We are moving to an automated world.
+    There's no doubt about it. However, as I said during the talk, we've got two generations of massive employment,
+    that's clear, to lay out this infrastructure. That's gonna require millions and millions of jobs. We know this on the ground as we're laying this out
+    in Europe right now. It's a huge amount of jobs. Robots can't do it. AI can't do it. This is infrastructure shift.
+    However, as this smart digital economy and society moves in,
+    it can be run by very small supervisory workforces with analytics, big data, algorithms and apps
+    —that's why we call it "smart world," "smart society," "smart economy." Then, what do we do once we have the smart society in
+    and it's automated, running by analytics? We're not gonna pay people just to do nothing. We already know where the employment is going.
+    And that is, as we continue to automate the market economy, employment is shifting to the nonprofit social economy
+    and the sharing economy —we already know that. The nonprofit sector is the fastest growing
+    employment sector right now in the world. It's about 9.5, 10% of the American employment—
+    paid employments and nonprofit. Why is it heading there? Because, in the social economy, the nonprofit economy,
+    and large sections of the sharing economy, social capital is as important as market capital.
+    And, in this realm —the nonprofit realm, the social economy,
+    the sharing economy— it requires human beings engaged with other human beings.
+    Machines aren't only supplemental. We will never have a robot raising a child and interacting with them in a childcare center
+    to develop their brain. It's never gonna happen. They may bring the lunch to the kid —the robot—
+    but it's gonna require human beings working with those children. And whether it's in parts of healthcare
+    and the knowledge industries, in cultural areas, humans with humans.
+    The only other question is, how does this sector survive financially? Johns Hopkins University
+    does a study of nonprofits in 40 countries every few years. And guess what they found: Over half the income for nonprofits
+    which are one of the biggest employers now, comes with fees for services. If you're doing health research, you set up a health clinic.
+    You get fees for services and then you can continue to do your nonprofit research.
+    If we get any of this transition right, we automate the market, we move to social capital
+    where we can use our minds much more expansively, so we can learn to live as a human family and steward each other steward our fellow creatures,
+    steward the Earth. That's a much more noble mission.
+
+### Peer to Peer Education
+??? question "Q2 - Peer to Peer Education"
+     **Question 2:**
+    I believe that in order to create a better tomorrow, we also need to look at rehabilitating our psychology.
+
+    **Answer:**
+    Yeah, I'm in agreement with you.
+    You know, and I have to say, our academic disciplines —I'm gonna step on more toes. The academic disciplines in our school systems are so moribund.
+    It's dysfunctional. We have an internet generation that lives one way of life
+    in terms of their mind outside the classroom, and another inside the classroom. In the classroom, for example, when we think about education,
+    the first thing we realize is the classroom looks a little bit like a factory. These big, giant institutions.
+    And the kid comes in there in 1st grade —a little boy or girl— and they immediately realize there's a central authority of the teacher,
+    they have to be silent, if they share knowledge with each other it's called cheating, and they're expelled.
+    And they learn that their mission is to be efficient, but only in the sense of being able to have the skills they need
+    to follow orders and tend the machinery of the Industrial Revolution. Yet, an internet generation out of school—
+    You're all sharing knowledge. The whole point of the Internet is to share your talents and skills,
+    open-source, no intellectual property and begin to crowdsource the knowledge of the world together.
+    That is so different than what you're getting in school. So let me say one thing about this. You know what we're doing in northern industrial France?
+    All 7 universities have come together and 200 high schools, and the universities are led by Catholic University of Lille.
+    Here's what they've done: all faculty now teach interdisciplinary so that you learn various perspectives
+    and there's more than one way to look at things and you have to share a common language. No silence. Secondly, all the students now are put into modules,
+    in teams, and they work with their teams and the students have to teach each other. The teacher becomes a facilitator and a guide,
+    but the students have to teach each other. If they share knowledge, it's good—it's not cheating.
+    Then they learn that knowledge is not power and something one possesses at the expense of the other.
+    Knowledge is the shared experience you have as a social being. And the learning now is clinical.
+    What's the good of learning if theory isn't brought together with practice? So their learning is clinical. They've taken service-learning, which you all did here,
+    and they've elevated to pedagogy. So whatever you're learning, you have to apply it with your fellow citizens
+    in the neighborhoods where these universities are. How do you like that? Catholic University of Lille.
+    That's the revolution.
+
+### An Empathic Counter-Narrative
+??? question "Q3 - An Empathic Counter-Narrative"
+    **Question: 3**
+    "I believe in the Darwinian theory of humanity being more Darwinian than utopian.What would you do about basically corruption and fraud?"
+
+    **Answer:**
+    Let me be very clear: I am an anti-utopian.
+    If you read my books, I don't believe in utopias. I don't like utopias. I think utopia is are dangerous.
+    Our human spirit, the empathic spirit, is designed to show compassion to our frailties
+    —our precarious existence.
+    An empathic world is never a utopian world. Utopias are worlds that are perfect.
+    There's no mortality, there's no pain, there's no suffering, and every moment is perfect.
+    There's no such world. I looked through history and it says that the most civilized societies are the ones that can move empathy to larger reigns.
+    And there's a history of that, of empathy. So I like an empathic world where we understand each other's frailties,
+    we show compassion with each other's desires to flourish, we reach out to each other —and we do this every day.
+    And when someone that we know is in joy, or pain, or suffering— We do this with our fellow creatures that are in trouble.
+    It's the empathy that runs day to day life, not utopias. And I think George Frederick Hegel got it right.
+    He wrote a little passage that I read 40 years ago. He said, "Happiness are the blank pages of history,
+    because they are the periods of harmony." I thought, "What does that mean?" Over and over I kept thinking of it.
+    Well, he's right because, when you read historians and you read their view of history,
+    you think we're pretty pathological creatures. because historians always chronicle the mayhem, the genocides, the wars,
+    the redress of social grievances because those moments are extraordinary, not ordinary. They imprint a stamp on us, they move us to fright and flight
+    because they're so extraordinary their remembered for generations. But when you then chronicle all of history as if it's
+    a series of these very very dysfunctional episodes in life, you get a pretty dire picture of the human race, correct?
+    Happiness of the blank periods in history, where most of us, as we evolve our empathic concerns to larger social units,
+    our day-to-day life is reaching out to each other in some ways to help, to show our concern, to provide our compassion.
+    It's not the few —we do this as the multitudes. I'll give you an example: Cooperatives. You never hear about cooperatives in business school.
+    There are banking cooperatives, and housing cooperatives, and agricultural cooperatives instruction cooperatives. In some countries they're the largest banks.
+    They're the social housing. It's never mentioned in business school, because it's a different form. It's people coming together and sharing their destiny.
+    This is the true sharing economy: Cooperatives. And that's why they're the engine, the vehicle for the new sharing economy.
+    But they're never mentioned. Societies that are able to nurture the empathic sensitivities
+    that are in our neural circuitry are the ones that don't have to worry as much about the secondary drives, which are
+    brutality, and corruption, and all the bad things that go with them. So I have a little bit better picture in my mind
+    of the evolution of the human race. What I'm suggesting is the next stage is biosphere consciousness. As we begin to see climate change impacting our entire community,
+    and there's nowhere to escape, we begin to realize we're part of that community. And so we're getting our younger generations
+    beginning to empathize with our fellow human beings and our fellow creatures in one biosphere. This is a hopeful narrative of the human race,
+    with all the dark periods in between. So I hope you leave with that message—
+    At least I believe that the history the human race is to overcome, and to transcend ourselves,
+    and to empathize in larger social units until we see ourselves as part of one life force on the planet.
+
+### A Biosphere Trade Agreement
+??? question "Q4 - A Biosphere Trade Agreement"
+    **Question: 4**
+    "I'm Tony. I think you might be coming up against something with these new corporate agreements that they want to force on us: TPP, TTIPS and so on. But they do seem to contain provisions that would put corporations that are at an advantage over governments —over elected governments".
+
+    **Answer:**
+    Well, let me give you a counter pose:
+    There's another kind of agreement emerging with very different politics. President Xi and Premier Li introduced an idea called
+    "Belt One..." "Belt One Road" —the Belt and Road initiative. This is a very different initiative because here's
+    the US trying to isolate —if you will—China with its specific agreements; corporate led.
+    And the belt road initiative is the idea of resurrecting the old Silk Road, from Shanghai to Rotterdam.
+    But it requires a different sensibility. Originally it was designed just to get a railroad across
+    the hinterlands, crossing the stands all the way into Europe and The Mediterranean, a route around the southern edge, and Italy.
+    But then it quickly escalated to a conversation— Wait a minute! Europe's doing "Digital Europe,"
+    the Internet of Things platform, 3rd Industrial Revolution, and that— It not only will be in the EU, but our partnership regions
+    in the Mediterranean. That's a billion people market: 500 million in the Union, 500 million in our partnership regions
+    in the Mediterranean and North Africa. China has a similar plan that we've worked with with them. It's identical, called "China Internet Plus."
+    So the conversation quickly went to, "Wait a minute! Europe is China's largest trading partner.
+    China is Europe's second largest trading partner. How about a belt road initiative from Shanghai to Rotterdam?
+    That's now in deep conversation, but it requires a different sensibility. No one can control
+    the Internet of Things platforms centrally, because it's designed to be distributed—
+    that's the resiliency of the system. And so that, if anyone power or any nation across the region,
+    you know, is going to try to control it from the top, you can't do it because you can go off-grid. And I think all the parties are aware of this.
+    And in my dealings in Beijing, in Brussels, in Berlin, they're aware that this is a new partnership.
+    It requires collaboration. You gotta share. You gotta share best practices. You gotta share the science and technology.
+    You gotta get over the suspicion— Everyone benefits in a network. That's the—it's not geopolitics.
+    It isn't, "We control. We close. And then we overpower you."
+    It doesn't work in an Internet of Things world. You have to have it borderless. It has to be open. It has to allow you to have a distributed
+    ability to go off and on when you want, and have block chains. So, I think this belt Road initiative is quite interesting because
+    it may not just be for Eurasia. This may be a vision that would be, for a millennial generation,
+    a vision that could move from the Americas, from Canada and the United States down to Chile—
+    then you have really a distributed biosphere infrastructure revolution, not a traditional geopolitical revolution.
+    And, therefore, it requires everyone to be involved, because everyone's a player.
+
+### Ecological Agriculture
+??? question "Q5: Ecological Agriculture"
+    **Question: 5** 
+    "My name is Denille. How do you see your vision and what you've been talking about affecting large food systems
+    in industrialized countries, as well as developing countries? You know how much energy the agricultural system uses?"
+    **Answer:**
+    About a third of their cost —our energy costs. The fertilizers; those are fossil fuels.
+    The pesticides; those are fossil fuels. The machinery; it's all run by fossil fuels.
+    The packaging, the plastics; it's made out of fossil fuels. The water that they have to bring in to irrigate,
+    the electricity grids; run by fossil fuel and nuclear power to move the water. So, if you wanna take a look at agriculture,
+    it is a huge player. Not only that: The fertilizers emit nitrous oxides,
+    which are much more potent in terms of their impact than CO₂.
+    You know that 40%—I believe it is— of the land that's used for agriculture in the world today
+    is to grow feed for animals? It takes at least 8 pounds of feed to create 1 pound of beef.
+    That makes the transport industry look like super efficient. It's the most inefficient system we know on the food chain.
+    If you look at pure injustice, you'd have to say the shift to a feed grain animal culture
+    and a chemical farming culture for pasturing animals is one of the great injustices in the history of the world.
+    Some of us live high up on the food chain; the rest are denied access to the land. We got to turn that around so,
+    in Europe, we are interested in organic agriculture. We're interested in moving from pesticides and chemical agriculture
+    to ecological agriculture, where we learn to live with the surrounding flora and fauna,
+    and we find ways to encourage the flora and fauna to be able to be compatible with what we're growing.
+    In the old chemical world, if it moves, kill it. Everything surrounding your crops should be killed.
+    So we live in a chemical wasteland across the agricultural fields with runoff poisoning our water. It sounds shameful.
+    So we wanna move to organic agriculture. We had mechanical agriculture in the 1st Industrial Revolution. It started late 1st Industrial Revolution.
+    We had chemical agriculture in the 2nd Industrial Revolution. We need to have smart, organic, ecological agriculture
+    in the 3rd Industrial Revolution, and we have to bring back regional and local agriculture that supports local communities.
+    It's absurd to ship a tomato around the world. Ridiculous!
+
+### The Water-Energy Nexus
+??? question "Q6: The Water-Energy Nexus"
+    **Question: 6**
+    "Hi, I'm Rochelle. I was wondering if you could talk a little bit about water. And how water plays into this decentralized vision.
+    How the privatization of water plays out. I was just hoping you could speak to that".
+
+    **Answer:** 
+    There's only a small amount of water on this planet
+    that's available for human reuse. Less than 1%; the rest is not available. There is a deep nexus between energy and water
+    that's never, just never explained. You have to have energy to move water.
+    And that is that 8% of all the energy we generate in the world —power— goes to extracting water,
+    treating water, moving it through pipelines in water, and recycling the waste.
+    But you need water to move energy. This isn't well known. And, that is, the energy industry uses—
+    Over half of all the water we use goes to the power industries. Of all industries, over half.
+    And this will surprise you: In France, which is 80% nuclear power,
+    you know how much of the water they use for cooling off nuclear reactors in France? Almost 50% of all the fresh water consumed in France
+    goes to cooling the nuclear reactors. Yeah, and when the water comes back, it's heated.
+    So it's dehydrating ecosystems that are already facing drought for their agriculture. And now, sometimes the water is so hot
+    because of climate change in the summer, they can't even use it to cool the nuclear reactors and they have to slow down the electricity.
+    So what's the nexus? We have to begin to create a new plan,
+    so that people get control over their water in a distributed system that brings water together with energy.
+    I'll give you an example of why: If the electricity grid is disrupted —let's say one of the transformers,
+    big electricity transformers, either through cyber crimes, cyber terrorism, or natural disaster goes down and your power goes down— there's no water.
+    We're dead in three weeks. That's how vulnerable system is. That's why we have to build in resilience
+    by keeping it so distributed. So what do we do? I'm in Hauts-de-France a couple of weeks ago. This little startup—
+    They've taken a whole social housing complex, huge housing complex.
+    They took the whole roof and turned it into a cistern. Why did they do that? Because the water falls, and as it falls,
+    it generates electricity in a turbine. So they're using for electricity, but now we're saying, "Use it as a cistern."
+    So if the power grid goes out and you can't get water, you're dead in a couple of weeks.
+    You have the water right built-in to your home office and factory, on the roofs or nearby, you can share it in a cooperative.
+    And then that water can be used, potable for fresh water. And then we're now talking with companies about...
+    With housing, that you can take the water, use it for your toilet water,
+    and you will be able to recycle it right back on site. So you can go distributed and decentralized
+    when the real power grid goes out. They key to maintaining this system is it's distributed. If anything happens in one part of the system,
+    you can go off. Well distributed and decentralized, and share your water, share your energy.
+    So water and energy go together, and you've just hit —and I'm glad you said this— something that has really come to the top of the agenda for us now:
+    How do we create a distributed water internet to go side-by-side with the energy internet? Very cool thinking.
+
+### Leapfrogging Poverty in the Developing World
+??? question "Q7: Leapfrogging Poverty in the Developing World"
+    **Question: 7**
+    "My name is Elizabeth and I just have a question for underdeveloped countries. How do they play a part in this whole 3rd Industrial Revolution?
+    Can they sort of skip the gun, because they don't have an established infrastructure?"
+
+    **Answer**
+    Yeah, you just answered the question I was about to answer.
+    Very good! Well here's what we realize, just what you said. What we finally realized is in the developing world,
+    their liability is their key asset. Their liability is: they have no infrastructure.
+    That's their asset. Because, it's easy to build virgin infrastructure, with new codes and regulations from scratch,
+    than to take an old infrastructure with old codes and regulations and transform it. So what we're learning in the developing world
+    is this can move more quickly. We saw the opportunity that the developing world can leapfrog right past
+    the 1st and 2nd Industrial Revolution into the 3rd. So the United Nations has now embraced the 3rd Industrial Revolution narrative
+    that we've just talked about tonight. The biggest problem in the developing world: No electricity.
+    Ban Ki-moon has made this his pledge: Universal electricity. We got a billion people that have no electricity.
+    They're in the dark. We have 40% of the human race with infrequent, not reliable electricity.
+    And what keeps women enslaved in this world? It's no electricity.
+    And what we see with these big families, in these patriarchal, brutal conditions, and male-oriented cultures? No electricity. Why?
+    Because, with no electricity, women are the slaves, the children of the slaves, more children, more hands on deck
+    that can actually carry the energy load. We forget the relationship between electricity and
+    freeing women in the West. Women were the slaves at the hearth until electricity came in. Electricity freed women from that slavery, if you will,
+    to go to school beyond the first 5 grades, and then electricity created new skills
+    that didn't require upper-body strength, but up here. Electricity revolution created all sorts of new skills.
+    And, when that happened, as women became more educated and more independent, and had the new skills of the 2nd Industrial Revolution?
+    Fewer babies. You can give out millions of condoms; it'll make no difference, until you bring electricity into the developing world,
+    free the women, and you have them get educated, and have them be recognized as half the human race.
+    And what's interesting is the women are setting up these micro grids—a lot of it.
+    So, you see it in rural Africa, they go into a village
+    —it's happening in India, too— and small startups. They come in, they lease a solar panel on each roof.
+    They give you a lease, and then they give you a cell phone. This is happening all across rural India and now sub-Sahara Africa.
+    But instead of a big centralized grid then you go village, to village, to village and you create micro grids that are laterally scaled.
+    This is going to take off very, very quickly—it already is. This is the smart social entrepreneurs of the next generation.
+    This is why I'm really pleased to see this happen. It brings confidence that we can do better.
+
+### The New Digital Monopolies
+??? question "Q8: The New Digital Monopolies"
+    **Question**
+    "I'm Ray, and I've been thinking during your whole talk about how do we overcome monopoly?"
+    **Answer**
+    We have to worry about a new kind of monopoly. Now, I'm gonna be honest with you: I love Google!
+    It is the magic box! I'm now so lazy that anything that comes up, especially in my age, I ask the magic box.
+    It is a great research engine. However, when everybody needs Google, and it's the only research engine,
+    and it's our window to the research we need, it starts to look like a global monopoly,
+    and it starts to look like a public utility. What did we do with successful businesses
+    that had a product line that was so important that everybody needed it, and it was a public good.
+    What did we do in the 2nd Industrial Revolution with the telephone industry? We, in America— In other parts of the world,
+    the government took over a lot of it— but in America we kept them in the private sphere, like AT&T,
+    but we regulated them as utilities. And we did this across the electricity utilities,
+    the many of the power utilities. We regulated them. I think it's naive to believe that we won't do this.
+    The Millennials and your children— This is the new political movement. You're gonna be asking the question: How do we get the best out of these new enterprises,
+    but they have to be regulated as public goods, in the realm, so that we all we all ensure that we get equal access,
+    that we have some control over our creative content and data, may be through block chains, and that we're able to secure our privacy, etc.
+    Facebook? Same thing. When the whole human family has to come together on Facebook to communicate with each other, it's a great service,
+    but it looks like a public good, it's a utility. And we're gonna have to have some kind of global authorities
+    to regulate them. Does this make sense? This is the politics of your generation. This is the politics of the new 3rd Industrial Revolution.
+
+### America at the Crossroads
+??? Question "Q9: America at the Crossroads"
+    **Question**
+    "Hi, I'm Carlin. In the words of your Wharton alumni,
+    how do we make America great again?"
+
+    **Answer**
+    Let me say something to take us from another corner. President Obama wanted a green economy.
+    He spent billions and billions of dollars of our tax money for a green economy, and we don't have a green economy.
+    Why did this happen? Because the mentality here in this country
+    is all we need to do is use tax money to incentivize, 'cause we want a million Steve Jobs.
+    So, what happened with President Obama is he would incentivize, give some money to a solar factory here,
+    a battery factory over there... Incentivize. But you can't start with that.
+    You have to start with incentivizing the infrastructure itself, which requires everybody coming together. Now, he made a very famous statement
+    during his second presidential campaign, which got to the heart of it. You may recall that he was speaking of small businesses
+    and he made an offhanded comment saying, "You didn't build that." Remember this comment? It went viral: "You didn't build that."
+    And they went they went nuts. He was referring to infrastructure, and he was trying to say the infrastructure comes first.
+    Then you can create your new businesses with it. The problem is, they went viral because the small business said,
+    "No, we create America! It's the entrepreneurial spirit!" We've actually so dummy down our country
+    that we actually have no idea how businesses feed off the infrastructure that come
+    from public-private partnerships: government, industry, and civil society. Who do they think created the public school systems,
+    so that we could train the workforces? Private businesses didn't do that. Who laid out the interstate highways with tax money?
+    You think private businesses will lay out an interstate highway system with no lights from coast-to-coast?
+    Who under wrote all the pipelines that had to bring in the electricity, the gas and the telephone industry?
+    On and on and on... In fact, let's look at Steve Jobs! The fact is that most of the research that went into his smartphone
+    was government-funded research; he marketed the product! But we've so dummy down
+    that half the country or more doesn't want the government to do anything— They don't even want the government. This is the failure of the USA.
+    We do not have a social market economy. Europe does; other parts of the world do.
+    But, in America, we have this whole idea that it's just the entrepreneurial spirit.
+    Let the companies rule, let the marketplace reign. This is our death now. Because, if we can't work together in each county, in each state
+    with business, civil society, and academia, to lay out this platform and create the regulations codes and standards,
+    then the new businesses come, then the new models plug in. So what I'm saying is, look to the infrastructure.
+    And your millennial generation, it's up to you now to bring this sense of a social market economy
+    back into the dialogue. We need government, we need business, we need the civil society,
+    we need public capital, we need private capital, and we need social capital. All three equal players at the table.
+
+### Epilouge
 So, here's what I will say in closing: I know you get frustrated and sometimes you think,
 "My Gosh, it's going too slow!" But now's the time to redouble your efforts. We all have to really come together.
 We've got one generation —yours— to lay down this new consciousness, this biosphere for consciousness.
@@ -966,6 +1035,9 @@ so when your grandchildren look back at you they can say you did the right thing
 got us off carbon, helped show our proper respect to generations not yet here,
 including our fellow creatures. Thank you. Good night.
 Join us.
+### America at the Crossroads
+??? Question "Q9: America at the Crossroads"
+    **Question**    
 —Hi. —Hi, I'm Kelsey. I study Design and Technology. What I wanted to say is that—
 —You're at Parsons? —No, SVA. But, like, the real problem is that, a lot of people who have this passion
 and who, like, really do care about this stuff— We're getting purchased out, and... —Yeah. —So, the real thing is, like,
