@@ -29,7 +29,7 @@ Step 3: Install Go
 Now that you have the Go binary tarball, you can extract it and install Go:
 
 ```bash
-sudo tar -C /usr/local -xzf go1.17.1.linux-armv6l.tar.gz
+sudo tar -C /usr/local -xzf go1.20.6.linux-arm64.tar.gz
 ```
 
 Step 4: Set Go environment variables
