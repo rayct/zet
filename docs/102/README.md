@@ -15,15 +15,14 @@ Visit the official Go website (https://golang.org/dl/) and find the latest stabl
 
 For example, at the time of my last update, you might download Go version 1.17.1 for ARMv6l with the following command:
 
-* You can fetch Using `wget` or `cURL` as listed below
+You can fetch Using `wget` or `cURL` as listed below
 
-    * ```bash
-        wget https://golang.org/dl/go1.17.1.linux-armv6l.tar.gz
-        ```
-
-    * ```bash
-        curl -O https://golang.org/dl/go1.17.1.linux-armv6l.tar.gz
-    ```
+ ```bash
+wget https://go.dev/dl/go1.20.6.linux-arm64.tar.gz
+```
+ ```bash
+curl -O https://go.dev/dl/go1.20.6.linux-arm64.tar.gz
+```
 
 Step 3: Install Go
 
