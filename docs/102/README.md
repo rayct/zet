@@ -15,7 +15,7 @@ Visit the official Go website (https://golang.org/dl/) and find the latest stabl
 For example, at the time of my last update, you might download `Go` version 1.20.6 for ARMv6l with the following `curl` command:
 
 ```bash
-curl -L -O https://golang.org/dl/go1.20.6.linux-armv6l.tar.gz
+curl -L -O https://golang.org/dl/go1.20.6.linux-arm64.tar.gz
 ```
 
 Step 3: Verify the downloaded file
@@ -23,7 +23,7 @@ Step 3: Verify the downloaded file
 After downloading the file, verify if it is not corrupted by running the `file` command:
 
 ```bash
-file go1.20.6.linux-armv6l.tar.gz
+file go1.20.6.linux-arm64.tar.gz
 ```
 
 You should see something like this if the file is valid:
@@ -37,7 +37,7 @@ Step 4: Install Go
 Now, proceed with the installation by extracting the tarball:
 
 ```bash
-sudo tar -C /usr/local -xzf go1.20.6.linux-armv6l.tar.gz
+sudo tar -C /usr/local -xzf go1.20.6.linux-arm64.tar.gz
 ```
 
 Step 5: Set Go environment variables (same as before)
