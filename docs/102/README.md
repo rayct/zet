@@ -12,10 +12,10 @@ Step 2: Use `curl` to download the Go binary
 
 Visit the official Go website (https://golang.org/dl/) and find the latest stable version of Go for ARM architecture. Look for the "Linux ARMv6l" architecture, which is the architecture used in most Raspberry Pi models.
 
-For example, at the time of my last update, you might download Go version 1.17.1 for ARMv6l with the following `curl` command:
+For example, at the time of my last update, you might download `Go` version 1.20.6 for ARMv6l with the following `curl` command:
 
 ```bash
-curl -L -O https://golang.org/dl/go1.17.1.linux-armv6l.tar.gz
+curl -L -O https://golang.org/dl/go1.20.6.linux-armv6l.tar.gz
 ```
 
 Step 3: Verify the downloaded file
@@ -23,13 +23,13 @@ Step 3: Verify the downloaded file
 After downloading the file, verify if it is not corrupted by running the `file` command:
 
 ```bash
-file go1.17.1.linux-armv6l.tar.gz
+file go1.20.6.linux-armv6l.tar.gz
 ```
 
 You should see something like this if the file is valid:
 
 ```
-go1.17.1.linux-armv6l.tar.gz: gzip compressed data, from Unix, original size modulo 2^32 691861248
+go1.20.6.linux-armv6l.tar.gz: gzip compressed data, from Unix, original size modulo 2^32 691861248
 ```
 
 Step 4: Install Go
@@ -37,7 +37,7 @@ Step 4: Install Go
 Now, proceed with the installation by extracting the tarball:
 
 ```bash
-sudo tar -C /usr/local -xzf go1.17.1.linux-armv6l.tar.gz
+sudo tar -C /usr/local -xzf go1.20.6.linux-armv6l.tar.gz
 ```
 
 Step 5: Set Go environment variables (same as before)
