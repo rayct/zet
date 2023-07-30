@@ -1,40 +1,46 @@
 ## Go programming language Installion on a Raspberry Pi using the following steps:
 
-Step 1: Update and upgrade the system
 
-Before installing any new software, it's a good idea to ensure that your Raspberry Pi is up-to-date. Open a terminal window and run the following commands:
+Step 1: Update and upgrade the system (same as before)
 
 ```bash
 sudo apt update
 sudo apt upgrade
 ```
 
-Step 2: Download the Go binary
+Step 2: Use `curl` to download the Go binary
 
 Visit the official Go website (https://golang.org/dl/) and find the latest stable version of Go for ARM architecture. Look for the "Linux ARMv6l" architecture, which is the architecture used in most Raspberry Pi models.
 
-For example, at the time of my last update, you might download Go version 1.17.1 for ARMv6l with the following command:
-
-You can fetch Using `wget` or `cURL` as listed below
-
- ```bash
-wget https://go.dev/dl/go1.20.6.linux-armv6l.tar.gz
-```
- ```bash
-curl -O https://go.dev/dl/go1.20.6.linux-armv6l.tar.gz
-```
-
-Step 3: Install Go
-
-Now that you have the Go binary tarball, you can extract it and install Go:
+For example, at the time of my last update, you might download Go version 1.17.1 for ARMv6l with the following `curl` command:
 
 ```bash
-sudo tar -C /usr/local -xzf go1.20.6.linux-armv6l.tar.gz
+curl -L -O https://golang.org/dl/go1.17.1.linux-armv6l.tar.gz
 ```
 
-Step 4: Set Go environment variables
+Step 3: Verify the downloaded file
 
-You need to set the `PATH` and `GOPATH` environment variables so that Go commands are available in your terminal.
+After downloading the file, verify if it is not corrupted by running the `file` command:
+
+```bash
+file go1.17.1.linux-armv6l.tar.gz
+```
+
+You should see something like this if the file is valid:
+
+```
+go1.17.1.linux-armv6l.tar.gz: gzip compressed data, from Unix, original size modulo 2^32 691861248
+```
+
+Step 4: Install Go
+
+Now, proceed with the installation by extracting the tarball:
+
+```bash
+sudo tar -C /usr/local -xzf go1.17.1.linux-armv6l.tar.gz
+```
+
+Step 5: Set Go environment variables (same as before)
 
 Edit your `~/.profile` or `~/.bashrc` file using a text editor like `nano`:
 
@@ -52,7 +58,7 @@ export PATH=$PATH:$GOPATH/bin
 
 Save and exit the text editor (press `CTRL + X`, then `Y`, and finally `ENTER`).
 
-Step 5: Refresh the environment variables
+Step 6: Refresh the environment variables (same as before)
 
 To apply the changes without having to log out and log back in, run the following command in the terminal:
 
@@ -60,7 +66,7 @@ To apply the changes without having to log out and log back in, run the followin
 source ~/.profile
 ```
 
-Step 6: Verify the installation
+Step 7: Verify the installation (same as before)
 
 To check if Go is installed correctly, run:
 
@@ -70,6 +76,6 @@ go version
 
 You should see the installed Go version printed in the terminal.
 
-That's it! You've successfully installed Go on your Raspberry Pi.
+If you encounter any issues, please double-check the downloaded file's integrity and make sure you have the correct download URL for the ARMv6l architecture.
 
-Please note that the version numbers and download URLs may have changed since my last update, so make sure to check the official Go website for the most recent version available for ARM architecture.
+**Documentation By:** `Raymond C. TURNER`
