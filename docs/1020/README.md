@@ -15,3 +15,9 @@
     * Oolong Tea every morning and evening, especially after meals for digestion.
     * Green Tea + Fruit Tea
     * Regular 
+    * Sushi
+    * Salmon
+    * Advacados
+    * Olives (Black)
+    * Tomms
+    * Carbonated Water
