@@ -18,10 +18,10 @@ For example, at the time of my last update, you might download Go version 1.17.1
 You can fetch Using `wget` or `cURL` as listed below
 
  ```bash
-wget https://go.dev/dl/go1.20.6.linux-arm64.tar.gz
+wget https://go.dev/dl/go1.20.6.linux-armv6l.tar.gz
 ```
  ```bash
-curl -O https://go.dev/dl/go1.20.6.linux-arm64.tar.gz
+curl -O https://go.dev/dl/go1.20.6.linux-armv6l.tar.gz
 ```
 
 Step 3: Install Go
@@ -29,7 +29,7 @@ Step 3: Install Go
 Now that you have the Go binary tarball, you can extract it and install Go:
 
 ```bash
-sudo tar -C /usr/local -xzf go1.20.6.linux-arm64.tar.gz
+sudo tar -C /usr/local -xzf go1.20.6.linux-armv6l.tar.gz
 ```
 
 Step 4: Set Go environment variables
