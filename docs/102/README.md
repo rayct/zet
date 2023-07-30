@@ -1,4 +1,4 @@
-## Go programming language Installion on a Raspberry Pi using the following steps:
+## Go programming language Installation on a Raspberry Pi 4
 
 Go Version: 
 * `Sunday July 30th 2023`
