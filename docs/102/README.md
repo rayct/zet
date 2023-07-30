@@ -1,5 +1,9 @@
 ## Go programming language Installion on a Raspberry Pi using the following steps:
 
+Go Version: 
+* `Sunday July 30th 2023`
+
+* `go1.20.6.linux-arm64.tar.gz`
 
 Step 1: Update and upgrade the system (same as before)
 
