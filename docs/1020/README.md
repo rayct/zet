@@ -9,6 +9,7 @@
 * Build your Butt and Move your back in every direction (Daily) consistenly and Safely.
 * Drumming. (Get a Drumkit)
 * Paddle Boarding
+* Rock Climb
 
 * Diet and Drink/Fluids 
     * Drink Plenty of Water everyday
@@ -20,4 +21,5 @@
     * Advacados
     * Olives (Black)
     * Tomms
-    * Carbonated Water
+    * "Carbonated Water: I use it for hot beverages, as it's excellent for keeping your kettle literally scale-free (an excellent de-scaler). 
+    **Tip!** If you have a furred-up kettle, use it consistently, and you will see results after 5 or 6 boils – back to new!"
