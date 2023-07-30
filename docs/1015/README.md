@@ -1035,7 +1035,9 @@ so when your grandchildren look back at you they can say you did the right thing
 got us off carbon, helped show our proper respect to generations not yet here,
 including our fellow creatures. Thank you. Good night.
 Join us.
-### America at the Crossroads
+
+
+<!-- ### America at the Crossroads
 ??? Question "Q9: America at the Crossroads"
     **Question**    
 —Hi. —Hi, I'm Kelsey. I study Design and Technology. What I wanted to say is that—
@@ -1058,7 +1060,7 @@ You don't need to look back at those who are our history. Look to the future of 
 Or you look at Blah Blah Car Etsy. They've done it with a little bit commissions. Look at Patagonia— they've become a benefit company.
 And they say— There are eight or nine states that passed legislation now saying, "Look, if you're a benefit company,
 profits don't have to be a first motive; therefore you won't risk hostile takeovers. So there's a lot of stuff moving, but it's difficult.
-So are you— I encourage you to do that. Take some risk. Don't sell out. That's what I'm saying.
+So are you— I encourage you to do that. Take some risk. Don't sell out. That's what I'm saying. -->
 
 **Documentation By:** `Raymond C. TURNER`
 
