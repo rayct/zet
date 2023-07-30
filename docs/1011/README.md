@@ -72,5 +72,9 @@ Related:
    * then switch panes as described above
    * then `ctl+a` then `]` to paste in to next pane
 
+1. Zoom window
+   `ctl+a` then `z`
+   
+
 
 **Documentation By:** `Raymond C. TURNER`
