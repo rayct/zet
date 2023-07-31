@@ -72,8 +72,13 @@ Related:
    * then switch panes as described above
    * then `ctl+a` then `]` to paste in to next pane
 
-1. Zoom window
-   `ctl+a` then `z`
+1. Zoom window In/Out
+   `ctl+a` then `z` and then Vice-Versa to return/
+
+1. Reload TMUX window after a `~/.tmux.conf` change.
+    `ctl+a` then press `r`
+
+1. 
    
    
 
