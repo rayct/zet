@@ -78,7 +78,6 @@ Related:
 1. Reload TMUX window after a `~/.tmux.conf` change.
     `ctl+a` then press `r`
 
-1. 
    
    
 
