@@ -5,7 +5,8 @@
 ## Course Notes
 
 1. Why search the Web from the terminal?
-
+  *Note!
+    **Don't Use Sysytem 76**
 
 
 1. Isn't it slower to search from the terminal?
