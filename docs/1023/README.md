@@ -11,7 +11,7 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     * Note!
 
       **Don't Use Sysytem 76**
-## Dwonload 2 files
+## Download 2 files
 1. lynx.cfg
     * Download the `lynx.cfg` using cURL:
     `curl https://raw.githubusercontent.com/rwxrob/dot/main/lynx/lynx.cfg -O`
