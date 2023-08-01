@@ -4,6 +4,8 @@
 
 ## Course Notes
 
+lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
+
 1. Why search the Web from the terminal?
 
     * Note!
