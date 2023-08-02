@@ -12,7 +12,7 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 
       **Don't Use Sysytem 76**
 
-## Download 2 files
+## Download files and create directory commands using `cURL`
 1. lynx.cfg
     * Download the `lynx.cfg` using cURL:
 
@@ -29,8 +29,18 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
       or
     * `-o lynx.cfg` Does the same.
 
+## Search using DuckDuck and Start the search by using the `?` command/character
+1. Download the files as before
+1. Write to a file and create the directory
+
+    * `curl https://raw.githubusercontent.com/rwxrob/dot/main/scripts/duck > .local/bin/duck`
+
+1. Give elevated privilages
+    * `chmod +x ./local/bin/duck`
+
+
     * Check you have all the files `ls`
-  Parameter Expansion with BASH
+1. Parameter Expansion with BASH
     * List all Paths
     * `echo $PATH` 
     * `printf "${PATH//:/\\n}"`
@@ -43,6 +53,12 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     * `alias path='echo -e "${PATH//:/\\n}"'`
     * Then run the command below
     * `exec bash -l`
+    * Now run `path`
+
+## which command
+
+    * 
+    * eg: `which lynx`
 
 
 
