@@ -29,8 +29,9 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
       or
     * `-o lynx.cfg` Does the same.
 
-    * Check you have all the files
-
+    * Check you have all the files `ls`
+  Parameter Exspansion
+    * `echo $PATH`
 
 1. Isn't it slower to search from the terminal?
 
