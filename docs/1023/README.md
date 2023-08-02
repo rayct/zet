@@ -30,8 +30,18 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     * `-o lynx.cfg` Does the same.
 
     * Check you have all the files `ls`
-  Parameter Exspansion
-    * `echo $PATH`
+  Parameter Expansion with BASH
+    * List all Paths
+    * `echo $PATH` 
+    * `printf "${PATH//:/\\n}"`
+    * `echo -e "${PATH//:/\\n}"`
+    * Each one of the paths is where the system will look to run a program
+    * Use this command to find every single file on your sytem.
+    * `find .` and `tree .` or `tree -a .` to see everything.
+    
+
+
+
 
 1. Isn't it slower to search from the terminal?
 
