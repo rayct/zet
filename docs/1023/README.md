@@ -38,7 +38,11 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     * Each one of the paths is where the system will look to run a program
     * Use this command to find every single file on your sytem.
     * `find .` and `tree .` or `tree -a .` to see everything.
-    
+    * Edit the `~/.bashrc` and add these commands
+    * `set -o vi`
+    * `alias path='echo -e "${PATH//:/\\n}"'`
+    * Then run the command below
+    * `exec bash -l`
 
 
 
