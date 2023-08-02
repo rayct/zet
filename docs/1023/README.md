@@ -37,9 +37,8 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 
 1. Give elevated privilages
     * `chmod +x ./local/bin/duck`
-
-
     * Check you have all the files `ls`
+
 1. Parameter Expansion with BASH
     * List all Paths
     * `echo $PATH` 
@@ -54,6 +53,8 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     * Then run the command below
     * `exec bash -l`
     * Now run `path`
+1. Making a file an Executable
+    * `chmod +x <filename>`
 
 ## which command
 
