@@ -66,12 +66,14 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 
 
 
-## which command (The Locater Command)
-
+1. which command (Known as The Locater Command)
     * eg: `which duck`
     * eg: `which lynx`
 
-
+## w3m vs lynx
+1. w3m - Text base Browser
+    * **Note!!!.. Has a very very active user base.**
+    * 
 
 
 
