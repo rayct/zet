@@ -56,7 +56,8 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 1. Making a file an Executable
     * `chmod +x <filename>`
 
-## which command (The Locater Command)
+## which command (The cd
+Locater Command)
 
     * 
     * eg: `which lynx`
@@ -87,3 +88,5 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 
 Related:
 <https://github.com/rwxrob/dot>
+
+**Documentation By:** `Raymond C. TURNER`
