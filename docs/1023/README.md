@@ -37,9 +37,14 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 
 1. Give elevated privilages
     * `chmod +x ./local/bin/duck`
-    * Check you have all the files `ls`
+    * Check you have all the files `ls` or `tree -a .`
+    * Then run `duck`
+1. Install or fetch `urlencode`
 
-1. Parameter Expansion with BASH
+    * `curl https://raw.githubusercontent.com/rwxrob/dot/main/scripts/urlencode > .local/bin/urlencode`
+    *  `chmod +x ./local/bin/urlencode`
+
+2. Parameter Expansion with BASH
     * List all Paths
     * `echo $PATH` 
     * `printf "${PATH//:/\\n}"`
@@ -50,17 +55,19 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     * Edit the `~/.bashrc` and add these commands known as `alias`
     * `set -o vi`
     * `alias path='echo -e "${PATH//:/\\n}"'`
+3. Add the Alias `?`
+    * Edit the `~/.bashrc` and add these commands known as `alias`
     * Then run the command `exec bash -l` everytime you make changes to the `.bashrc` to start a new login shell.
     * 
     * Now run `path`
-1. Making a file an Executable
+4. Making a file an Executable
     * `chmod +x <filename>`
 
-## which command (The cd
-Locater Command)
+## which command (The Locater Command)
 
-    * 
+    * eg: `which duck`
     * eg: `which lynx`
+
 
 
 
