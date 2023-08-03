@@ -45,18 +45,18 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     * `printf "${PATH//:/\\n}"`
     * `echo -e "${PATH//:/\\n}"`
     * Each one of the paths is where the system will look to run a program
-    * Use this command to find every single file on your sytem.
+    * Use this command to find every single file on your sytem and list file strucute tree.
     * `find .` and `tree .` or `tree -a .` to see everything.
     * Edit the `~/.bashrc` and add these commands known as `alias`
     * `set -o vi`
     * `alias path='echo -e "${PATH//:/\\n}"'`
-    * Then run the command below
-    * `exec bash -l`
+    * Then run the command `exec bash -l` everytime you make changes to the `.bashrc` to start a new login shell.
+    * 
     * Now run `path`
 1. Making a file an Executable
     * `chmod +x <filename>`
 
-## which command
+## which command (The Locater Command)
 
     * 
     * eg: `which lynx`
