@@ -58,12 +58,13 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 3. Add the Alias `?`
     * Edit the `~/.bashrc` and add these commands known as `alias`
     * Then run the command `exec bash -l` everytime you make changes to the `.bashrc` to start a new login shell.
-    * 
+    * Note!!..Here's an example of how to check the existence of a file using the ls command:
+    * `ls -l /usr/bin/lynx`
     * Now run `path`
 4. Making a file an Executable
     * `chmod +x <filename>`
 
-    
+
 
 ## which command (The Locater Command)
 

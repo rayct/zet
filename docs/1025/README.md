@@ -25,3 +25,8 @@ mv /path/to/source_directory/* /path/to/destination_directory/
 This will move the contents of `source_directory` into `destination_directory` without moving the `source_directory` itself.
 
 Always be cautious when using the `mv` command, as moving or overwriting files and directories cannot be undone. Make sure to double-check your paths and intentions before proceeding.
+
+
+Here's an example of how to check the existence of a file using the ls command:
+`ls -l /usr/bin/lynx`
+
