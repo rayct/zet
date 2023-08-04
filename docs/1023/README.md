@@ -58,26 +58,26 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 3. Add the Alias `?`
     * Edit the `~/.bashrc` and add these commands known as `alias`
     * Then run the command `exec bash -l` everytime you make changes to the `.bashrc` to start a new login shell.
+    * 
     * Note!!.. Here's an example of how to check the existence of a file using the ls command:
+     
     * `ls -l /usr/bin/lynx`
+  
     * Now run `path`
 4. Making a file an Executable
     * `chmod +x <filename>`
 
-
-
-1. which command (Known as The Locater Command)
+5. which command (Known as The Locater Command)
     * eg: `which duck`
     * eg: `which lynx`
 
 ## w3m vs lynx
 1. w3m - Text base Browser
     * **Note!!!.. Has a very very active user base.**
-    * 
 
 
 
-1. Isn't it slower to search from the terminal?
+2. Isn't it slower to search from the terminal?
 
 
 
@@ -90,10 +90,22 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 
 
 1. Can I get answers from ChatGPT from the command line?
+   * Search through your terminal history.
+   * `esc` then pres `k` then `\ <type in the last terminal command you need>`
+   * **Learn to SEARCH centricity**
+1. Install chatGPT
+   * `https://github.com/charmbracelet/mods` 
+   * `curl https://raw.githubusercontent.com/rwxrob/dot/main/scripts/gpt > .local/bin/gpt`
+   * Now fetch the file
+   * `curl -LO  https://github.com/charmbracelet/mods/releases/download/v0.2.0/mods_Linux_arm64.tar.gz -O`
+   * Check File
+   * `tar zxvf mods_Linux_arm64.tar.gz`
+   * 
+   * Unzip/Untar
+    `tar zxvf` <file_name>.tar.gz
 
 
-
-1. What else can I query from the command line using `curl`?
+2. What else can I query from the command line using `curl`?
 
 
 
