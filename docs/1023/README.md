@@ -101,7 +101,13 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
    * Check File
    * `tar zxvf mods_Linux_arm64.tar.gz`
    * 
-   * Unzip/Untar
+   * **TO PROTECT FROM TARBOMBS, MKDIR `MODS` DIRECTORY FIRST THEN `MV` INTO MODS DIR, THEN UNZIP**
+   * 
+   * First `mkdir mods`
+   * Now move the file
+   * `mv mods_Linux_arm64.tar.gz mods`
+   * cd in `mods`
+   * then unzip it into mods 
     `tar zxvf` <file_name>.tar.gz
 
 
