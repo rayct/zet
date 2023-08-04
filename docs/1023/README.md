@@ -121,7 +121,7 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
    * `vi ~/.config/gpt`
    * echo something > `~/.config/gpt/token`
 ## Explaination of the above Unix shell command.
-The command you've provided seems to be a Unix shell command that is likely used to write the text "something" to a file located at the path `~/.config/gpt/token`.
+The command provided seems to be a Unix shell command that is likely used to write the text "something" to a file located at the path `~/.config/gpt/token`.
 
 Let's break down the command step by step:
 
