@@ -91,10 +91,11 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
 
 1. Can I get answers from ChatGPT from the command line?
    * Search through your terminal history.
-   * `esc` then pres `k` then `\` <type in the last terminal command you need>`
+   * `esc` then pres `k` then `\` then type `n` to scroll through the history or <type in the last terminal command you need>`
    * **Learn to SEARCH centricity**
 1. Install chatGPT
    * `https://github.com/charmbracelet/mods` 
+   * Fetch from `(rwxrob)` github.com repo.
    * `curl https://raw.githubusercontent.com/rwxrob/dot/main/scripts/gpt > .local/bin/gpt`
    * Now fetch the file
    * `curl -LO  https://github.com/charmbracelet/mods/releases/download/v0.2.0/mods_Linux_arm64.tar.gz -O`
@@ -111,7 +112,13 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
     `tar zxvf` <file_name>.tar.gz
    * move mods to ``./local/bin`
    * `mv mods/mods .local/bin/`
-   * 
+   * Now you can remove `mods` from your home directory'
+   * `rm -rf mods`
+   * `ls`
+   * create the dir below.
+   * `mkdir -p ~/.config/gpt`
+   * Enter the your API key in the following file
+   * `vi ~/.config/gpt`
 
 
 2. What else can I query from the command line using `curl`?
