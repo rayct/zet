@@ -119,9 +119,13 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
    * `mkdir -p ~/.config/gpt`
    * Enter the your API key in the following file
    * `vi ~/.config/gpt`
+   * echo something > `~/.config/gpt/token`
 
 
 2. What else can I query from the command line using `curl`?
+
+    * `curl https://raw.githubusercontent.com/rwxrob/dot/main/scripts/ix > .local/bin/ix`
+    * 
 
 
 
