@@ -30,3 +30,12 @@ Always be cautious when using the `mv` command, as moving or overwriting files a
 Here's an example of how to check the existence of a file using the ls command:
 `ls -l /usr/bin/lynx`
 
+## Github Related
+4. Export GPG_TTY environment variable: If the `--no-tty` flag doesn't work, try setting the `GPG_TTY` environment variable to point to your current TTY. This might help GPG locate the correct terminal and avoid the error.
+
+   ```
+   export GPG_TTY=$(tty)
+   ```
+   * Note!.. This Did Resolve the issue
+
+1. 
