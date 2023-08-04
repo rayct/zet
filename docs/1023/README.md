@@ -121,19 +121,19 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
    * `vi ~/.config/gpt`
    * echo something > `~/.config/gpt/token`
 ## Explaination of the above Unix shell command.
-    The command you've provided seems to be a Unix shell command that is likely used to write the text "something" to a file located at the path `~/.config/gpt/token`.
+The command you've provided seems to be a Unix shell command that is likely used to write the text "something" to a file located at the path `~/.config/gpt/token`.
 
-    Let's break down the command step by step:
+Let's break down the command step by step:
 
-    1. `echo something`: This part of the command is using the `echo` command, which is used to display text on the terminal. In this case, it is displaying the text "something".
+1. `echo something`: This part of the command is using the `echo` command, which is used to display text on the terminal. In this case, it is displaying the text "something".
 
-    2. `>`: This is called the "output redirection" operator. It is used to redirect the output of the command on the left (in this case, the output of `echo something`) into a file specified on the right.
+2. `>`: This is called the "output redirection" operator. It is used to redirect the output of the command on the left (in this case, the output of `echo something`) into a file specified on the right.
 
-    3. `~/.config/gpt/token`: This is the path to the file where the output of the `echo` command will be written. It looks like an absolute file path, starting with `~` which is a shortcut for the user's home directory.
+3. `~/.config/gpt/token`: This is the path to the file where the output of the `echo` command will be written. It looks like an absolute file path, starting with `~` which is a shortcut for the user's home directory.
 
-    So, when you run the command `echo something > ~/.config/gpt/token`, it will create a file named `token` inside the `.config/gpt` directory in the user's home directory (for example, `/home/username/.config/gpt/token`), and the word "something" will be written into that file. If the file already exists, this command will overwrite its contents; if it doesn't exist, the command will create it.
+So, when you run the command `echo something > ~/.config/gpt/token`, it will create a file named `token` inside the `.config/gpt` directory in the user's home directory (for example, `/home/username/.config/gpt/token`), and the word "something" will be written into that file. If the file already exists, this command will overwrite its contents; if it doesn't exist, the command will create it.
 
-    This type of operation is commonly used to store configuration data or tokens in files for use by scripts, applications, or other processes. It's worth noting that the exact purpose of this command would depend on the context in which it's being used.
+This type of operation is commonly used to store configuration data or tokens in files for use by scripts, applications, or other processes. It's worth noting that the exact purpose of this command would depend on the context in which it's being used.
 
 
 2. What else can I query from the command line using `curl`?
