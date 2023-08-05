@@ -56,54 +56,54 @@
     * OSI Model - 7 layers
 
          
-        # Networking and The Internet
-        ## OSI Model  
+    # Networking and The Internet
+    ## OSI Model  
 
-        * Layer 7 Application
-                * TCP/IP MODEL
-                * Application Layer
-                    * TCP/IP Protocol Suite
-                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
-                        * Resposibilty of the Host
+    ### Layer 7 - Application
+        * TCP/IP MODEL
+        * Application Layer
+            * TCP/IP Protocol Suite
+                * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - IRC
+                * Resposibilty of the Host
 
-        * Layer 6 Presentation
-                * TCP/IP MODEL
-                * Application Layer
-                    * TCP/IP Protocol Suite
-                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
-                        * Resposibilty of the Host
+    ### Layer 6 - Presentation
+            * TCP/IP MODEL
+            * Application Layer
+                * TCP/IP Protocol Suite
+                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - SSL - IMAP - SSH
+                    * Resposibilty of the Host
 
-        * Layer 5.Session
-                    * TCP/IP MODEL
-                    * Application Layer
-                        * TCP/IP Protocol Suite
-                            * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
-                            * Resposibilty of the Host
-                            
-        * Layer 4. Transport
-                    * TCP/IP MODEL
-                    * Transport Layer
-                        * TCP/IP Protocol Suite
-                            * TCP - UDPS
-                            * Resposibilty of the Host
+    ### Layer 5 - Session
+            * TCP/IP MODEL
+            * Application Layer
+                * TCP/IP Protocol Suite
+                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Various API'S - Sockets
+                    * Resposibilty of the Host
+                        
+    ### Layer 4 - Transport
+            * TCP/IP MODEL
+            * Transport Layer
+                * TCP/IP Protocol Suite
+                    * TCP - UDP - ECN - SCTP - DCCP
+                    * Resposibilty of the Host
 
-        * Layer 3 Network
-                * TCP/IP MODEL
-                * Internet Layer
-                    * TCP/IP Protocol Suite
-                        * ARP IP IGMP ICMP
-                        * Resposibilty of the Network
+    ### Layer 3 - Network
+            * TCP/IP MODEL
+            * Internet Layer
+                * TCP/IP Protocol Suite
+                    * ARP - IP - IGMP - ICMP - IPSec
+                    * Resposibilty of the Network
 
-        * Layer 2 Data-link
-                * TCP/IP MODEL
-                * Net Access Layer
-                    * TCP/IP Protocol Suite
-                        * Ethernet - Token Ring - ATM - Frame Relay
-                        * Resposibilty of the Network
+    ### Layer 2 - Data-link
+            * TCP/IP MODEL
+            * Net Access Layer
+                * TCP/IP Protocol Suite
+                    * Ethernet - Token Ring - ATM - Frame Relay - SLIP - PPP - FDDI
+                    * Resposibilty of the Network
 
-        * Layer 1 Physical
-                * TCP/IP MODEL
-                * Net Access Layer
-                    * TCP/IP Protocol Suite
-                        * Ethernet - Token Ring - ATM - Frame Relay
-                        * Resposibilty of the Network
+    ### Layer 1 - Physical
+            * TCP/IP MODEL
+            * Net Access Layer
+                * TCP/IP Protocol Suite
+                    * Ethernet - Token Ring - ATM - Frame Relay - COAX - Fiber - Wireless
+                    * Resposibilty of the Network
