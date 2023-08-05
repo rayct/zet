@@ -57,53 +57,53 @@
 
          
     # Networking and The Internet
-    ## OSI Model  
+    ## 7 Layers of the OSI Model  
 
-    ### Layer 7 - Application
+    ### Layer 7 - Application - End User Layer
         * TCP/IP MODEL
         * Application Layer
             * TCP/IP Protocol Suite
-                * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - IRC
+                * HTTP - SMTP - Telnet - FTP - DNS - RIP - SMTP - IRC - POP3 - SSH
                 * Resposibilty of the Host
 
-    ### Layer 6 - Presentation
+    ### Layer 6 - Presentation - Syntax Layer
             * TCP/IP MODEL
             * Application Layer
                 * TCP/IP Protocol Suite
-                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - SSL - IMAP - SSH
+                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - SSL - IMAP - SSH - JPEG - MPEG
                     * Resposibilty of the Host
 
-    ### Layer 5 - Session
+    ### Layer 5 - Session - Sync & Sens to port
             * TCP/IP MODEL
             * Application Layer
                 * TCP/IP Protocol Suite
-                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Various API'S - Sockets
+                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Various API'S - WinSock - Sockets
                     * Resposibilty of the Host
                         
-    ### Layer 4 - Transport
+    ### Layer 4 - Transport - Ened-to-End Connections
             * TCP/IP MODEL
             * Transport Layer
                 * TCP/IP Protocol Suite
                     * TCP - UDP - ECN - SCTP - DCCP
                     * Resposibilty of the Host
 
-    ### Layer 3 - Network
+    ### Layer 3 - Network - Packets
             * TCP/IP MODEL
             * Internet Layer
                 * TCP/IP Protocol Suite
                     * ARP - IP - IGMP - ICMP - IPSec
                     * Resposibilty of the Network
 
-    ### Layer 2 - Data-link
+    ### Layer 2 - Data-link - Frames
             * TCP/IP MODEL
-            * Net Access Layer
+            * Network Access Layer
                 * TCP/IP Protocol Suite
-                    * Ethernet - Token Ring - ATM - Frame Relay - SLIP - PPP - FDDI
+                    * Ethernet - Token Ring - ATM - Frame Relay - SLIP - PPP - FDDI - Switch - Bridge
                     * Resposibilty of the Network
 
-    ### Layer 1 - Physical
+    ### Layer 1 - Physical - Physical Structure
             * TCP/IP MODEL
-            * Net Access Layer
+            * Network Access Layer
                 * TCP/IP Protocol Suite
-                    * Ethernet - Token Ring - ATM - Frame Relay - COAX - Fiber - Wireless
+                    * Ethernet - Token Ring - ATM - Frame Relay - COAX - Fiber - Wireless - Hubs - Repeaters
                     * Resposibilty of the Network
