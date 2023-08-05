@@ -53,14 +53,51 @@
     * Latency = The ammount of time it takes for somthing to go.
     * OSI Model = 7 layers
 
-        ### OSI Model          ### TCP/IP MODEL      ### TCP/IP Protocol Suite             
-        * 7 = Application    - Application Layer   - HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Resposibilty of the Host
-        * 6 = Presentation   - Application Layer   - HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Resposibilty of the Host
-        * 5 = Session        - Application Layer   - HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Resposibilty of the Host
+         
+        # Networking and The Internet
+        ## OSI Model        
+        * 7. Application
+                * TCP/IP MODEL
+                * Application Layer
+                    * TCP/IP Protocol Suite
+                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
+                        * Resposibilty of the Host
+        * 6. Presentation
+                * TCP/IP MODEL
+                * Application Layer
+                    * TCP/IP Protocol Suite
+                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
+                        * Resposibilty of the Host
+        * 5. Session
+                * TCP/IP MODEL
+                * Application Layer
+                    * TCP/IP Protocol Suite
+                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
+                        * Resposibilty of the Host
+        * 4. Transport
+                * TCP/IP MODEL
+                * Transport Layer
+                    * TCP/IP Protocol Suite
+                        * TCP - UDPS
+                        * Resposibilty of the Host
 
-        * 4 = Transport      - Transport Layer     - TCP - UDPS                                    - Resposibilty of the Host
+        * 3. Network
+                * TCP/IP MODEL
+                * Internet Layer
+                    * TCP/IP Protocol Suite
+                        * ARP IP IGMP ICMP
+                        * Resposibilty of the Network
 
-        * 3 = Network        - Internet Layer      - ARP IP IGMP ICMP -                            - Resposibilty of the Network
-        
-        * 2 = Datalink       - Net Access Layer    - Ethernet - Token Ring - ATM - Frame Relay     - Resposibilty of the Network
-        * 1 = Physical       - Net Access Layer    - Ethernet - Token Ring - ATM - Frame Relay     - Resposibilty of the Network
+        * 2. Data-link
+                * TCP/IP MODEL
+                * Net Access Layer
+                    * TCP/IP Protocol Suite
+                        * Ethernet - Token Ring - ATM - Frame Relay
+                        * Resposibilty of the Network
+
+        * 1. Physical
+                * TCP/IP MODEL
+                * Net Access Layer
+                    * TCP/IP Protocol Suite
+                        * Ethernet - Token Ring - ATM - Frame Relay
+                        * Resposibilty of the Network
