@@ -42,3 +42,25 @@
     * `nmap`
     * `ncat`/`nc`
     * `iptables`, `ufw`
+
+## Notes
+
+* Bit and Bytes
+    * Magabits = 1s and 0s; Yes or No
+    * Megabyte = 8 Megabits
+    * Mbps - Mega-bits-per-second
+    * Bandwidth- How much Data is tranferring
+    * Latency = The ammount of time it takes for somthing to go.
+    * OSI Model = 7 layers
+
+        ### OSI Model          ### TCP/IP MODEL      ### TCP/IP Protocol Suite             
+        * 7 = Application    - Application Layer   - HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Resposibilty of the Host
+        * 6 = Presentation   - Application Layer   - HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Resposibilty of the Host
+        * 5 = Session        - Application Layer   - HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Resposibilty of the Host
+
+        * 4 = Transport      - Transport Layer     - TCP - UDPS                                    - Resposibilty of the Host
+
+        * 3 = Network        - Internet Layer      - ARP IP IGMP ICMP -                            - Resposibilty of the Network
+        
+        * 2 = Datalink       - Net Access Layer    - Ethernet - Token Ring - ATM - Frame Relay     - Resposibilty of the Network
+        * 1 = Physical       - Net Access Layer    - Ethernet - Token Ring - ATM - Frame Relay     - Resposibilty of the Network
