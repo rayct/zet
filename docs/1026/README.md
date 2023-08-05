@@ -54,6 +54,7 @@
     * Bandwidth- How much Data is tranferring
     * Latency - The ammount of time it takes for somthing to go.
     * OSI Model - 7 layers
+    * 
 
          
     # Networking and The Internet
