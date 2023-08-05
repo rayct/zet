@@ -42,7 +42,7 @@
     * `nmap`
     * `ncat`/`nc`
     * `iptables`, `ufw`
-    
+
 ---
 
 # Boost Week 13 Notes
@@ -52,52 +52,56 @@
     * Megabyte = 8 Megabits
     * Mbps - Mega-bits-per-second
     * Bandwidth- How much Data is tranferring
-    * Latency = The ammount of time it takes for somthing to go.
-    * OSI Model = 7 layers
+    * Latency - The ammount of time it takes for somthing to go.
+    * OSI Model - 7 layers
 
          
         # Networking and The Internet
-        ## OSI Model        
-        * 7. Application
+        ## OSI Model  
+
+        * Layer 7 Application
                 * TCP/IP MODEL
                 * Application Layer
                     * TCP/IP Protocol Suite
                         * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
-                        * Resposibilty of the Host
-        * 6. Presentation
-                * TCP/IP MODEL
-                * Application Layer
-                    * TCP/IP Protocol Suite
-                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
-                        * Resposibilty of the Host
-        * 5. Session
-                * TCP/IP MODEL
-                * Application Layer
-                    * TCP/IP Protocol Suite
-                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
-                        * Resposibilty of the Host
-        * 4. Transport
-                * TCP/IP MODEL
-                * Transport Layer
-                    * TCP/IP Protocol Suite
-                        * TCP - UDPS
                         * Resposibilty of the Host
 
-        * 3. Network
+        * Layer 6 Presentation
+                * TCP/IP MODEL
+                * Application Layer
+                    * TCP/IP Protocol Suite
+                        * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
+                        * Resposibilty of the Host
+
+        * Layer 5.Session
+                    * TCP/IP MODEL
+                    * Application Layer
+                        * TCP/IP Protocol Suite
+                            * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP
+                            * Resposibilty of the Host
+                            
+        * Layer 4. Transport
+                    * TCP/IP MODEL
+                    * Transport Layer
+                        * TCP/IP Protocol Suite
+                            * TCP - UDPS
+                            * Resposibilty of the Host
+
+        * Layer 3 Network
                 * TCP/IP MODEL
                 * Internet Layer
                     * TCP/IP Protocol Suite
                         * ARP IP IGMP ICMP
                         * Resposibilty of the Network
 
-        * 2. Data-link
+        * Layer 2 Data-link
                 * TCP/IP MODEL
                 * Net Access Layer
                     * TCP/IP Protocol Suite
                         * Ethernet - Token Ring - ATM - Frame Relay
                         * Resposibilty of the Network
 
-        * 1. Physical
+        * Layer 1 Physical
                 * TCP/IP MODEL
                 * Net Access Layer
                     * TCP/IP Protocol Suite
