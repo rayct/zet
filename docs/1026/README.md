@@ -42,8 +42,10 @@
     * `nmap`
     * `ncat`/`nc`
     * `iptables`, `ufw`
+    
+---
 
-## Boost Week 13 Notes
+# Boost Week 13 Notes
 
 * Bit and Bytes
     * Magabits = 1s and 0s; Yes or No
