@@ -56,8 +56,8 @@
     * OSI Model - 7 layers
 
 * Network Search Commands
-    * `netstat -tua`
     * `netstat -tuna`
+    * `netstat -tua`
     * `netstat -tua |more`
     * `netstat -tua |grep`
     * `netstat -tua |grep LISTEN`
