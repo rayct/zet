@@ -61,8 +61,14 @@
     * `netstat -tua |more`
     * `netstat -tua |grep`
     * `netstat -tua |grep LISTEN`
-    * 
-
+    * `netstat -tpua |grep LISTEN` to add the -p to add the listing process
+    * `netstat -tpua |LISTEN`
+    * `netstat -tpua`
+    * `netstat -peanut`
+    * `netstat -peaut`
+    * `netstat -tulip`
+    * `netstat -tuip`
+* Nmap
          
     # Networking and The Internet
     ## 7 Layers of the OSI Model  
