@@ -54,6 +54,13 @@
     * Bandwidth- How much Data is tranferring
     * Latency - The ammount of time it takes for somthing to go.
     * OSI Model - 7 layers
+
+* Network Search Commands
+    * `netstat -tua`
+    * `netstat -tuna`
+    * `netstat -tua |more`
+    * `netstat -tua |grep`
+    * `netstat -tua |grep LISTEN`
     * 
 
          
