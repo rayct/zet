@@ -63,7 +63,7 @@
     * `netstat -tua |more`
     * `netstat -tua |grep`
     * `netstat -tua |grep LISTEN`
-    * `netstat -tpua |grep LISTEN` to add the -p to add the listing process
+    * `netstat -tpua |grep LISTEN` (To add the -p to add the listing process)
     * `netstat -tpua |LISTEN`
     * `netstat -tpua`
     * `netstat -peanut`
@@ -72,7 +72,7 @@
     * `netstat -tuip`
     * `ip -a`
     * `strace <command>`
-    * ``
+    * `strace -o output.txt <command>` (Good practice to output to a txt file).
 
 ---
 
