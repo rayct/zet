@@ -73,6 +73,7 @@
     * `ip -a`
     * `strace <command>`
     * `strace -o output.txt <command>` (Good practice to output to a txt file).
+    * `dig` <web-address> or <ip> (lookup)
 
 ---
 
