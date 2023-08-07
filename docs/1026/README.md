@@ -1,6 +1,8 @@
 # 2023 Boost - Week 13 - Networking
 ## Theres No Place like 127.0.0.1
 
+"Do what you love and you’ll never work a day in your life."
+
 📺 <https://youtu.be/dJPJTKhvkBA>
 
 * Grok Internet networking.
