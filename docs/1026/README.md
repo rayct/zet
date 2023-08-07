@@ -68,6 +68,7 @@
     * `netstat -peaut`
     * `netstat -tulip`
     * `netstat -tuip`
+    * `ip -a`
     
 * Nmap
          
