@@ -1,4 +1,4 @@
-# 2023 Boost - Week 13
+# 2023 Boost - Week 13 - Networking
 
 📺 <https://youtu.be/dJPJTKhvkBA>
 
@@ -74,6 +74,7 @@
     * ``
 
 ---
+
 # strace
 `strace` is a powerful and widely used command-line tool in Unix-like operating systems (e.g., Linux) that is used for debugging and tracing system calls made by a running process. It allows users to monitor and analyze the interactions between a program and the operating system during its execution.
 
@@ -95,60 +96,59 @@ strace -o output.txt <command>
 
 Remember to use `man strace` or `strace --help` to get more information about the options and usage of `strace`.
 
----
     
          
-    # Networking and The Internet
-    ## 7 Layers of the OSI Model  
+# Networking and The Internet
+## 7 Layers of the OSI Model  
 
-    ### Layer 7 - Application - End User Layer
+### Layer 7 - Application - End User Layer
+    * TCP/IP MODEL
+    * Application Layer
+        * TCP/IP Protocol Suite
+            * HTTP - SMTP - Telnet - FTP - DNS - RIP - SMTP - IRC - POP3 - SSH
+            * Resposibilty of the Host
+
+### Layer 6 - Presentation - Syntax Layer
         * TCP/IP MODEL
         * Application Layer
             * TCP/IP Protocol Suite
-                * HTTP - SMTP - Telnet - FTP - DNS - RIP - SMTP - IRC - POP3 - SSH
+                * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - SSL - IMAP - SSH - JPEG - MPEG
                 * Resposibilty of the Host
 
-    ### Layer 6 - Presentation - Syntax Layer
-            * TCP/IP MODEL
-            * Application Layer
-                * TCP/IP Protocol Suite
-                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - SSL - IMAP - SSH - JPEG - MPEG
-                    * Resposibilty of the Host
+### Layer 5 - Session - Sync & Sens to port
+        * TCP/IP MODEL
+        * Application Layer
+            * TCP/IP Protocol Suite
+                * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Various API'S - WinSock - Sockets
+                * Resposibilty of the Host
+                    
+### Layer 4 - Transport - Ened-to-End Connections
+        * TCP/IP MODEL
+        * Transport Layer
+            * TCP/IP Protocol Suite
+                * TCP - UDP - ECN - SCTP - DCCP
+                * Resposibilty of the Host
 
-    ### Layer 5 - Session - Sync & Sens to port
-            * TCP/IP MODEL
-            * Application Layer
-                * TCP/IP Protocol Suite
-                    * HTTP - SMTP - Telnet - FTP - DNS - RIP - SNMP - Various API'S - WinSock - Sockets
-                    * Resposibilty of the Host
-                        
-    ### Layer 4 - Transport - Ened-to-End Connections
-            * TCP/IP MODEL
-            * Transport Layer
-                * TCP/IP Protocol Suite
-                    * TCP - UDP - ECN - SCTP - DCCP
-                    * Resposibilty of the Host
+### Layer 3 - Network - Packets
+        * TCP/IP MODEL
+        * Internet Layer
+            * TCP/IP Protocol Suite
+                * ARP - IP - IGMP - ICMP - IPSec
+                * Resposibilty of the Network
 
-    ### Layer 3 - Network - Packets
-            * TCP/IP MODEL
-            * Internet Layer
-                * TCP/IP Protocol Suite
-                    * ARP - IP - IGMP - ICMP - IPSec
-                    * Resposibilty of the Network
+### Layer 2 - Data-link - Frames
+        * TCP/IP MODEL
+        * Network Access Layer
+            * TCP/IP Protocol Suite
+                * Ethernet - Token Ring - ATM - Frame Relay - SLIP - PPP - FDDI - Switch - Bridge
+                * Resposibilty of the Network
 
-    ### Layer 2 - Data-link - Frames
-            * TCP/IP MODEL
-            * Network Access Layer
-                * TCP/IP Protocol Suite
-                    * Ethernet - Token Ring - ATM - Frame Relay - SLIP - PPP - FDDI - Switch - Bridge
-                    * Resposibilty of the Network
-
-    ### Layer 1 - Physical - Physical Structure
-            * TCP/IP MODEL
-            * Network Access Layer
-                * TCP/IP Protocol Suite
-                    * Ethernet - Token Ring - ATM - Frame Relay - COAX - Fiber - Wireless - Hubs - Repeaters
-                    * Resposibilty of the Network
+### Layer 1 - Physical - Physical Structure
+        * TCP/IP MODEL
+        * Network Access Layer
+            * TCP/IP Protocol Suite
+                * Ethernet - Token Ring - ATM - Frame Relay - COAX - Fiber - Wireless - Hubs - Repeaters
+                * Resposibilty of the Network
 
 
 **Documentation By:** `Raymond C. TURNER`
