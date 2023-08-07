@@ -71,11 +71,10 @@
     * `netstat -tuip`
     * `ip -a`
     * `strace <command>`
-    * 
-`
+    * ``
 
 ---
-
+# strace
 `strace` is a powerful and widely used command-line tool in Unix-like operating systems (e.g., Linux) that is used for debugging and tracing system calls made by a running process. It allows users to monitor and analyze the interactions between a program and the operating system during its execution.
 
 When a program runs, it makes various system calls to the operating system kernel to perform tasks such as reading/writing files, creating processes, allocating memory, and more. `strace` captures and displays these system calls, along with their arguments and return values, providing valuable insights into the program's behavior and helping identify issues like system call failures or performance bottlenecks.
