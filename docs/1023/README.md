@@ -120,6 +120,7 @@ lynx/w3m/chatGPT/cURL (Terminal web browsing for research)
    * Enter the your API key in the following file
    * `vi ~/.config/gpt`
    * echo <CHATGPT_API_KEY> > `~/.config/gpt/token`
+   * 
 ## Explaination of the above Unix shell command.
 The command provided seems to be a Unix shell command that is likely used to write the text "something" to a file located at the path `~/.config/gpt/token`.
 
