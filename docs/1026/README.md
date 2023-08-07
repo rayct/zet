@@ -96,6 +96,8 @@ strace -o output.txt <command>
 
 Remember to use `man strace` or `strace --help` to get more information about the options and usage of `strace`.
 
+
+---
     
          
 # Networking and The Internet
