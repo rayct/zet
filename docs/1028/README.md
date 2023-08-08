@@ -56,4 +56,12 @@ Which remote technology operates on TCP port 22?
     * PRL (primary roaming list)
 * Which two SSD formats come in both SATA and PCIe variants?
     * M.2 and NVMe
+* During which best practice troubleshooting methodology step should you conduct external or internal research?
+    * Establish a theory of probable cause (step 2)
+* The __________ can be used to view and kill processes.
+    * Task Manager or Resource Monitor
+* The process that an inkjet printer goes through a new print cartridge is installed is called __________.
+    * printhead alignment
+* What causes image smudging from a laser printer?
+    * The fuser isn’t heating the toner and fusing it into the paper.
 * 
