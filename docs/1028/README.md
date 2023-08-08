@@ -38,3 +38,22 @@
     * Desktop Management
 * Virtual memory is the ___________ file used by Windows as RAM.
     * Page or Swap file
+* Microsoft provides the Join A Domain option in which versions of Windows 10?
+    * Windows 10 Pro, Windows Enterprise, and the Windows 10 Education
+* Windows includes the ____________antispyware program.
+    * Windows Defender
+* Which Windows system utility can be used to edit the Registry?
+    * regedit
+Which remote technology operates on TCP port 22?
+    * Secure Shell (SSH)
+* Which type of server examines user credentials and grants them access to network resources?
+    * Authentication
+* TCP is a __________ protocol that operates at the __________ layer of the OSI model.
+    * Connection-oriented , Transport Layer
+* The three types of twisted-pair cabling that can support speeds of 1 Gbps are __________.
+    * CAT-5e, CAT-6/6a, and CAT-7
+* The roaming list on a mobile device is established by what?
+    * PRL (primary roaming list)
+* Which two SSD formats come in both SATA and PCIe variants?
+    * M.2 and NVMe
+* 
