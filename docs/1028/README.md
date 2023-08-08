@@ -76,4 +76,29 @@ Which remote technology operates on TCP port 22?
     * 260
 * Two types of full-sized fiber-optic connectors are __________ and __________.
     * SC (Subscriber Connector), ST (Straight Tip)
-* 
+* A __________ is an extension of the motherboard of the laptop so that you can use full-sized devices.
+    * Docking station or Port replicator
+* Single sign-on (SSO) uses __________ to transparently log a user into a resource.
+    * Claims or tickets
+* In Windows 10, the _________ provides a single interface for firewall settings, automatic updating, malware protection, and other security settings.
+    * Action Center
+* What is the EP imaging process stage where the corona wire/roller acquires a strong positive charge (+600VDC) and applies that charge to the paper?
+    * Transferring
+* Which RAID level provides both disk striping and mirroring?
+    * RAID-10(1+0)
+* What is software that is purchased and that requires a license to run?
+    * Commercial
+* Which scripting language included with Windows is commonly used for task automation and based on the .NET Framework?
+    * PowerShell
+* Which scripting language included with Windows is commonly used for task automation and based on the .NET Framework?
+    * Packet Filter
+* DDR SDRAM is implemented on a(n) __________-pin module.
+    * 184
+* When the computer is turned on, if the fan spins but no devices seem to have power, which component is most likely at fault?
+    * Power Supply
+* Which TCP ports are used for unsecure and secure POP3?
+    * 110 and 995 respectively
+* __________ backups allow a new server to be installed with the filesystem and data of the failed server.
+    * Image
+* What kind of CPU enhancements are recommended for virtualization workstations?
+    * Multiple CPUs, each with multiple cores (Concurrency)
