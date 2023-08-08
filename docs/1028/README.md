@@ -1,6 +1,6 @@
 ## CompTIA A+ Review Guide: Exam 220-1101 and 220-1102, 5th Edition
 
-### Notes
+### Flash Card Notes
 
 * What is the third step in the best practice troubleshooting methodology?
     * Test the Theory to determine the cause
@@ -34,4 +34,7 @@
     * Ozone
 * A memory controller that supports a __________ memory implementation requires that modules be installed in pairs for optimal performance.
     * Dual-channel
-* 
+* What type of software is designed to allow for control of what is available to users on their desktops as well as other settings?
+    * Desktop Management
+* Virtual memory is the ___________ file used by Windows as RAM.
+    * Page or Swap file
