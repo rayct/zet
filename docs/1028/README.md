@@ -64,4 +64,16 @@ Which remote technology operates on TCP port 22?
     * printhead alignment
 * What causes image smudging from a laser printer?
     * The fuser isn’t heating the toner and fusing it into the paper.
+* What special modifications apply to NAS
+    * Media streaming capabilities, file-sharing services, Gigabit NIC, and a RAID array
+* The wireless networking standard 802.11a operates at __________ (frequency) and supports __________ (speed).
+    * 5GHz 54 Mbps
+* Mini PCIe cards have __________ connectors.
+    * 52-pin Card Edge
+* In a multiboot installation, which two methods can you use to set the default operating system?
+    * The Startup and Recovery option in the System Properties or the Boot tab in the msconfig.exe utility.
+* A DDR4 SODIMM has a minumum of how many pins?
+    * 260
+* Two types of full-sized fiber-optic connectors are __________ and __________.
+    * SC (Subscriber Connector), ST (Straight Tip)
 * 
