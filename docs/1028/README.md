@@ -102,3 +102,4 @@ Which remote technology operates on TCP port 22?
     * Image
 * What kind of CPU enhancements are recommended for virtualization workstations?
     * Multiple CPUs, each with multiple cores (Concurrency)
+* 
