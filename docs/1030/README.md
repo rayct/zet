@@ -9,8 +9,11 @@ This course from Harvard University explores the concepts and algorithms at the 
 * Harvard CS50’s Artificial Intelligence with Python – Full University Course by edX
 
     * Search
-        * Agent
+        * Agent:
             * Entity that perceives its environment and acts upon that environment.
+        * State:
+            * A configuration of the agent and its environment
+        
     * Knowledge
     * Uncertainty
     * Optimization
