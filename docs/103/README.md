@@ -1,9 +1,8 @@
 # Talored Scaffolding
 ## SEO Maketing Strategy
+### Suggestions for technical SEO improvements. 
 
-I'm happy to help you analyze the website and provide suggestions for technical SEO improvements. Please note that I can't directly access external websites, but if you describe the current state of the website and its technical aspects, I can certainly guide you through the improvements you can make. 
-
-Here's a table outlining some common technical SEO improvements and ways to implement them:
+A table outlining some common technical SEO improvements and ways to implement them:
 
 | Technical SEO Improvement   | Implementation Steps                                              |
 |-----------------------------|------------------------------------------------------------------|
@@ -20,3 +19,5 @@ Here's a table outlining some common technical SEO improvements and ways to impl
 | **Monitor Crawl Errors**    | 1. Regularly check Google Search Console for crawl errors.<br> 2. Address and fix any crawl errors promptly. |
 
 Remember, these are general technical SEO improvements that can apply to many websites. Depending on the specific issues and goals of your website, there may be additional recommendations to consider. Always ensure that any changes you make align with your overall SEO strategy and business objectives.
+
+Documentation By: **Raymond C. TURNER**
