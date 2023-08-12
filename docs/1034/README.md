@@ -1,12 +1,14 @@
 # Welcome!
 
-## "There's No Place Like 127.0.0.1"
+## Documenting My Journey into Computer Science and Technology!
+
+### "There's No Place Like 127.0.0.1"
+
 
 ***Live on the CMD Line!***
 
 Ramblings from **Raymond C. TURNER**.
 
-### Documenting My Journey into Computer Science and Technology!
 I'll be Eventually transitioning to a better more advanced theme.
 For now, I'm using the default MKDocs-Material theme to demonstrate simple site generation without any additional hackery.
 
