@@ -37,7 +37,7 @@ Join this channel to get access to perks:
 ---
 
 ## Transcript
-## Intro
+### Intro
 
 
 0:00
@@ -2166,7 +2166,6 @@ so if there's anyone left in this world that's still willing to engage on that l
 those people so thank you nice nice well to be continued [Music]
 1:50:27
 oh [Music]
-
 
 
 Documentation By: **Raymond C. TURNER**
