@@ -1,6 +1,6 @@
 # CS50 - AI - 2022/23
 
-<https://www.youtube.com/watch?v=5NgNicANyqM&list=TLPQMTEwODIwMjMXqyWF-OT52Q&index=2&pp=gAQBiAQB>
+📺 <https://www.youtube.com/watch?v=5NgNicANyqM&list=TLPQMTEwODIwMjMXqyWF-OT52Q&index=2&pp=gAQBiAQB>
 
 Course Contents and Notes
 
