@@ -8,6 +8,7 @@ python -m venv ./venv
 * After running this command, a directory named venv will be created. This is the directory which contains all the necessary executables to use the packages that a Python project would need. This is where Python packages will be installed. To list the files in the folder type below command in the terminal:
 
 `dir ./venv`
+`source mkdocs-material_venv/bin/activate`
 
 * The pip command still points to the global environment. We need to explicitly activate the created virtual environment to configure the current shell session to use pip commands from the virtualenv folder and don’t end up installing packages in the global environment: To activate venv first change the directory to venv\Scripts.
 
