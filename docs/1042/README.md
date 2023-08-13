@@ -1,5 +1,5 @@
 # ChatGPT Experiment No: 1
-
+## Random Number Generator GUI
 ### Version: 1
 * User
 Can you provide the algorithm incorporated in to a python random number generator based on these numbers: 4 6 10 13 34 3 5
