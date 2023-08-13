@@ -27,9 +27,9 @@ YouTube: 📺 <https://bit.ly/3DE8RAy>
 You can purchase Sam's book, 'Waking Up', here:
 <https://bit.ly/3Qp51D7>
 
-Sam has kindly given DOAC listeners 30 days free trial on his app - Waking Up. Here is the link: https://bit.ly/3QxIrrZ
+Sam has kindly given DOAC listeners 30 days free trial on his app - Waking Up. Here is the link: <https://bit.ly/3QxIrrZ>
 
-My new book! 'The 33 Laws Of Business & Life' pre order link: https://smarturl.it/DOACbook
+My new book! 'The 33 Laws Of Business & Life' pre order link: <https://smarturl.it/DOACbook>
 
 Join this channel to get access to perks:
 <https://bit.ly/3Dpmgx5>
