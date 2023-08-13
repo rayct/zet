@@ -1,8 +1,74 @@
 # Random Number Generator
 Program Created By: **Raymond C. TURNER**
 
+### Version 1.0.4 - Improved GUI (Expanded layout)
+This version of the GUI includes an expanded layout with a larger text box for output, a scrollbar for the output text box, and improved alignment of labels and entry fields. You can further customize and enhance the layout and appearance according to your preferences.
+
+```python
+import tkinter as tk
+from tkinter import messagebox
+import random
+
+def generate_numbers():
+    """
+    Generate random numbers based on the provided inputs and display them in the output text box.
+    """
+    try:
+        input_numbers = [int(num) for num in num_entry.get().split(",")]
+        input_weights = [int(weight) for weight in weight_entry.get().split(",")]
+        num_samples = int(num_samples_entry.get())
+
+        random_numbers = random.choices(input_numbers, weights=input_weights, k=num_samples)
+        output_text.config(state=tk.NORMAL)
+        output_text.delete(1.0, tk.END)
+        output_text.insert(tk.END, "Generated Random Numbers: " + ", ".join(map(str, random_numbers)) + "\n")
+        output_text.config(state=tk.DISABLED)
+    except ValueError:
+        messagebox.showerror("Input Error", "Invalid input format. Please enter valid numbers and weights.")
+
+# Create the main window
+root = tk.Tk()
+root.title("Random Number Generator")
+
+# Create labels and entry fields
+tk.Label(root, text="Enter Numbers (comma-separated):").grid(row=0, column=0, padx=10, pady=5, sticky="e")
+num_entry = tk.Entry(root)
+num_entry.grid(row=0, column=1, padx=10, pady=5, columnspan=2)
+
+tk.Label(root, text="Enter Weights (comma-separated):").grid(row=1, column=0, padx=10, pady=5, sticky="e")
+weight_entry = tk.Entry(root)
+weight_entry.grid(row=1, column=1, padx=10, pady=5, columnspan=2)
+
+tk.Label(root, text="Number of Samples:").grid(row=2, column=0, padx=10, pady=5, sticky="e")
+num_samples_entry = tk.Entry(root)
+num_samples_entry.grid(row=2, column=1, padx=10, pady=5, columnspan=2)
+
+# Create Generate button
+generate_button = tk.Button(root, text="Generate Numbers", command=generate_numbers)
+generate_button.grid(row=3, column=0, columnspan=3, padx=10, pady=10)
+
+# Create output text box
+output_text = tk.Text(root, height=10, width=40, state=tk.DISABLED)
+output_text.grid(row=4, column=0, columnspan=3, padx=10, pady=5)
+
+# Add a scrollbar to the output text box
+scrollbar = tk.Scrollbar(root, command=output_text.yview)
+scrollbar.grid(row=4, column=3, sticky="ns")
+output_text.config(yscrollcommand=scrollbar.set)
+
+# Start the GUI event loop
+root.mainloop()
+```
+
+---
+
+
 ### Version 1.0.3a - CMD Line Version
 A command-line version of the program that prompts the user to input the numbers, weights, and the number of samples:
+
+**Run the program using the following command:**
+
+`python random_number_generator_cmd_prompt.py`
 
 ```python
 import argparse
