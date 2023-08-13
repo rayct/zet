@@ -1,6 +1,6 @@
-Detailed Markdown document explaining the provided Python code for the Command Line Version of the Random Number Generator:
 
 # Command Line Random Number Generator
+
 
 This Python program generates random numbers based on user inputs from the command line. It utilizes the `argparse` library to parse command line arguments.
 
@@ -68,3 +68,8 @@ This block of code ensures that the `main` function is executed only when the sc
 ---
 
 This Markdown document provides a detailed explanation of the Python code for the Command Line Version of the Random Number Generator. It describes how the program uses command line arguments to generate random numbers and display them in the terminal.
+
+
+Documentation By: **Raymond C. TURNER**
+
+Last Updated: 1 Day ago

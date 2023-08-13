@@ -191,3 +191,7 @@ Start the main event loop to display the GUI and handle user interactions.
 ---
 
 This Markdown document provides a detailed explanation of the Python code and its corresponding program, which generates random numbers based on user inputs and displays them in a GUI window while also logging the generated numbers to a file.
+
+Documentation By: **Raymond C. TURNER**
+
+Last Updated: 1 Day ago
