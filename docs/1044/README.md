@@ -1,7 +1,6 @@
 
 # Command Line Random Number Generator
 
-
 This Python program generates random numbers based on user inputs from the command line. It utilizes the `argparse` library to parse command line arguments.
 
 ## Prerequisites
