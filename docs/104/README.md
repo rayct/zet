@@ -1,6 +1,101 @@
 # Random Number Generator
+Program Created By: **Raymond C. TURNER**
 
-### Version 1.0.2
+### Version 1.0.3a - CMD Line Version
+A command-line version of the program that prompts the user to input the numbers, weights, and the number of samples:
+
+```python
+import argparse
+import random
+
+def generate_numbers(numbers, weights, num_samples):
+    try:
+        numbers = [int(num) for num in numbers.split(",")]
+        weights = [int(weight) for weight in weights.split(",")]
+
+        random_numbers = random.choices(numbers, weights=weights, k=num_samples)
+        return random_numbers
+    except ValueError:
+        print("Invalid input format. Please enter valid numbers and weights.")
+        return []
+
+def main():
+    numbers = input("Enter comma-separated list of numbers: ")
+    weights = input("Enter comma-separated list of weights: ")
+    num_samples = int(input("Enter the number of samples to generate: "))
+
+    random_numbers = generate_numbers(numbers, weights, num_samples)
+
+    if random_numbers:
+        print("Generated Random Numbers:", ", ".join(map(str, random_numbers)))
+
+if __name__ == "__main__":
+    main()
+```
+
+---
+
+
+### Version 1.0.3 - Added a UI
+A simple graphical user interface (GUI) using the `tkinter`:
+
+```python
+import tkinter as tk
+from tkinter import messagebox
+import random
+
+def generate_numbers():
+    """
+    Generate random numbers based on the provided inputs and display them in the output text box.
+    """
+    try:
+        input_numbers = [int(num) for num in num_entry.get().split(",")]
+        input_weights = [int(weight) for weight in weight_entry.get().split(",")]
+        num_samples = int(num_samples_entry.get())
+
+        random_numbers = random.choices(input_numbers, weights=input_weights, k=num_samples)
+        output_text.config(state=tk.NORMAL)
+        output_text.delete(1.0, tk.END)
+        output_text.insert(tk.END, "Generated Random Numbers: " + ", ".join(map(str, random_numbers)) + "\n")
+        output_text.config(state=tk.DISABLED)
+    except ValueError:
+        messagebox.showerror("Input Error", "Invalid input format. Please enter valid numbers and weights.")
+
+# Create the main window
+root = tk.Tk()
+root.title("Random Number Generator")
+
+# Create labels and entry fields
+tk.Label(root, text="Numbers (comma-separated):").grid(row=0, column=0, padx=10, pady=5, sticky="e")
+num_entry = tk.Entry(root)
+num_entry.grid(row=0, column=1, padx=10, pady=5)
+
+tk.Label(root, text="Weights (comma-separated):").grid(row=1, column=0, padx=10, pady=5, sticky="e")
+weight_entry = tk.Entry(root)
+weight_entry.grid(row=1, column=1, padx=10, pady=5)
+
+tk.Label(root, text="Number of Samples:").grid(row=2, column=0, padx=10, pady=5, sticky="e")
+num_samples_entry = tk.Entry(root)
+num_samples_entry.grid(row=2, column=1, padx=10, pady=5)
+
+# Create Generate button
+generate_button = tk.Button(root, text="Generate Number", command=generate_numbers)
+generate_button.grid(row=3, columnspan=2, padx=10, pady=10)
+
+# Create output text box
+output_text = tk.Text(root, height=6, width=40, state=tk.DISABLED)
+output_text.grid(row=4, columnspan=2, padx=10, pady=5)
+
+# Start the GUI event loop
+root.mainloop()
+
+```
+
+This program creates a simple GUI using the `tkinter` library. It allows you to input numbers, weights, and the number of samples, and then generates and displays random numbers based on the provided inputs. Make sure to have the `tkinter` library installed in your Python environment to run this program.
+
+---
+
+### Version 1.0.2 -  - CMD Line Version
 1. To generate high-quality random numbers, you can use the `random.choices()` function from the `random` module with the `weights` parameter for weighted random selection. Here's the program using the `random` module to generate high-quality random numbers based on the provided list of numbers and their weights:
 
 ```python
@@ -24,7 +119,7 @@ In this program, the `random.choices()` function is used to generate a list of h
 ---
 
 
-### Version 1.0.1
+### Version 1.0.1 - CMD Line Version
 3. Certainly! Here's the same program using the `random` module to achieve weighted random selection:
 
 ```python
@@ -50,7 +145,7 @@ Remember that this approach uses the `random` module for weighted random selecti
 ---
 
 
-### Version 1.0
+### Version 1.0 - CMD Line Version
 4. It seems like you are looking for an algorithm to generate random numbers in Python based on the provided list of numbers: 4, 6, 10, 13, 34, 3, 5. One way to achieve this is by using a weighted random selection algorithm. Here's an example of how you can implement this:
 
 ```python
