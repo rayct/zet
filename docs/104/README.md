@@ -2,7 +2,6 @@
 Program Created By: **Raymond C. TURNER**
 
 
-
 ### Version 1.0.5 - Improved GUI includes an expanded doubled layout
 This version of the GUI doubles the size of components and spacing to create a more spacious layout.
 You can adjust the size and placement of components further to match your desired appearance.
