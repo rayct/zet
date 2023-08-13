@@ -21,7 +21,7 @@ Get ready for insights that will make your brain melt and make sure you’re equ
 
 ### QUOTES:
 
- "AI holds the potential to solve many of the world's pressing problems...if used innovatively and ethically."
+"AI holds the potential to solve many of the world's pressing problems...if used innovatively and ethically."
 
 "With AI, we're facing potential societal disruptions, but also exploring exciting opportunities in personalized education and healthcare."
 
