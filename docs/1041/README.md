@@ -1,6 +1,10 @@
 # Start of WW3 due to the Advance in AI and Quantum Computing.
 
+
+# "You Simply can not Control a Hungry Lion/Tiger should it escape their Shackles."
+
 ## "When humanity completely loses all sense of reality, for example, to the point where we can no longer determine what's real and what's not real."
+
 
 *  Disinformation
 
