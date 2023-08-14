@@ -5,3 +5,6 @@
         * Author: Kevin P. MURPHY
     * Deep Learning (Adaptive Computation and Machine Learning series)
         * Authors: (Ian GoodFellow, Yoshua Bengio and Aaron Courville)
+
+
+Documentation by: **Raymond C. TURNER**
