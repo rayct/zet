@@ -15,7 +15,6 @@ ML systems are rapidly increasing in size, are acquiring new capabilities, and a
 
 ---
 
-
 * Deep Learning Review
 * Risk Decomposition
 * Accident Models

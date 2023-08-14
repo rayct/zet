@@ -146,4 +146,12 @@ macOS supports various compression formats, including:
 
 Remember to replace `archive_name` with your desired archive name and specify the appropriate files and folders.
 
+
+---
+
+# My Notes
+
+`tar -czvf Random-Number-Generator-GUI-v0.1.1-beta.1.tar.gz Random-Number-Generator-GUI-v0.1.1-beta.1`
+
+
 Choose the compression format based on your preferences and requirements. Each format has its own characteristics in terms of compression ratio and speed.
