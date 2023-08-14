@@ -17,12 +17,17 @@ This course from Harvard University explores the concepts and algorithms at the 
             * A configuration of the agent and its environment
         * Initial State:
             * The state in which the agent begins
+        
+
     * Knowledge
     * Uncertainty
     * Optimization
     * Learning
+      * Machine Learning
     * Neural Networks
+      * Human Natural Language Processing
     * Language
+      * Human Natural Languages
 
 
 
