@@ -185,10 +185,7 @@ Persistent abdominal distension that prevents you from wearing tight clothing ca
 
 If you're experiencing persistent abdominal distension, it's important to consult a healthcare professional for a proper evaluation. They can conduct a physical examination, review your medical history, and recommend appropriate tests to determine the underlying cause. This might include blood tests, imaging studies, endoscopy, or other diagnostic procedures. Based on the findings, your doctor can develop a suitable treatment plan to address your symptoms and improve your comfort.
 
-
-
 ---
-
 
 # Healthcare professional or GP are interested
 
