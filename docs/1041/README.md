@@ -11,6 +11,12 @@
 * Who gets to use AI?
 * Use for it Science, Physics, Medicine, Human Biology, Climate Change and Above all the Preseveration of Humanity and to protect our beautiful EARTH.
 * We must have A KILL Switch!
+* Taking a Psychadelic whilst your about to die at home with a view of the sky and clouds and the smell of the ocean breeze, surrounded by family.
+* Why do we have to debate on all our beliefs, opinions and religeous or agnostic views. (It doesn't matter!)
+* No Internal Sufferring
+* Bad Actors
+* Real Harms
+* Regulation is CRUCIAL!, Regardless of the FACT! that it will be diffucult keep up with the Regulation Governance.
 
 # "THE END!"
 

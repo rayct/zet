@@ -1,5 +1,5 @@
 
-# Random Number Generator GUI
+# Random Number Generator - GUI
 
 This Python program utilizes the `tkinter` library to create a Graphical User Interface (GUI) for generating random numbers based on user inputs.
 
