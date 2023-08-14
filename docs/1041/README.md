@@ -6,6 +6,12 @@
 
 * REAL or Deep FAKE!, Who Knows?
 
+* We need to be able to trust that the advance in AI will be put to good use. [Like you would use a Hammer for a Nail and Not! Somebody's head]
+* AI is Tool and we need to use and regulate it for the better good.
+* Who gets to use AI?
+* Use for it Science, Physics, Medicine, Human Biology, Climate Change and Above all the Preseveration of Humanity and to protect our beautiful EARTH.
+* We must have A KILL Switch!
+
 # "THE END!"
 
 
