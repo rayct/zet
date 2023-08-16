@@ -46,6 +46,7 @@ ML systems are rapidly increasing in size, are acquiring new capabilities, and a
 * Special model for calculas
 * A Teacher has a 1 to 20 attention for all the kids
 * Are you a visual learner or Audible learner
+* 
 
 Documentation By: **Raymond C. TURNER**
 
