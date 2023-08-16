@@ -1,6 +1,6 @@
 
 # Random Number Generator - GUI
-## Protoype 1
+## Protoype 2
 
 This Python program utilizes the `tkinter` library to create a Graphical User Interface (GUI) for generating random numbers based on user inputs.
 
@@ -192,6 +192,7 @@ Start the main event loop to display the GUI and handle user interactions.
 ---
 
 This Markdown document provides a detailed explanation of the Python code and its corresponding program, which generates random numbers based on user inputs and displays them in a GUI window while also logging the generated numbers to a file.
+
 
 Documentation By: **Raymond C. TURNER**
 
