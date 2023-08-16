@@ -45,7 +45,7 @@ ML systems are rapidly increasing in size, are acquiring new capabilities, and a
 * Got the Building Blocks but Not the Design Patterns, AI only at the Copy and Paste stage.
 * Special model for calculas
 * A Teacher has a 1 to 20 attention for all the kids
-* Are you a visual learner or Audible learner
+* Are you a Visual learner or Auditory learner. (See `Zet 1049` for a more detailed analysis of the two deifferences of learning  techniques) 
 * 
 
 Documentation By: **Raymond C. TURNER**
