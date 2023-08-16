@@ -43,6 +43,12 @@ python -m venv ./venv
 
 `(venv_name)$ deactivate`
 
+* Check your version of tkinter
+
+`python3 -m tkinter`
+
+
+---
 
 Documentation By: **Raymond C. TURNER**
 
