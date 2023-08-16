@@ -46,6 +46,9 @@ ML systems are rapidly increasing in size, are acquiring new capabilities, and a
 * Special model for calculas
 * A Teacher has a 1 to 20 attention for all the kids
 * Are you a Visual learner or Auditory learner. (See `Zet 1049` for a more detailed analysis of the two deifferences of learning  techniques) 
+* "AI is more empathetic; however, that doesn't mean AI is super empathetic. It means doctors should be more 'empathetic.' (Many doctors lack empathy or even a hate their patients anyhow.)"
+
+    * How many Teachers are happy; how may Doctors are happy?
 * 
 
 Documentation By: **Raymond C. TURNER**
