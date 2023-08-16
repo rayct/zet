@@ -1,4 +1,4 @@
-# Talored Scaffolding.co.uk with AI NLP Model Plan 2023/24
+# Tailored Scaffolding.co.uk - AI NLP Model Plan 2023/24
 
 ## Creating a fully functional AI chatbot in Go for a scaffolding company involves several steps, including setting up the development environment, integrating with a natural language processing (NLP) service, and defining the chatbot's behavior. Below is a high-level outline of the process:
 
