@@ -26,6 +26,30 @@ The Number Sequence Generator is a Python application that allows users to gener
     - [Number Sequence Generator v1.0.0](#number-sequence-generator-v100-1)
       - [Developed by: Raymond C. TURNER](#developed-by-raymond-c-turner-1)
   - [Installer Package Creation](#installer-package-creation)
+- [User Guide - Mark Down Format](#user-guide---mark-down-format)
+- [Number Sequence Generator v1.0.0-beta - User Guide](#number-sequence-generator-v100-beta---user-guide)
+  - [Table of Contents](#table-of-contents-1)
+  - [Introduction](#introduction)
+    - [About the Number Sequence Generator](#about-the-number-sequence-generator)
+    - [System Requirements](#system-requirements)
+    - [Installation](#installation-1)
+  - [Getting Started](#getting-started)
+    - [Running the Program](#running-the-program)
+    - [User Interface Overview](#user-interface-overview)
+  - [Generating Number Sequences](#generating-number-sequences)
+    - [Entering a Seed Number](#entering-a-seed-number)
+    - [Generating a Sequence](#generating-a-sequence)
+    - [Viewing Generated Sequences](#viewing-generated-sequences)
+    - [Clearing Log Files](#clearing-log-files)
+  - [Customization](#customization)
+    - [Switching Themes](#switching-themes)
+    - [Exiting the Application](#exiting-the-application)
+  - [Troubleshooting](#troubleshooting)
+    - [Common Issues and Solutions](#common-issues-and-solutions)
+  - [About](#about-1)
+    - [Application Information](#application-information)
+    - [Developer Contact](#developer-contact)
+  - [User Guide - Text Format](#user-guide---text-format)
 
 ## Installation
 
@@ -366,7 +390,267 @@ Remember that this process might vary depending on your specific requirements an
 
 Please note that while creating standalone executables can make distribution easier, it may result in larger file sizes compared to using a Python interpreter directly. Additionally, be sure to comply with licensing requirements for any libraries or assets you use in your application.
 
-As of my last knowledge update in September 2021, this information should be accurate. However, it's always a good idea to check for any updates or changes in the tools you're using.
+---
+
+
+# User Guide - Mark Down Format
+
+# Number Sequence Generator v1.0.0-beta - User Guide
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+   - About the Number Sequence Generator
+   - System Requirements
+   - Installation
+
+2. [Getting Started](#getting-started)
+   - Running the Program
+   - User Interface Overview
+
+3. [Generating Number Sequences](#generating-number-sequences)
+   - Entering a Seed Number
+   - Generating a Sequence
+   - Viewing Generated Sequences
+   - Clearing Log Files
+
+4. [Customization](#customization)
+   - Switching Themes
+   - Exiting the Application
+
+5. [Troubleshooting](#troubleshooting)
+   - Common Issues and Solutions
+
+6. [About](#about)
+   - Application Information
+   - Developer Contact
+
+## Introduction
+
+### About the Number Sequence Generator
+
+The Number Sequence Generator is a simple Python-based application that allows you to generate unique number sequences based on a seed number. This guide provides instructions on how to install, use, and customize the application.
+
+### System Requirements
+
+- Windows 7 or later
+- macOS (version)
+- Linux (version)
+- Python 3.10.8 or later
+
+### Installation
+
+1. Download the executable file ("number_sequence_generator.exe") from the provided source.
+2. Double-click the executable file to run the application.
+
+## Getting Started
+
+### Running the Program
+
+To start the Number Sequence Generator, follow these steps:
+
+1. Locate the "number_sequence_generator.exe" file on your computer.
+2. Double-click the executable file to launch the application.
+
+### User Interface Overview
+
+The application's user interface consists of several elements:
+
+- Seed Entry: Enter a seed number in this field to generate a sequence.
+- Generate Unique Sequence Button: Click this button to generate a sequence based on the entered seed number.
+- Open Log File Button: View the log of generated sequences.
+- Clear Log File Button: Clear the log file of generated sequences.
+- Toggle Theme Button: Switch between light and dark themes.
+- Close Application Button: Exit the application.
+- Result Label: Displays the generated sequence or error messages.
+
+## Generating Number Sequences
+
+### Entering a Seed Number
+
+1. Launch the application.
+2. In the "Enter a seed number" field, type a numerical seed value.
+
+### Generating a Sequence
+
+1. Enter a seed number as described above.
+2. Click the "Generate Unique Sequence" button.
+3. The generated sequence will be displayed below the button.
+
+### Viewing Generated Sequences
+
+1. Click the "Open Log File" button to view the log of generated sequences.
+2. The log window will display the list of previously generated sequences.
+
+### Clearing Log Files
+
+1. Click the "Clear Log File" button to remove the log of generated sequences.
+2. Confirm the action if prompted.
+
+## Customization
+
+### Switching Themes
+
+- Click the "Toggle Theme" button to switch between light and dark themes.
+
+### Exiting the Application
+
+- Click the "Close Application" button or select "Exit" from the "File" menu to exit the application.
+
+## Troubleshooting
+
+### Common Issues and Solutions
+
+- **Issue**: Error message "Please enter a valid number."
+  - **Solution**: Ensure you have entered a valid numerical seed value.
+
+- **Issue**: Log window not opening.
+  - **Solution**: Make sure no other log window is open. Try clicking "Open Log File" again.
+
+## About
+
+### Application Information
+
+- Application Name: Number Sequence Generator
+- Version: 1.0.0-beta
+- Release Date: August 16, 2023
+
+### Developer Contact
+
+- Developer: Raymond C. TURNER
+- Website: [codestak.io](https://codestak.io)
+- Email: [support@codestak.io](mailto:support@codestak.io)
+
+---
+
+
+## User Guide - Text Format
+Number Sequence Generator v1.0.0-beta - User Guide
+
+Table of Contents
+
+1. Introduction
+   - About the Number Sequence Generator
+   - System Requirements
+   - Installation
+
+2. Getting Started
+   - Running the Program
+   - User Interface Overview
+
+3. Generating Number Sequences
+   - Entering a Seed Number
+   - Generating a Sequence
+   - Viewing Generated Sequences
+   - Clearing Log Files
+
+4. Customization
+   - Switching Themes
+   - Exiting the Application
+
+5. Troubleshooting
+   - Common Issues and Solutions
+
+6. About
+   - Application Information
+   - Developer Contact
+
+Introduction
+
+About the Number Sequence Generator
+
+The Number Sequence Generator is a simple Python-based application that allows you to generate unique number sequences based on a seed number. This guide provides instructions on how to install, use, and customize the application.
+
+System Requirements
+
+- Windows 7 or later
+- macOS (version)
+- Linux (version)
+- Python 3.10.8 or later
+
+Installation
+
+1. Download the executable file ("number_sequence_generator.exe") from the provided source.
+2. Double-click the executable file to run the application.
+
+Getting Started
+
+Running the Program
+
+To start the Number Sequence Generator, follow these steps:
+
+1. Locate the "number_sequence_generator.exe" file on your computer.
+2. Double-click the executable file to launch the application.
+
+User Interface Overview
+
+The application's user interface consists of several elements:
+
+- Seed Entry: Enter a seed number in this field to generate a sequence.
+- Generate Unique Sequence Button: Click this button to generate a sequence based on the entered seed number.
+- Open Log File Button: View the log of generated sequences.
+- Clear Log File Button: Clear the log file of generated sequences.
+- Toggle Theme Button: Switch between light and dark themes.
+- Close Application Button: Exit the application.
+- Result Label: Displays the generated sequence or error messages.
+
+Generating Number Sequences
+
+Entering a Seed Number
+
+1. Launch the application.
+2. In the "Enter a seed number" field, type a numerical seed value.
+
+Generating a Sequence
+
+1. Enter a seed number as described above.
+2. Click the "Generate Unique Sequence" button.
+3. The generated sequence will be displayed below the button.
+
+Viewing Generated Sequences
+
+1. Click the "Open Log File" button to view the log of generated sequences.
+2. The log window will display the list of previously generated sequences.
+
+Clearing Log Files
+
+1. Click the "Clear Log File" button to remove the log of generated sequences.
+2. Confirm the action if prompted.
+
+Customization
+
+Switching Themes
+
+- Click the "Toggle Theme" button to switch between light and dark themes.
+
+Exiting the Application
+
+- Click the "Close Application" button or select "Exit" from the "File" menu to exit the application.
+
+Troubleshooting
+
+Common Issues and Solutions
+
+- Issue: Error message "Please enter a valid number."
+  Solution: Ensure you have entered a valid numerical seed value.
+
+- Issue: Log window not opening.
+  Solution: Make sure no other log window is open. Try clicking "Open Log File" again.
+
+About
+
+Application Information
+
+- Application Name: Number Sequence Generator
+- Version: 1.0.0
+- Release Date: August 15, 2023
+
+Developer Contact
+
+- Developer: Raymond C. TURNER
+- Website: codestak.io
+- Email: support@codestak.io
+
 Documentation by: **Raymond C. TURNER**
 
 Last Updated: 1 Day ago
