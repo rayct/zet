@@ -37,6 +37,9 @@ ML systems are rapidly increasing in size, are acquiring new capabilities, and a
 * Safety-Capabilities Balance
 * Review and Conclusion
 * Biased or Alignment Concerns (More so Alignment)
+* Layer 1 for AI
+* Healthcare, Own your own AI
+* Adaptive learning Tablets with bringing learning Models
 
 Documentation By: **Raymond C. TURNER**
 
