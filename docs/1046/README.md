@@ -25,6 +25,7 @@ The Number Sequence Generator is a Python application that allows users to gener
 - [CODE](#code)
     - [Number Sequence Generator v1.0.0](#number-sequence-generator-v100-1)
       - [Developed by: Raymond C. TURNER](#developed-by-raymond-c-turner-1)
+  - [Installer Package Creation](#installer-package-creation)
 
 ## Installation
 
@@ -334,6 +335,38 @@ help_menu.add_command(label="About", command=show_about_window)
 root.mainloop()
 ```
 
+---
+
+## Installer Package Creation
+Creating an installer package for a Python application involves bundling your code, dependencies, and any required assets into a distributable package that users can install on their systems. One common way to achieve this is by using a tool like `pyinstaller` or `cx_Freeze` to create standalone executable files or installable packages.
+
+In this example, I'll demonstrate how to use `pyinstaller` to create a standalone executable for your Number Sequence Generator application.
+
+1. **Install PyInstaller**: If you haven't already, you can install PyInstaller using the following command:
+
+   ```bash
+   pip install pyinstaller
+   ```
+
+2. **Create an Executable**:
+
+   Open a terminal and navigate to the directory containing your script (`number_sequence_generator.py`). Then, use PyInstaller to create an executable:
+
+   ```bash
+   pyinstaller --onefile numgen.py
+   ```
+
+   This command will create a `dist` directory in your project folder, containing the standalone executable. Note that the `--onefile` option bundles everything into a single executable, which is more convenient for distribution.
+
+3. **Distribute the Executable**:
+
+   Once the executable is created, you can distribute it to users. They can simply run the executable without needing to install Python or any dependencies. You may want to provide instructions for running the executable and any additional files that might be required (such as your icon file).
+
+Remember that this process might vary depending on your specific requirements and the platform you're targeting. You might need to customize the PyInstaller command or handle additional considerations for packaging, such as including external files or specifying application metadata.
+
+Please note that while creating standalone executables can make distribution easier, it may result in larger file sizes compared to using a Python interpreter directly. Additionally, be sure to comply with licensing requirements for any libraries or assets you use in your application.
+
+As of my last knowledge update in September 2021, this information should be accurate. However, it's always a good idea to check for any updates or changes in the tools you're using.
 Documentation by: **Raymond C. TURNER**
 
 Last Updated: 1 Day ago
