@@ -1,4 +1,6 @@
-# Start of WW3 due to the Advance in AI and Quantum Computing.
+# AI Safety Notes
+
+## Start of WW3 due to the Advance in AI and Quantum Computing.
 
 
 # "You Simply can not Control a Hungry Lion/Tiger should it escape their Shackles."
@@ -21,6 +23,8 @@
 * Bad Actors
 * Real Harms
 * Regulation is CRUCIAL!, Regardless of the FACT! that it will be diffucult keep up with the Regulation Governance.
+* Out Sourcing your Mind to AI
+* Do we worry about Biased Or Alignment - (More so Alignment)
 
 # "THE END!"
 

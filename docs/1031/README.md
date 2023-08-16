@@ -36,7 +36,7 @@ ML systems are rapidly increasing in size, are acquiring new capabilities, and a
 * AI and Evolution
 * Safety-Capabilities Balance
 * Review and Conclusion
-
+* Biased or Alignment Concerns (More so Alignment)
 
 Documentation By: **Raymond C. TURNER**
 

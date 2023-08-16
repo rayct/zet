@@ -1,4 +1,5 @@
-# Talored Scaffolding
+# Talored Scaffolding.co.uk
+
 ## Creating a fully functional AI chatbot in Go for a scaffolding company involves several steps, including setting up the development environment, integrating with a natural language processing (NLP) service, and defining the chatbot's behavior. Below is a high-level outline of the process:
 
 1. **Setup Development Environment:**
