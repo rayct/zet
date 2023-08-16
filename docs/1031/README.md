@@ -40,6 +40,12 @@ ML systems are rapidly increasing in size, are acquiring new capabilities, and a
 * Layer 1 for AI
 * Healthcare, Own your own AI
 * Adaptive learning Tablets with bringing learning Models
+* Variable reward schedule
+* Transform Education
+* Got the Building Blocks but Not the Design Patterns, AI only at the Copy and Paste stage.
+* Special model for calculas
+* A Teacher has a 1 to 20 attention for all the kids
+* Are you a visual learner or Audible learner
 
 Documentation By: **Raymond C. TURNER**
 
