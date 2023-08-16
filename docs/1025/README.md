@@ -246,6 +246,8 @@ To create and manage a virtual environment (venv) in Linux, you can follow these
    ```
    deactivate
    ```
+7. Check your version of tkinter
+   `python3 -m tkinter`
 
 7. To delete the virtual environment, you can simply delete the directory associated with it. Be cautious when deleting directories, as this action is irreversible.
 
