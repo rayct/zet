@@ -83,7 +83,7 @@ func main() {
 
 ## An Example of a `NLP` for a Scaffolding Hire Company (tailoredscaffolding.co.uk)
 
-Certainly! Let's consider an example of how Natural Language Processing (NLP) could be applied to a scaffolding hire company's website to enhance customer interactions and streamline their services.
+sLet's consider an example of how Natural Language Processing (NLP) could be applied to a scaffolding hire company's website to enhance customer interactions and streamline their services.
 
 **Example Scenario: Booking Scaffolding**
 
