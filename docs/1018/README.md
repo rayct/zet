@@ -44,4 +44,7 @@ This would have a deep impact on almost every engineering discipline. One of the
  are other things you think will be positively impacted. I want to know! So that's what we know about the recent room temperature superconductor discovery. How do you feel about it? Are you excited? Are you skeptical? Do you think it's real? Do you think it's too good to be true? Or do you think it's the end of the world? Like so many people, I do think it's a little bit of a miracle, but we're very skeptical.
 
 
-**Documentation By:** `Raymond C. TURNER`
+
+Documentation By: **Raymond C. TURNER**
+
+Last Updated: 1 Day ago
