@@ -25,10 +25,16 @@ Even if you are not a student at Harvard, you are welcome to “take” this cou
 ### Week 1 - C Intro
 * **Problem Set 1**
 * Cash
+* 
+
 
 
 ### Week 2 - Arrays
 - **Problem Set 2**
+
+
+
+
 
 
 ### Week 3 - Algorithms
