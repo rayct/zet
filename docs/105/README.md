@@ -7,10 +7,6 @@
 ## Fork Me on GitHub
 <https://github.com/mbadolato/iTerm2-Color-Schemes>
 
-## NOTE! Doesn't work on Linux Mint Cinnamon GNOME Terminal
-
-
-
 ## My Favourite Theme:
 
 <a href="https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/GruvboxDark.itermcolors">GRUVBOX Theme</a>
