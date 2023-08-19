@@ -1,4 +1,4 @@
-# Set up a GitHub repository with SSH and GPG on Linux
+# GitHub SSH and GPG keys on Linux
 
 ### Check Git Version
 `git -- version`

@@ -1,4 +1,4 @@
-# Ubuntu Jammy sources.list
+# APT Ubuntu Jammy sources.list
 
 
 deb http://archive.ubuntu.com/ubuntu/ jammy main restricted universe multiverse

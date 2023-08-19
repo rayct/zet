@@ -5,6 +5,7 @@
 * EmilyMcVicker
 * CaitlinV3
 * JustineGrffin
+* kriss_drummer
 
 
 Documentation by: **Raymond C. TURNER**

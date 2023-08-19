@@ -230,7 +230,8 @@ To create and manage a virtual environment (venv) in Linux, you can follow these
 4. To activate the virtual environment, run:
 
    ```
-   source myenv/bin/activate
+   * source myenv/bin/activate
+   * source mkdocs-material_venv/bin/activate
    ```
 
    Your terminal prompt should now change to indicate that you are in the virtual environment.
