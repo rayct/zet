@@ -10,11 +10,14 @@
 ## NOTE! Doesn't work on Linux Mint Cinnamon GNOME Terminal
 
 
+
 ## My Favourite Theme:
 
 <a href="https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/GruvboxDark.itermcolors">GRUVBOX Theme</a>
 
 ---
+
+## NOTE! Doesn't work on Linux Mint Cinnamon GNOME Terminal
 
 A set of color themes for most terminals.
 Includes iTerm2, Terminal, Konsole, PuTTY, Xresources, XRDB, Remina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, and Microsoft's Windows Terminal
