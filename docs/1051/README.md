@@ -1,4 +1,4 @@
-# Setting up a GitHub Repo from CLI
+# Setting up a GitHub Repo locally with CLI
 
 Create a new repository directly from the command line using the GitHub CLI tool.
 This tool allows you to interact with GitHub repositories, issues, pull requests, and more, all from your terminal. Here's how you can use it to create a new repository:
