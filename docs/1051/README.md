@@ -34,8 +34,9 @@ Create a new repository directly from the command line using the GitHub CLI tool
 
    d. Use the GitHub CLI to create a new repository. Replace `<repository>` with your desired repository name.
    ```bash
-   1. gh repo create <repository> --public --confirm
-   2. gh repo create <repository> --private --confirm
+   1. gh repo create <repository>
+   2. gh repo create <repository> --public --confirm
+   3. gh repo create <repository> --private --confirm
    ```
 
    This command will create a new repository on GitHub with the provided name, set it as public or private, and confirm the action.
@@ -74,7 +75,9 @@ This tool allows you to interact with GitHub repositories, issues, pull requests
 3. **Create a New Repository:**
    Once authenticated, you can create a new repository with the `gh repo create` command. Replace `<repository>` with your desired repository name:
    ```bash
-   gh repo create <repository>
+   1. gh repo create <repository>
+   2. gh repo create <repository> --public --confirm
+   3. gh repo create <repository> --private --confirm
    ```
 
    This command will prompt you to provide various details for your repository, such as its visibility (public or private), description, and whether you want to initialize it with a README, license, etc.
