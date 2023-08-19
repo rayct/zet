@@ -1,4 +1,4 @@
-# GITHUB ISSUES
+# GITHUB ISSUES and Error's
 
 ## GPG ISSUES
 ## error: gpg failed to sign the data:

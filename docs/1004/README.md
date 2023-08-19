@@ -86,8 +86,6 @@ See GPG’s documentation about common problems.
 https://www.gnupg.org/(it)/documentation/manuals/gnupg/Common-Problems.html
 
 
-
-
 ### We will now test the config by commiting something.
 
 1. Enter your passphrase/password to protect the key
