@@ -7,6 +7,8 @@
 ## Fork Me on GitHub
 <https://github.com/mbadolato/iTerm2-Color-Schemes>
 
+## NOTE! Doesn't work on Linux Mint Cinnamon GNOME Terminal
+
 
 ## My Favourite Theme:
 
