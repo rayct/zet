@@ -1,4 +1,4 @@
-# Linux Stuff
+# Linux Stuff - 2023
 
 To move a directory and its contents to another directory in Linux, you can use the `mv` command. Here's the basic syntax:
 
@@ -255,6 +255,53 @@ To create and manage a virtual environment (venv) in Linux, you can follow these
 Remember to activate the virtual environment every time you want to work within it, and deactivate it when you're done.
 
 Please note that the exact commands might vary slightly depending on your Linux distribution and setup. The above instructions assume you are using a standard Python installation on a Linux system.
+
+
+---
+
+# When dealing with directory names that have spaces in them, you need to take special care when using the command line. Spaces are used as delimiters in command-line arguments, so you need to properly escape or quote the directory names to ensure they are interpreted correctly. Here's how you can change directory names with spaces using various command-line interfaces:
+
+1. **Linux and macOS (Bash shell):**
+
+   Use quotes around the directory name or escape the spaces with a backslash:
+
+   ```bash
+   mv "old dir name with spaces" "new dir name"
+   # or
+   mv old\ dir\ name\ with\ spaces new\ dir\ name
+   ```
+
+2. **Windows (Command Prompt):**
+
+   Enclose the directory names in double quotes:
+
+   ```batch
+   ren "old dir name with spaces" "new dir name"
+   ```
+
+   or
+
+   ```batch
+   rename "old dir name with spaces" "new dir name"
+   ```
+
+3. **Windows (PowerShell):**
+
+   Enclose the directory names in single quotes or double quotes:
+
+   ```powershell
+   Rename-Item 'old dir name with spaces' 'new dir name'
+   # or
+   Rename-Item "old dir name with spaces" "new dir name"
+   ```
+
+4. **Windows Subsystem for Linux (WSL):**
+
+   You can use the same commands as for Linux and macOS in the WSL terminal.
+
+Remember to replace `"old dir name with spaces"` and `"new dir name"` with your actual directory names.
+
+In general, using quotes around file or directory names with spaces is a safer approach, as it ensures that the entire name is treated as a single argument by the command-line interpreter. If you're working with scripting, be aware of the context in which you're using these commands, as different scripting languages may require slightly different approaches.
 
 
 ---
