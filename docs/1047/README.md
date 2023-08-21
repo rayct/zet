@@ -212,13 +212,14 @@ Ok! All the best and Take care Good bye.
 Sent 3:59 PM
 Type your message here
 
-
-
-
 ---
 
 As checked I see the **Illustrator** plan renews on **18 Apr 2024.** However, We send out an email a month prior the renewal date which is on the 11th month allowing you 30 days of time if you wish to continue for the  next term.
 
 Ray, I would really love to help you with that price if it was available but the best price we have is GBP 16.18 which is VAT included.
 
+---
+
 Documentation by: **Raymond C. TURNER**
+
+Last Updated: Monady 22nd August 2023 @ 00:32 BST

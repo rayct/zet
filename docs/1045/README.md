@@ -20,6 +20,8 @@ For example, a valid GitHub release tag could be `v1.2.3`, where:
 
 This naming convention helps users quickly understand the significance of the release and the changes it brings. It's important to note that while this format is a common convention, GitHub itself doesn't enforce any specific naming rules for release tags. However, following established conventions can help maintain consistency and clarity within your repository.
 
-Documentation By: **Raymond C. TURNER**
+---
 
-Last Updated: 1 Day ago
+Documentation by: **Raymond C. TURNER**
+
+Last Updated: Monady 22nd August 2023 @ 00:32 BST
