@@ -43,6 +43,7 @@ Setting up the GitHub CLI (Command Line Interface) involves a few steps to ensur
    - Creating a pull request: `gh pr create`
    - Listing issues: `gh issue list`
    - Checking out a pull request: `gh pr checkout <pull-request-number>`
+   - Delete a Repo: `gh repo delete <repository`
 
 5. **To delete a GitHub repository using the GitHub CLI (Command Line Interface), you can use the following command:**
 
