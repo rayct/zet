@@ -53,7 +53,7 @@ gh repo delete <repository>
 Replace `<repository>` with the name of the repository you want to delete. Keep in mind that this action is irreversible and will permanently delete the repository and all its associated data, including issues, pull requests, and code.
 
 
-*ore commands and their explanations in the GitHub CLI documentation: <https://cli.github.com/manual/>*
+*More commands and their explanations in the GitHub CLI documentation: <https://cli.github.com/manual/>*
 
 Remember to replace placeholders like `<repository>` and `<pull-request-number>` with actual repository names and pull request numbers.
 
