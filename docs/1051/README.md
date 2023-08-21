@@ -2,6 +2,55 @@
 
 ## Setting up a GitHub Repo locally with CLI and Push the excisting content
 
+
+Setting up the GitHub CLI (Command Line Interface) involves a few steps to ensure that it's configured correctly on your system. The GitHub CLI allows you to interact with GitHub repositories and perform various actions directly from your terminal. Here's how you can set it up correctly:
+
+1. **Install GitHub CLI:**
+
+   If you haven't already, you need to install the GitHub CLI on your system. You can download and install it from the official GitHub CLI repository: https://github.com/cli/cli
+
+   Follow the installation instructions for your operating system.
+
+2. **Authenticate GitHub CLI:**
+
+   After installing the GitHub CLI, you need to authenticate it with your GitHub account. Open your terminal and run the following command:
+
+   ```
+   gh auth login
+   ```
+
+   This will guide you through the authentication process. You can choose to authenticate using your GitHub username and password, a Personal Access Token, or by using the browser. Follow the prompts to complete the authentication.
+
+3. **Configure Repository Context:**
+
+   Once you're authenticated, you can configure the default repository context. This means that you can set a default repository to work with. This can be particularly useful if you work with a specific repository frequently.
+
+   To set the default repository context, use the following command:
+
+   ```
+   gh repo set-default
+   ```
+
+   Follow the prompts to select the repository you want to set as the default.
+
+4. **Start Using GitHub CLI:**
+
+   With authentication and configuration completed, you can start using GitHub CLI commands to interact with repositories. Some common commands include:
+
+   - Creating a new repository: `gh repo create`
+   - Cloning a repository: `gh repo clone <repository>`
+   - Creating a new issue: `gh issue create`
+   - Creating a pull request: `gh pr create`
+   - Listing issues: `gh issue list`
+   - Checking out a pull request: `gh pr checkout <pull-request-number>`
+
+   You can find more commands and their explanations in the GitHub CLI documentation: https://cli.github.com/manual/
+
+Remember to replace placeholders like `<repository>` and `<pull-request-number>` with actual repository names and pull request numbers.
+
+By following these steps, you should be able to set up and use GitHub CLI correctly on your system. Always refer to the official GitHub CLI documentation for the latest information and updates.
+
+
 Create a new repository directly from the command line using the GitHub CLI tool and then push your existing content to it:
 
 1. **Install GitHub CLI:**
