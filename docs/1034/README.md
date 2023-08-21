@@ -15,11 +15,12 @@ Ramblings from **Raymond C. TURNER**.
 "My name is Raymond Turner, and I live on the South Coast of the UK. I am a 51-year-old autodidact and polyglot, documenting and sharing my journey with the community in the field of Computer Science with a passion for AI/ML. Initially, my background was in automotive mechanical and electrical work. However, I transitioned to electronics repair, assembly, and calibration for various manufacturers in the Marine and Defense sectors.
 
 ## Hobbies and Interests
-* Sceience, Pyshics, Maths and Astronomy
-* I enjoy long walks and biking
+* Science, Pyshics, Maths and Astronomy
+* Long walks and hikes
+* Biking
 * Good Music is an Absoulute essential
 * Keen level 3 Drummer
-* Martial Artist
+* Martial Arts
 * Love kind beautiful selfless, and loyal people
 * My opinions are my own
 
