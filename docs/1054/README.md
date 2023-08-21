@@ -74,9 +74,13 @@ Here's how it works:
 
 Remember that Vim's undo functionality is linear, so each undo operation undoes the most recent change. If you want more advanced undo capabilities, you can consider using Vim's undo tree feature or external plugins.
 
+## What TODO if you Created a Vi file and are unable to exit due to a no write permission
+
+Here's what todo
+`esc +:w /tmp/somebakup.txt`
 
 ---
 
 Documentation by: **Raymond C. TURNER**
 
-Last Updated: 1 Day ago
+Last Updated: Monady 21st August 2023 @ 21:19 BST
