@@ -159,9 +159,6 @@ Now you have a new repository created on GitHub directly from the command line.
 
 This method can save you some time compared to manually creating a repository on GitHub's website and then setting up the remote locally. Just make sure you have the GitHub CLI installed and authenticated properly.
 
-
----
-
 ---
 
 Documentation by: **Raymond C. TURNER**
