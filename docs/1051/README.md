@@ -159,8 +159,49 @@ Now you have a new repository created on GitHub directly from the command line.
 
 This method can save you some time compared to manually creating a repository on GitHub's website and then setting up the remote locally. Just make sure you have the GitHub CLI installed and authenticated properly.
 
+## To add a GitHub license to your repository from the command line interface (CLI), you can use the GitHub API to create a new license file. Here's a general outline of the steps you would need to follow using tools like `curl`:
+
+1. **Choose a License**: Decide which license you want to add to your repository. Common licenses include MIT, Apache, GPL, etc.
+
+2. **Generate License Text**: If the license you've chosen requires specific text to be included in the license file, generate or obtain that text.
+
+3. **Create a New File**: You will use the GitHub API to create a new file with the license text. You will need to provide your GitHub repository name, owner, and authentication token.
+
+Here's an example of how you could do this using `curl`:
+
+```bash
+# Set your GitHub repository information
+REPO_OWNER="your_username"
+REPO_NAME="your_repository"
+LICENSE_NAME="LICENSE"  # The name of the license file, typically LICENSE
+
+# Set your GitHub Personal Access Token
+GITHUB_TOKEN="your_personal_access_token"
+
+# Choose the license you want to add (replace with your desired license text)
+LICENSE_TEXT=$(cat <<EOL
+MIT License
+
+...
+
+EOL
+)
+
+# Create the license file using the GitHub API
+curl -X PUT \
+  -H "Authorization: token $GITHUB_TOKEN" \
+  -d "{\"message\":\"Add license\",\"content\":\"$(echo -n "$LICENSE_TEXT" | base64 -w 0)\"}" \
+  "https://api.github.com/repos/$REPO_OWNER/$REPO_NAME/contents/$LICENSE_NAME"
+```
+
+Remember to replace placeholders like `your_username`, `your_repository`, `your_personal_access_token`, and the `LICENSE_TEXT` with your actual information.
+
+Also, be cautious with your personal access token as it grants access to your repository. Make sure to keep it secure and do not share it publicly.
+
+Please note that this is a simplified example, and there are additional considerations such as error handling, license compatibility, and different license formats. Always review the GitHub API documentation for the most up-to-date information.
+
 ---
 
 Documentation by: **Raymond C. TURNER**
 
-Last Updated: Monady 22nd August 2023 @ 00:23 BST
+Last Updated: Monady 22nd August 2023 @ 01:20 BST
