@@ -63,7 +63,7 @@ By following these steps, you should be able to set up and use GitHub CLI correc
 ---
 
 
-Create a new repository directly from the command line using the GitHub CLI tool and then push your existing content to it:
+## Create a new repository directly from the command line using the GitHub CLI tool and then push your existing content to it:
 
 1. **Install GitHub CLI:**
    If you haven't already, install the GitHub CLI tool as mentioned earlier.
