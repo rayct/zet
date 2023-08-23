@@ -36,7 +36,6 @@ Here's an example of how to check the existence of a file using the ls command:
    ```
    export GPG_TTY=$(tty)
    ```
-   * Note!.. This Did Resolve the issue
 
 
 ---

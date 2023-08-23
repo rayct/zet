@@ -208,6 +208,13 @@ Please note that this is a simplified example, and there are additional consider
 * `gh config get`
 * `gh config`
 
+## Github Export Key
+4. Export GPG_TTY environment variable: If the `--no-tty` flag doesn't work, try setting the `GPG_TTY` environment variable to point to your current TTY. This might help GPG locate the correct terminal and avoid the error.
+
+   ```
+   export GPG_TTY=$(tty)
+   ```
+
 ---
 
 Documentation By: **Raymond C. TURNER**
