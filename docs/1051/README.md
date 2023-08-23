@@ -200,8 +200,14 @@ Also, be cautious with your personal access token as it grants access to your re
 
 Please note that this is a simplified example, and there are additional considerations such as error handling, license compatibility, and different license formats. Always review the GitHub API documentation for the most up-to-date information.
 
+## gh config
+
+* `gh config list`
+* `gh config set`
+* `gh config get`
+
 ---
 
-Documentation by: **Raymond C. TURNER**
+Documentation By: **Raymond C. TURNER**
 
-Last Updated: Monady 22nd August 2023 @ 01:20 BST
+Last Updated: Wednesday 23rd August 2023 @ 18:22 BST
