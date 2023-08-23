@@ -1,8 +1,8 @@
 # CS50X 2023 - My Thoughts
 
 * Github Interaction Needs Attention
-* SCreew up your current SSH and GPG Keys
-* 
+* Screws up your current SSH and GPG Keys
+* Besure to gh config you be sure to `gh config set <editor>`
 
 
 
