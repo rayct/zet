@@ -50,7 +50,7 @@ In the Python code, the type hint `Tuple[str, str]` indicates that the function 
  Perhaps something like:
  
  ```go
- func swap(x, y string) (x&&y) {
+ func swap(x, y string) (x && y) {
     return y, x
 }
 
