@@ -76,9 +76,18 @@ Keep in mind that labeling something as pretentious can sometimes be subjective 
     * The story blends Mitty's vivid imagination with his real-life struggles and serves as a commentary on the contrast between personal fantasies and the often unremarkable reality that many people experience. "The Secret Life of Walter Mitty" has become a classic piece of American literature and has been adapted into various forms of media, including films, plays, and more.
 
 
-* ## Spitefulness
+* ## **Spitefulness**
 
-    "Spiteful" is the adjective I have used to describe someone or something that is filled with or characterized by a desire to harm, annoy, or upset others. It often implies a sense of malice or ill will. For example, if someone acts in a "spiteful" manner, they may be intentionally trying to hurt someone emotionally or damage their reputation. Similarly, a "spiteful" remark or action is one that is intended to cause harm or distress.
+*   **"Spite"** is a noun that refers to a feeling of ill will, malice, or the desire to hurt, annoy, or upset someone else. It can also refer to actions, remarks, or behavior that are motivated by such feelings. When someone acts out of spite, they are intentionally doing something to cause harm or discomfort to another person, often as a result of personal animosity or resentment.
+
+*For example, if someone refuses to help you simply because they don't like you, that action could be driven by spite. Similarly, if someone makes a hurtful comment about you without any valid reason, that comment could be considered spiteful.*
+
+*   **"spitefulness"** It's the noun form of the adjective "spiteful." It refers to the quality or state of being filled with or characterized by a desire to harm, annoy, or upset others. People might exhibit spitefulness through their actions, words, or behavior when they act with malicious intent or a desire to hurt others.
+
+
+*   **"Spiteful"** is the adjective I have used to describe someone or something that is filled with or characterized by a desire to harm, annoy, or upset others. It often implies a sense of malice or ill will.
+
+*For example, if someone acts in a "spiteful" manner, they may be intentionally trying to hurt someone emotionally or damage their reputation. Similarly, a "spiteful" remark or action is one that is intended to cause harm or distress.*
 
 ---
 
