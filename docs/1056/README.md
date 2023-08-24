@@ -53,6 +53,13 @@ In the Python code, the type hint `Tuple[str, str]` indicates that the function 
  func swap(x, y string) (x&&y) {
     return y, x
 }
+
+// or
+
+func swap(x, y string) (x + y) {
+    return y, x
+}
+ 
 ```
 
 ---
