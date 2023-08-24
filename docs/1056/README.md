@@ -1,4 +1,4 @@
-## Go's strict typing
+## A small Gripe with Go's strict typing
 
 ```go
 package main
