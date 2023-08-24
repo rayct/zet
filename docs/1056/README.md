@@ -1,5 +1,7 @@
 ## A small Gripe with Go's strict typing
 
+### A `swap` function that returns two `strings` 
+
 ```go
 package main
 
@@ -56,7 +58,7 @@ In the Python code, the type hint `Tuple[str, str]` indicates that the function 
 
 // or
 
-func swap(x, y string) (x + y) {
+func swap(x, y string) (x, y string) {
     return y, x
 }
  
