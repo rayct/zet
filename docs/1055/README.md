@@ -1,5 +1,8 @@
 # **Smoke and Mirrors**
-## **"My final report on the findings of the people who are about to be exposed. The thing that excites me the most is that they aren't even aware! "You only know what you have been allowed to know".**
+
+## **"My final report on the findings of the people who are about to be exposed. The thing that excites me the most is that they aren't even aware!
+
+**"You only know what you have been allowed to know".**
 
 
 ## "Tout sera révélé."
