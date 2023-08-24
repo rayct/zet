@@ -26,9 +26,9 @@ So, while your observation is valid, it's also a reflection of Go's design princ
 
 ---
 
-My point is that Unfortunately, Go does not provide a direct mechanism to create type aliases for tuples like I'm suggesting. The repetition of the type name is a requirement in Go when defining multiple return values.
+My point is that, unfortunately, Go does not provide a direct mechanism to create type aliases for tuples, as I'm suggesting. The repetition of the type name is a requirement in Go when defining multiple return values.
 
-In Python, you can achieve this by using type hints and type aliases, but in Go, the repeated type declarations are necessary due to its strict typing system.
+In contrast, in Python, you can achieve this by using type hints and type aliases. However, in Go, the repeated type declarations are necessary due to its strict typing system.
 
 Your initial Go code:
 
