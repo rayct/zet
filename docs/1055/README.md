@@ -1,14 +1,19 @@
 # **Smoke and Mirrors**
-## **"My final report on the findings of the people who are about to be exposed. The thing that excites me the most is that they aren't even aware! You only know what you have been allowed to know.**
+## **"My final report on the findings of the people who are about to be exposed. The thing that excites me the most is that they aren't even aware! "You only know what you have been allowed to know".**
 
 
 ## "Tout sera révélé."
+
+"Remember, all actions have consequences. We're aware of your past deeds and are observing closely. The day of reckoning may approach sooner than you think. Reflect upon your choices."
+
+"Rappelez-vous, chaque action a des conséquences. Nous sommes au courant de vos actes passés et observons de près. Le jour du jugement pourrait arriver plus tôt que vous ne le pensez. Méditez sur vos choix."
+
+"Memento, omne agere consequentias habet. Cognoscimus tua facta praeterita et attentius observamus. Dies ultionis propior venire potest quam suspicaris. Contemplare delectus tuos."
 
 ---
 
 ## *"This is a list of the most perfect words that describe the most horrible and cruelest people that I have ever had the misfortune to meet over the past 2 years."*
 
-**(YOU FUCKING KNOW WHO YOU ARE!)**
 
 1. ## **Pretentious** 
 
