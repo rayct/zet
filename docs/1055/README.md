@@ -1,4 +1,13 @@
-# **Smoke and Mirrors**
+# **Tales of the River Bank**
+
+## Epilouge
+
+**Smoke and Mirrors**
+- Featuring
+    * Moley
+    * Ratty
+    * 
+
 
 ## My final report on the findings of the people who are about to be exposed. The thing that excites me the most is that they aren't even aware!
 
@@ -58,7 +67,7 @@ Keep in mind that labeling something as pretentious can sometimes be subjective 
 
 * ## **Espionage**
 
-    * In the context of espionage, a "mole" refers to an individual who has been strategically placed within an organization, company, government agency, or similar entity with the intention of secretly gathering information, transmitting it to another party, or influencing the organization's activities in favor of the party that placed the mole.
+    * In the context of espionage, a `"mole"` refers to an individual who has been strategically placed within an organization, company, government agency, or similar entity with the intention of secretly gathering information, transmitting it to another party, or influencing the organization's activities in favor of the party that placed the mole.
 
     * Moles are often recruited for their access to sensitive or classified information, and they work covertly to avoid detection while carrying out their espionage activities. The goal of a mole is to remain hidden and build a facade of loyalty to the organization they infiltrate, all while serving the interests of their true handlers.
 
