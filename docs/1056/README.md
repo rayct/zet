@@ -24,9 +24,9 @@ So, while your observation is valid, it's also a reflection of Go's design princ
 
 ---
 
-My point is that Unfortunately, Go does not provide a direct mechanism to create type aliases for tuples like you're suggesting. The repetition of the type name is a requirement in Go when defining multiple return values.
+My point is that Unfortunately, Go does not provide a direct mechanism to create type aliases for tuples like I'm suggesting. The repetition of the type name is a requirement in Go when defining multiple return values.
 
-In Python, you can achieve what you're suggesting by using type hints and type aliases, but in Go, the repeated type declarations are necessary due to its strict typing system.
+In Python, you can achieve this by using type hints and type aliases, but in Go, the repeated type declarations are necessary due to its strict typing system.
 
 Your initial Go code:
 
@@ -45,8 +45,15 @@ def swap(x: str, y: str) -> Tuple[str, str]:
     return y, x
 ```
 
-In the Python code, the type hint `Tuple[str, str]` indicates that the function returns a tuple of two strings. Python's type hinting helps convey the structure of the returned values, but it doesn't eliminate the repetition of the type name I was curious to achieve in your proposed syntax.
+In the Python code, the type hint `Tuple[str, str]` indicates that the function returns a tuple of two strings. Python's type hinting helps convey the structure of the returned values, but it doesn't eliminate the repetition of the type name I was curious to achieve in my proposed syntax. Which was for a direct mechanisim for a single operator for a `string` `swap` functiion like:
 
+ Perhaps something like:
+ 
+ ```go
+ func swap(x, y string) (x&&y) {
+    return y, x
+}
+```
 
 ---
 
