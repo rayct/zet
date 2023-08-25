@@ -322,28 +322,69 @@ func main() {
 In summary, this program demonstrates the usage of functions in Go. It defines a function `add` that takes two integer arguments and returns their sum. The `main` function then calls `add` with specific arguments and prints the result. This example showcases how to define functions, pass arguments, and use the `fmt` package for output.
 
 
+## Multiple results - 6/17
+
+A function can return any number of results.
+
+The `swap` function returns two strings.
+
+```golang
+package main
+
+import "fmt"
+
+func swap(x, y string) (string, string) {
+	return y, x
+}
+
+func main() {
+	a, b := swap("hello", "world")
+	fmt.Println(a, b)
+}
+```
+
+### A break down of the Go code step by step: 6/17
 
 
+1. **Package Declaration:**
+    ```golang
+    package main
+    ```
+    Just like in the previous example, this line declares the package name as `main`, indicating that this is the main entry point for the executable program.
 
+2. **Import Statement:**
+    ```golang
+    import "fmt"
+    ```
+    The code imports the `fmt` package, which provides functions for formatting and printing text.
 
+3. **Swap Function:**
+    ```golang
+    func swap(x, y string) (string, string) {
+        return y, x
+    }
+    ```
+    This is the definition of the `swap` function. It takes two string arguments, `x` and `y`, and returns two strings in reverse order. In this case, it swaps the values of `x` and `y`. The function signature `(string, string)` after the function name indicates that the function returns two strings.
 
+4. **Main Function:**
+    ```golang
+    func main() {
+        a, b := swap("hello", "world")
+        fmt.Println(a, b)
+    }
+    ```
+    The `main` function is the entry point of the program. Here's what happens inside the `main` function:
 
+    - `a, b := swap("hello", "world")`: This line calls the `swap` function with the arguments `"hello"` and `"world"`. The returned values are assigned to the variables `a` and `b`. Since `swap` returns two strings, both `a` and `b` are strings.
 
+    - `fmt.Println(a, b)`: This line prints the values of `a` and `b` using the `fmt.Println` function. It will output the swapped values `"world"` and `"hello"`.
 
+In summary, this program defines a `swap` function that swaps two string values and returns them in reverse order. Then, it calls this `swap` function with the arguments `"hello"` and `"world"`, and prints the swapped values using `fmt.Println`. The output of this program will be:
 
+```bash
+world hello
+```
 
-
-
-
-
-
-
-
-
-
-
-
----
 
 ## Named return values - 7/17
 
@@ -372,7 +413,7 @@ func main() {
 
 ```
 
-## A more detailed breakdown of the function:
+### A break down of the Go code step by step: 7/17
 
 ```golang
 func split(sum int) (x, y int) {
@@ -412,6 +453,139 @@ func split(sum int) (x, y int) {
    - The `return` statement doesn't explicitly provide return values. However, due to the function's signature `(x, y int)` specifying the return values as `x` and `y`, the values stored in these variables are automatically returned.
 
 In essence, this function takes an integer `sum` as input, calculates two values (`x` and `y`) based on the input, and returns them. The value of `x` is obtained by performing a mathematical operation on the input, while the value of `y` is derived from the difference between the input and `x`. The function's structure uses named return values, which allows the function to automatically return the values assigned to `x` and `y`.
+
+
+## Variables - 8/17
+
+The `var` statement declares a list of variables; as in function argument lists, the type is last.
+
+A `var` statement can be at package or function level. We see both in this example.
+
+```golang
+package main
+
+import "fmt"
+
+var c, python, java bool
+
+func main() {
+	var i int
+	fmt.Println(i, c, python, java)
+}
+```
+
+### A break down of the Go code step by step: 8/17
+
+```golang
+package main
+
+import "fmt"
+
+var c, python, java bool
+```
+
+- `package main`: This line indicates that this file belongs to the `main` package, which is the entry point for executable Go programs.
+
+- `import "fmt"`: This line imports the `"fmt"` package, which provides various functions for formatting and printing output.
+
+- `var c, python, java bool`: This line declares three boolean variables named `c`, `python`, and `java`. They are all of type `bool`, which means they can only store either `true` or `false` values. These variables are declared at the package level, so they are accessible within the entire file.
+
+```golang
+func main() {
+    var i int
+    fmt.Println(i, c, python, java)
+}
+```
+
+- `func main()`: This is the main function of the program, and it's the entry point when the program is executed.
+
+- `var i int`: Inside the `main` function, a new integer variable `i` is declared. Since it's declared within the function, it's a local variable and can only be accessed within the `main` function.
+
+- `fmt.Println(i, c, python, java)`: This line uses the `Println` function from the `"fmt"` package to print the values of the variables `i`, `c`, `python`, and `java`, separated by spaces. Since `i` is a local variable and not explicitly initialized, its value is undefined (usually 0 or some garbage value). The `c`, `python`, and `java` variables are all global variables, so they can be accessed anywhere within the `main` package.
+
+In summary, this program demonstrates how to declare and use variables in Go. It declares global boolean variables `c`, `python`, and `java`, and a local integer variable `i`. It then prints out the values of these variables within the `main` function. Keep in mind that the program doesn't assign specific values to the boolean variables, so their values will be their respective zero values, which is `false` in Go.
+
+## Variables with initializers - 9/17
+
+A `var` declaration can include initializers, one per variable.
+
+If an initializer is present, the type can be omitted; the variable will take the type of the initializer.
+
+```golang
+package main
+
+import "fmt"
+
+var i, j int = 1, 2
+
+func main() {
+	var c, python, java = true, false, "no!"
+	fmt.Println(i, j, c, python, java)
+}
+```
+
+### A break down of the Go code step by step: 9/17
+
+```golang
+package main
+
+import "fmt"
+
+var i, j int = 1, 2
+```
+- This code snippet starts by declaring the package name as "main". In Go, the `main` package is special and is used for executable programs.
+- The "fmt" package is imported, which provides functions to format and print text.
+- The line `var i, j int = 1, 2` declares two variables `i` and `j` of type `int` and assigns them the values `1` and `2` respectively. Here, the `var` keyword is used to declare variables, and the type is explicitly specified.
+
+```golang
+func main() {
+    var c, python, java = true, false, "no!"
+    fmt.Println(i, j, c, python, java)
+}
+```
+- The `main` function is the entry point of the program. When the program is executed, the code inside the `main` function will be executed.
+- Inside the `main` function, three variables `c`, `python`, and `java` are declared and assigned values. Since their types are not explicitly specified, Go will use type inference to determine their types based on the provided values (`true`, `false`, and `"no!"`).
+- The `fmt.Println` function is used to print the values of variables to the console. Here, it prints the values of `i`, `j`, `c`, `python`, and `java` with spaces in between.
+
+So, when you run the program, it will output:
+```
+1 2 true false no!
+```
+
+This output indicates that the values of `i` and `j` are `1` and `2` respectively, the value of `c` is `true`, the value of `python` is `false`, and the value of `java` is `"no!"`.
+
+
+
+
+
+
+### A break down of the Go code step by step: 10/17
+### A break down of the Go code step by step: 11/17
+### A break down of the Go code step by step: 12/17
+### A break down of the Go code step by step: 13/17
+### A break down of the Go code step by step: 14/17
+### A break down of the Go code step by step: 15/17
+### A break down of the Go code step by step: 16/17
+### A break down of the Go code step by step: 17/17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 
 
 
