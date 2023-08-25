@@ -56,7 +56,6 @@ func main() {
 
 In summary, this program prints a message along with a randomly generated favorite number between 0 and 9 every time it is executed. The behavior is a simple example of utilizing the `fmt` and `math/rand` packages to perform basic output and random number generation in Go.
 
----
 
 ## Imports - 2/17
 
@@ -64,13 +63,13 @@ This code groups the imports into a parenthesized, "factored" import statement.
 
 You can also write multiple import statements, like:
 
-```go
+```golang
 import "fmt"
 import "math"
 ```
 But it is good style to use the factored import statement.
 
-```go
+```golang
 package main
 
 import (
@@ -88,13 +87,13 @@ func main() {
 Of course! Let's break down the provided Go code in more detail:
 
 1. **Package Declaration:**
-    ```go
+    ```golang
     package main
     ```
     This is the declaration of the package. In Go, the `main` package is a special package name that indicates that this is an executable program, and it should have a `main()` function as its entry point.
 
 2. **Import Statements:**
-    ```go
+    ```golang
     import (
         "fmt"
         "math"
@@ -103,7 +102,7 @@ Of course! Let's break down the provided Go code in more detail:
     The code is importing two packages: `fmt` and `math`. The `fmt` package is used for formatting and printing text, and the `math` package provides various mathematical functions, including the `Sqrt` function used in this code.
 
 3. **Main Function:**
-    ```go
+    ```golang
     func main() {
         fmt.Printf("Now you have %g problems.\n", math.Sqrt(7))
     }
@@ -133,13 +132,194 @@ Run the code. Notice the error message.
 
 To fix the error, rename `math.pi` to `math.Pi` and try it again.
 
+```golang
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+func main() {
+	fmt.Println(math.Pi)
+}
+```
+
+### A break down of the Go code step by step: 3/17
+
+1. **Package Declaration:**
+    ```golang
+    package main
+    ```
+    This line defines the package name as `main`. In Go, the `main` package serves as the entry point for executable programs.
+
+2. **Import Statements:**
+    ```golang
+    import (
+        "fmt"
+        "math"
+    )
+    ```
+    The code is importing two packages: `fmt` and `math`. The `fmt` package is used for formatting and printing text, while the `math` package provides mathematical functions and constants.
+
+3. **Main Function:**
+    ```golang
+    func main() {
+        fmt.Println(math.Pi)
+    }
+    ```
+    The `main()` function is the entry point of the program, where the execution starts. Here's what happens within this function:
+
+    - `fmt.Println(math.Pi)`: This line prints the value of the mathematical constant π (pi) using the `fmt.Println` function.
+
+        - `math.Pi` refers to the π constant provided by the `math` package. It is a predefined constant representing the ratio of a circle's circumference to its diameter.
+
+        - `fmt.Println` is used to print the value of `math.Pi` to the standard output.
+
+In summary, this program imports the `fmt` and `math` packages, and in the `main()` function, it prints the value of the mathematical constant π (pi) using the `fmt.Println` function. The output will be the value of π, which is approximately 3.141592653589793.
 
 
+## Functions - 4/17
+
+A function can take zero or more arguments.
+
+In this example, add takes two parameters of type int.
+
+Notice that the type comes after the variable name.
+
+(For more about why types look the way they do, see the article on Go's declaration syntax.)
+
+<https://blog.golang.org/gos-declaration-syntax>
+
+```golang
+package main
+
+import "fmt"
+
+func add(x int, y int) int {
+	return x + y
+}
+
+func main() {
+	fmt.Println(add(42, 13))
+}
+```
+
+### A break down of the Go code step by step: 4/17
 
 
+Certainly! Let's break down the provided Go code step by step:
+
+1. **Package Declaration:**
+    ```golang
+    package main
+    ```
+    This line defines the package name. Just like in the previous example, the `main` package is used as the entry point for the executable program.
+
+2. **Import Statement:**
+    ```golang
+    import "fmt"
+    ```
+    Here, the code imports the `fmt` package, which provides functions for formatting and printing text.
+
+3. **add Function:**
+    ```golang
+    func add(x int, y int) int {
+        return x + y
+    }
+    ```
+    This section defines a function named `add`. Here's what's happening within this function:
+
+    - `func add(x int, y int) int`: This line declares the `add` function, which takes two integer parameters (`x` and `y`) and returns an integer. The return type `int` after the parameter list indicates that the function will return an integer value.
+
+    - `return x + y`: This line is the function's body. It calculates the sum of the two input integers (`x` and `y`) and returns the result.
+
+4. **Main Function:**
+    ```golang
+    func main() {
+        fmt.Println(add(42, 13))
+    }
+    ```
+    The `main()` function is the entry point of the program, where the execution starts. Here's what's happening within this function:
+
+    - `fmt.Println(add(42, 13))`: This line calls the `add` function with the arguments `42` and `13`. The `add` function calculates the sum of these two numbers (`42 + 13`), which is `55`. The result (`55`) is then passed to `fmt.Println` to be printed to the console.
+
+In summary, this program defines a function `add` that takes two integer parameters and returns their sum. The `main` function then calls the `add` function with specific arguments and prints the result using the `fmt` package. This example demonstrates how to define functions, pass arguments, and return values in Go.
 
 
+## Functions continued - 5/17
 
+When two or more consecutive named function parameters share a type, you can omit the type from all but the last.
+
+In this example, we shortened
+
+`x int, y int`
+
+to
+
+`x, y int`
+
+```golang
+package main
+
+import "fmt"
+
+func add(x, y int) int {
+	return x + y
+}
+
+func main() {
+	fmt.Println(add(42, 13))
+}
+```
+
+### A break down of the Go code step by step: 5/17
+
+1. **Package Declaration:**
+    ```golang
+    package main
+    ```
+    Just like in the previous example, this line defines the package name. The `main` package serves as the entry point for the executable program.
+
+2. **Import Statement:**
+    ```golang
+    import "fmt"
+    ```
+    Here, only the `fmt` package is imported. It provides functions for formatting and printing text, which will be used in the `main` function.
+
+3. **Function Definition:**
+    ```golang
+    func add(x, y int) int {
+        return x + y
+    }
+    ```
+    This block of code defines a function named `add`. Let's break down this function:
+
+    - `func add(x, y int) int {`: This line starts the function definition. It takes two integer parameters `x` and `y`, and it returns an integer.
+    - `return x + y`: This line calculates the sum of `x` and `y` and returns the result. This is the core logic of the `add` function.
+    - `}`: This curly brace marks the end of the function definition.
+
+4. **Main Function:**
+    ```golang
+    func main() {
+        fmt.Println(add(42, 13))
+    }
+    ```
+    The `main()` function is the entry point of the program, where the execution starts. Here's what's happening within this function:
+
+    - `fmt.Println(add(42, 13))`: This line calls the `add` function with arguments `42` and `13`, and the result is printed using `fmt.Println`.
+
+5. **Execution:**
+    When the program is executed, the following sequence of events occurs:
+    
+    - The `main` function is invoked.
+    - Inside the `main` function:
+        - The `add` function is called with arguments `42` and `13`.
+        - The `add` function calculates the sum of `42` and `13`, which is `55`.
+        - The result `55` is passed to `fmt.Println`.
+        - `fmt.Println` outputs the value `55` to the console.
+
+In summary, this program demonstrates the usage of functions in Go. It defines a function `add` that takes two integer arguments and returns their sum. The `main` function then calls `add` with specific arguments and prints the result. This example showcases how to define functions, pass arguments, and use the `fmt` package for output.
 
 
 
@@ -165,7 +345,7 @@ To fix the error, rename `math.pi` to `math.Pi` and try it again.
 
 ---
 
-**Named return values - 7/17()**
+## Named return values - 7/17
 
 Go's return values may be named. If so, they are treated as variables defined at the top of the function.
 
@@ -175,7 +355,7 @@ A return statement without arguments returns the named return values. This is kn
 
 Naked return statements should be used only in short functions, as with the example shown here. They can harm readability in longer functions.
 
-```go
+```golang
 package main
 
 import "fmt"
@@ -194,7 +374,7 @@ func main() {
 
 ## A more detailed breakdown of the function:
 
-```go
+```golang
 func split(sum int) (x, y int) {
     x = sum * 4 / 9
     y = sum - x
@@ -203,7 +383,7 @@ func split(sum int) (x, y int) {
 ```
 
 1. **Function Declaration:**
-   ```go
+   ```golang
    func split(sum int) (x, y int) {
    ```
    - `func`: Keyword indicating the declaration of a function.
@@ -212,28 +392,27 @@ func split(sum int) (x, y int) {
    - `(x, y int)`: Return values of the function, both integers named `x` and `y`.
 
 2. **Calculation of `x`:**
-   ```go
+   ```golang
    x = sum * 4 / 9
    ```
    - `x`: Variable used to store the calculated value.
    - `sum * 4 / 9`: The input `sum` is multiplied by 4 and then divided by 9. The result of this calculation is assigned to the variable `x`.
 
 3. **Calculation of `y`:**
-   ```go
+   ```golang
    y = sum - x
    ```
    - `y`: Variable used to store the calculated value.
    - `sum - x`: The value of `x` (calculated previously) is subtracted from the input `sum`, and the result is assigned to the variable `y`.
 
 4. **Return Statement:**
-   ```go
+   ```golang
    return
    ```
    - The `return` statement doesn't explicitly provide return values. However, due to the function's signature `(x, y int)` specifying the return values as `x` and `y`, the values stored in these variables are automatically returned.
 
 In essence, this function takes an integer `sum` as input, calculates two values (`x` and `y`) based on the input, and returns them. The value of `x` is obtained by performing a mathematical operation on the input, while the value of `y` is derived from the difference between the input and `x`. The function's structure uses named return values, which allows the function to automatically return the values assigned to `x` and `y`.
 
----
 
 
 
@@ -244,4 +423,4 @@ In essence, this function takes an integer `sum` as input, calculates two values
 
 Documentation by: **Raymond C. TURNER**
 
-Last Updated: Monady 25th August 2023 @ 15:49 BST
+Last Updated: Friday 25th August 2023 @ 18:43 BST
