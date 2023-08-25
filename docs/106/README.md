@@ -1,6 +1,7 @@
-# GO
+# GO A Tour of go but converted to Python
 
-## Packages
+## Go version - Packages 1/17
+
 Every Go program is made up of packages.
 
 Programs start running in package main.
@@ -22,6 +23,19 @@ func main() {
 }
 
 ```
+
+## Python Version - Packages 1/17
+
+```python
+def split(sum):
+    x = sum * 4 // 9
+    y = sum - x
+    return x, y
+
+print(split(17))
+```
+
+**Both of these programs will produce the same output:**
 
 ---
 
