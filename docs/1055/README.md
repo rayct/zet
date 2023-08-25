@@ -11,11 +11,13 @@
 
 ## "Tout sera révélé."
 
-"Remember, all actions have consequences. We're aware of your past deeds and are observing closely. The day of reckoning may approach sooner than you think. Reflect upon your choices."
+  "Remember, all actions have consequences. We're aware of your past deeds and are observing closely. The day of reckoning may approach sooner than you think. Reflect upon your choices."
 
-"Rappelez-vous, chaque action a des conséquences. Nous sommes au courant de vos actes passés et observons de près. Le jour du jugement pourrait arriver plus tôt que vous ne le pensez. Méditez sur vos choix."
+  "Pamiętaj, wszystkie działania mają konsekwencje. Jesteśmy świadomi twoich wcześniejszych czynów i obserwujemy uważnie. Dzień rozrachunku może nadejść szybciej niż myślisz. Zastanów się nad swoimi wyborami."
 
-"Memento, omne agere consequentias habet. Cognoscimus tua facta praeterita et attentius observamus. Dies ultionis propior venire potest quam suspicaris. Contemplare delectus tuos."
+  "Rappelez-vous, chaque action a des conséquences. Nous sommes au courant de vos actes passés et observons de près. Le jour du jugement pourrait arriver plus tôt que vous ne le pensez. Méditez sur vos choix."
+
+  "Memento, omne agere consequentias habet. Cognoscimus tua facta praeterita et attentius observamus. Dies ultionis propior venire potest quam suspicaris. Contemplare delectus tuos."
 
 ---
 
