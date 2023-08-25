@@ -1,8 +1,6 @@
 
 # **Tales from the Narrow River Bank**
 
---
-
 - Main Characters:
 
     **Featuring**
