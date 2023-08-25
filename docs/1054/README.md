@@ -77,7 +77,7 @@ Remember that Vim's undo functionality is linear, so each undo operation undoes 
 ## What TODO if you Created a Vi file and are unable to exit due to a no write permission
 
 Here's what todo
-`esc +:w /tmp/somebakup.txt`
+`esc + :w /tmp/somebakup.txt`
 
 ---
 
