@@ -1,4 +1,4 @@
-# GO A Tour of go but converted to Python
+# ***GO*** A Tour of Go ported to Python
 
 ## Go version - Packages 1/17
 
