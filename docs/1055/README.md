@@ -19,6 +19,10 @@
 
   "Memento, omne agere consequentias habet. Cognoscimus tua facta praeterita et attentius observamus. Dies ultionis propior venire potest quam suspicaris. Contemplare delectus tuos."
 
+  "Denk daran, jede Handlung hat Konsequenzen. Wir sind uns deiner vergangenen Taten bewusst und beobachten genau. Der Tag der Abrechnung könnte näher sein, als du denkst. Reflektiere über deine Entscheidungen."
+
+  "Помни, что все действия имеют последствия. Мы осведомлены о твоих прошлых поступках и внимательно наблюдаем. День расплаты может прийти ближе, чем ты думаешь. Обдумай свои выборы."
+
 ---
 
 ## *"This is a list of the most perfect words that describe the most horrible and cruelest people that I have ever had the misfortune to meet over the past 2 years."*
