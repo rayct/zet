@@ -81,6 +81,6 @@ Here's what todo
 
 ---
 
-Documentation By: **Raymond C. TURNER**
+Documentation by: **Raymond C. TURNER**
 
-Last Updated: Wednesday 23rd August 2023 @ 18:22 BST
+Last Updated: Saturday 26th August 2023 @ 18:43 GMT

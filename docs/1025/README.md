@@ -352,8 +352,8 @@ In general, using quotes around file or directory names with spaces is a safer a
 
 Choose the compression format based on your preferences and requirements. Each format has its own characteristics in terms of compression ratio and speed.
 
-----
+---
 
 Documentation by: **Raymond C. TURNER**
 
-Last Updated: Saturday 26th August 2023 @ 18:25 GMT
+Last Updated: Saturday 26th August 2023 @ 18:43 GMT
