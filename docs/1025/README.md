@@ -1,6 +1,46 @@
 # Linux Stuff - 2023
 
-To move a directory and its contents to another directory in Linux, you can use the `mv` command. Here's the basic syntax:
+## New User with root
+In Linux, the concept of a "full Administrator" is often referred to as the "root" user or "superuser." The root user has unrestricted access to the system, which can be risky if not managed properly. It's generally recommended to avoid using the root account for regular tasks and instead use a regular user account with the ability to run administrative commands using the `sudo` command.
+
+However, if you still need to create a new user with administrative privileges, you can do so by adding the new user to the `sudo` group. Here's how:
+
+1. **Create a New User:**
+
+   Use the `adduser` command to create a new user. Replace `newuser` with the desired username.
+
+   ```bash
+   sudo adduser newuser
+   ```
+
+   Follow the prompts to set a password and additional user information.
+
+2. **Add User to the sudo Group:**
+
+   By default, most Linux distributions have a group named `sudo` that grants users the ability to execute administrative commands with elevated privileges. You need to add the new user to this group.
+
+   ```bash
+   sudo usermod -aG sudo newuser
+   ```
+
+   Replace `newuser` with the username you created.
+
+3. **Test Administrative Privileges:**
+
+   After adding the user to the `sudo` group, they should be able to run administrative commands using the `sudo` command. For example:
+
+   ```bash
+   sudo apt update
+   sudo apt install some-package
+   ```
+
+   The user will be prompted to enter their own password to confirm their identity before running a command with elevated privileges.
+
+It's important to note that providing full administrative privileges to a user carries security risks. It's generally better to grant administrative rights only as needed and to encourage users to use `sudo` for individual commands rather than always logging in as the root user. This helps maintain a more secure and manageable system.
+
+---
+
+## To move a directory and its contents to another directory in Linux, you can use the `mv` command. Here's the basic syntax:
 
 ```bash
 mv source_directory destination_directory
@@ -312,8 +352,8 @@ In general, using quotes around file or directory names with spaces is a safer a
 
 Choose the compression format based on your preferences and requirements. Each format has its own characteristics in terms of compression ratio and speed.
 
----
+----
 
-Documentation By: **Raymond C. TURNER**
+Documentation by: **Raymond C. TURNER**
 
-Last Updated: 1 Day ago
+Last Updated: Saturday 26th August 2023 @ 18:25 GMT
