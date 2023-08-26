@@ -95,8 +95,69 @@ Keep in mind that labeling something as pretentious can sometimes be subjective 
 
 *For example, if someone acts in a "spiteful" manner, they may be intentionally trying to hurt someone emotionally or damage their reputation. Similarly, a "spiteful" remark or action is one that is intended to cause harm or distress.*
 
+
+* ## **Liars**
+A liar is someone who intentionally presents false information or deceptive statements as if they were true. While it's important to note that not all liars will exhibit all these characteristics, here are some common traits often associated with individuals who engage in dishonesty:
+
+1. **Inconsistent Storytelling**: Liars often struggle to maintain consistency in their stories because they are making up details as they go along. This can lead to contradictions when questioned over time.
+
+2. **Avoidance of Eye Contact**: People who lie might avoid making direct eye contact, as they may feel uncomfortable or guilty about their deception.
+
+3. **Body Language**: Liars can display nervous behaviors such as fidgeting, touching their face, or shifting weight from foot to foot. These signs of anxiety can indicate that they are withholding the truth.
+
+4. **Defensiveness**: When confronted with skepticism or questioning, a liar might become defensive or overly emotional in an attempt to divert attention from their falsehoods.
+
+5. **Unnecessary Details**: To make their stories more convincing, liars often provide an excessive amount of irrelevant or unnecessary details. This can be an attempt to distract from the main deception.
+
+6. **Storytelling Adaptations**: If a liar is caught in a lie, they may modify their story or offer new explanations to try to reconcile inconsistencies.
+
+7. **Delay or Hesitation in Response**: While a liar may need a moment to fabricate a response, they could also exhibit hesitation in answering straightforward questions.
+
+8. **Changes in Vocal Tone**: A liar's voice might change in pitch, tone, or speed due to anxiety or the effort of maintaining deception.
+
+9. **Grooming Behaviors**: Liars might engage in self-soothing behaviors like touching their hair, adjusting clothing, or playing with objects as a way to cope with their anxiety.
+
+10. **Microexpressions**: These are quick, involuntary facial expressions that reveal genuine emotions. A skilled observer might detect microexpressions that conflict with the liar's spoken words.
+
+11. **Avoidance of Specifics**: Liars might steer conversations away from specific details or refuse to provide concrete answers to avoid being caught in a lie.
+
+12. **Overemphasis**: To make their statements more convincing, liars might overuse phrases like "I swear," "honestly," or "believe me."
+
+13. **Sudden Changes in Behavior**: People who are lying might exhibit changes in behavior, such as becoming overly friendly or cooperative, to divert attention from their deception.
+
+***It's important to note that these traits are not foolproof indicators of lying. Some people might exhibit these behaviors due to nervousness, anxiety, or other reasons unrelated to deception. Accusing someone of lying solely based on these characteristics can lead to misunderstandings. It's usually best to consider multiple factors and context before drawing conclusions about someone's honesty.***
+
+
+* ## **Exaggeration**
+
+Refers to the act of making something appear larger, more important, more intense, or more significant than it actually is. It involves overstating or overemphasizing certain aspects of a situation, story, or description in order to create a stronger effect, evoke emotions, or emphasize a point. Exaggeration can be used for comedic effect, to make a point more memorable, or to enhance the impact of a narrative. However, excessive or inappropriate exaggeration can sometimes lead to misinformation or misunderstandings.
+
+***A person who exaggerates tends to amplify or embellish details, events, or circumstances beyond their actual significance. This behavior can manifest in various ways, and several characteristics are often associated with individuals who have a tendency to exaggerate:***
+
+1. **Attention-Seeking**: People who exaggerate might do so to capture attention and stand out in a group. By embellishing their stories, they hope to make themselves appear more interesting or important.
+
+2. **Dramatic Language**: Exaggerators often use dramatic language and hyperbole to emphasize their point. They may use words like "never," "always," "worst," "best," and other extreme descriptors to make their stories more compelling.
+
+3. **Inconsistent Details**: When someone exaggerates, their stories might not remain consistent over time. This is because they might struggle to remember the specific details they've added to the narrative.
+
+4. **Unbelievable Claims**: Exaggerators might make claims that are hard to believe due to their extreme nature. These claims can include extraordinary achievements, improbable experiences, or constant involvement in unique situations.
+
+5. **Seeking Validation**: Exaggerators often seek validation from others. By making their experiences sound more remarkable, they hope to gain approval or admiration from those around them.
+
+6. **One-Upmanship**: Exaggerators may engage in a form of one-upmanship, always trying to outdo others in terms of experiences, achievements, or hardships. They want to have the most impressive or challenging story in the group.
+
+7. **Insecurity**: Sometimes, exaggeration can stem from feelings of inadequacy or insecurity. By exaggerating their accomplishments or experiences, individuals may attempt to mask their self-perceived shortcomings.
+
+8. **Lack of Self-Awareness**: Some exaggerators might not even realize that they are stretching the truth. Over time, they may come to believe their own embellished versions of events.
+
+9. **Social Pressure**: In certain social situations, individuals might feel pressure to fit in or be accepted. This pressure can lead them to exaggerate their experiences or stories to match the expectations of the group.
+
+10. **Storytelling Tendency**: Exaggerators might be naturally inclined towards storytelling and creative expression. While storytelling can be positive, exaggeration becomes problematic when it crosses the line into misinformation.
+
+It's important to note that occasional use of hyperbole or exaggeration for emphasis is common in everyday language and storytelling. However, when exaggeration becomes a habitual and compulsive behavior that distorts reality, it can lead to issues of credibility and trust in personal and professional relationships.
+
 ---
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Wednesday 25th August 2023 @ 00:11 BST
+Last Updated: Saturdayday 26th August 2023 @ 15:34 BST
