@@ -34,7 +34,7 @@
 
     For example, if someone uses overly complex language in casual conversations to sound more intellectual, or if an artwork seems to be intentionally difficult to understand without offering much substance, they might be considered pretentious.
 
-Keep in mind that labeling something as pretentious can sometimes be subjective and influenced by individual perceptions and biases. What one person considers pretentious, another might find genuinely engaging, meaningful, or, in my experience, ostentatious and full of nonsense and quiet frankly **SHIT!**
+"I'm aware that labeling something as pretentious can sometimes be subjective and influenced by individual perceptions and biases. What one person considers pretentious, another might find genuinely engaging, meaningful, or, in my experience, quite frankly ful of **SHIT!"**
 
 
 * ## **Narcissistic**
