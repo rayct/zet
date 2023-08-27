@@ -70,9 +70,9 @@
 
     * In the context of espionage, a `"mole"` refers to an individual who has been strategically placed within an organization, company, government agency, or similar entity with the intention of secretly gathering information, transmitting it to another party, or influencing the organization's activities in favor of the party that placed the mole.
 
-    * Moles are often recruited for their access to sensitive or classified information, and they work covertly to avoid detection while carrying out their espionage activities. The goal of a mole is to remain hidden and build a facade of loyalty to the organization they infiltrate, all while serving the interests of their true handlers.
+    * `Moles` are often recruited for their access to sensitive or classified information, and they work covertly to avoid detection while carrying out their espionage activities. The goal of a mole is to remain hidden and build a facade of loyalty to the organization they infiltrate, all while serving the interests of their true handlers.
 
-    * Moles can be a significant threat to national security, corporate interests, and any organization's operations, as their activities can compromise confidential data, strategies, and plans. Uncovering and identifying moles requires sophisticated counterintelligence efforts.
+    * `Moles` can be a significant threat to national security, corporate interests, and any organization's operations, as their activities can compromise confidential data, strategies, and plans. Uncovering and identifying `moles` requires sophisticated counterintelligence efforts.
 
 
 * ## **Walter Mitty** 
