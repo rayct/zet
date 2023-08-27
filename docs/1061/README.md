@@ -1,3 +1,5 @@
+# Linux and Github Stuff
+
 ## This file is generated from information provided by the datasource.
 Changes to it will not persist across an instance reboot.
 To disable cloud-init's
@@ -23,7 +25,7 @@ network configuration capabilities, write a file
     version: 2
     ```
 
-### Check if you are using https or SSH:
+## Check if you are using https or SSH:
   `git remote -v`
 
 To convert remote's URL from https to ssh. To check if remote's URL is ssh or https, use `git remote -v`.
@@ -45,7 +47,8 @@ git remote set-url origin https://github.com/OWNER/REPOSITORY.git
 Verify that the remote URL has changed.
 
 $ git remote -v
-# Verify new remote URL
+
+## Verify new remote URL
 > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 > origin  https://github.com/OWNER/REPOSITORY.git (push)
 The next time you git fetch, git pull, or git push to the remote repository, you'll be asked for your GitHub username and password. When Git prompts you for your password, enter your personal access token. Alternatively, you can use a credential helper like Git Credential Manager. Password-based authentication for Git has been removed in favor of more secure authentication methods. For more information, see "Managing your personal access tokens."
@@ -68,7 +71,9 @@ Change your remote's URL from HTTPS to SSH with the git remote set-url command.
 Verify that the remote URL has changed.
 
 $ git remote -v
-# Verify new remote URL
+
+## Verify new remote URL
+
 > origin  git@github.com: OWNER/REPOSITORY.git (fetch)
 > origin  git@github.com: OWNER/REPOSITORY.git (push)
 Troubleshooting: No such remote '[name]'
@@ -89,15 +94,12 @@ Example of renaming a remote repository
 These examples assume you're cloning using HTTPS, which is recommended.
 
 $ git remote -v
-# View existing remotes
-> origin  https://github.com/OWNER/REPOSITORY.git (fetch)
-> origin  https://github.com/OWNER/REPOSITORY.git (push)
 
-$ git remote rename origin destination
 # Change remote name from 'origin' to 'destination'
 
 $ git remote -v
-# Verify remote's new name
+
+## Verify remote's new name
 > destination  https://github.com/OWNER/REPOSITORY.git (fetch)
 > destination  https://github.com/OWNER/REPOSITORY.git (push)
 Troubleshooting: Could not rename config section 'remote.[old name]' to 'remote.[new name]'
@@ -106,7 +108,9 @@ This error means that the old remote name you typed doesn't exist.
 You can check which remotes currently exist with the git remote -v command:
 
 $ git remote -v
+
 ## View existing remotes
+
 > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 > origin  https://github.com/OWNER/REPOSITORY.git (push)
 Troubleshooting: Remote [new name] already exists
@@ -124,16 +128,20 @@ Example of removing a remote repository
 These examples assume you're cloning using HTTPS, which is recommended.
 
 $ git remote -v
-# View current remotes
+
+## View current remotes
+
 > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 > origin  https://github.com/OWNER/REPOSITORY.git (push)
 > destination  https://github.com/FORKER/REPOSITORY.git (fetch)
 > destination  https://github.com/FORKER/REPOSITORY.git (push)
 
 $ git remote rm destination
+
 # Remove remote
+
 $ git remote -v
-# Verify it's gone
+## Verify it's gone
 > origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 > origin  https://github.com/OWNER/REPOSITORY.git (push)
 Note: git remote rm does not delete the remote repository from the server. It simply removes the remote and its references from your local repository.
@@ -191,7 +199,7 @@ Choose the appropriate method based on your requirements and the availability of
 
 ---
 
-## To create a "downloads" folder with write permissions on Ubuntu Server, you can follow these steps:
+# To create a "downloads" folder with write permissions on Ubuntu Server, you can follow these steps:
 
 1. Open a terminal or SSH into your Ubuntu Server.
 
