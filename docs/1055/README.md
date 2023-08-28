@@ -37,6 +37,30 @@
 "I'm aware that labeling something as pretentious can sometimes be subjective and influenced by individual perceptions and biases. What one person considers pretentious, another might find genuinely engaging, meaningful, or, in my experience, quite frankly full of **SHIT!"**
 
 
+* ## **Narcissist** 
+    A Narcissist is someone who has an excessive and inflated sense of self-importance, a deep need for admiration and attention, and a lack of empathy for others. This term originates from Greek mythology, where Narcissus was a character who fell in love with his own reflection in a pool of water. In psychology, narcissism is considered a personality trait that exists on a spectrum, ranging from healthy self-confidence to pathological self-centeredness.
+
+    Narcissistic personality disorder (NPD) is a more severe and diagnosable form of narcissism. People with NPD exhibit a pattern of behavior characterized by a grandiose sense of self, a constant need for admiration, a lack of understanding or concern for others' feelings, and a preoccupation with fantasies of unlimited success, power, brilliance, or beauty. They often have fragile self-esteem that is easily bruised, leading to defensive and sometimes aggressive reactions when their self-image is challenged.
+
+    Some common traits and behaviors associated with narcissism include:
+
+    1  . Grandiosity: A narcissist may have an exaggerated sense of their own achievements and talents. They often believe they are unique and superior to others.
+
+    2. Need for Admiration: Narcissists crave constant attention, praise, and admiration from others. They may seek out situations where they can be the center of attention.
+
+    3. Lack of Empathy: Empathy involves understanding and sharing the feelings of others. Narcissists struggle to recognize or care about the emotions of others, as they are primarily focused on themselves.
+
+    4. Manipulation: Narcissists can be skilled manipulators, using charm and charisma to control and exploit others to meet their own needs and desires.
+
+    5. Entitlement: Due to their inflated self-importance, narcissists often believe they are entitled to special treatment and may become angry or frustrated if they don't receive it.
+
+    6. Envy and Jealousy: Despite their belief in their own superiority, narcissists can feel envious of others' achievements and often react negatively to perceived competition.
+
+    7. Lack of Authenticity: Narcissists may present a carefully crafted facade to the world, projecting an image of confidence and success that may not align with their true feelings of insecurity.
+
+It's important to note that not everyone with narcissistic traits has a diagnosable personality disorder. Some degree of narcissism is present in most people, and in certain contexts, it can even be healthy. However, when these traits become extreme and interfere with a person's ability to maintain healthy relationships and function in society, they may indicate the presence of narcissistic personality disorder.
+
+
 * ## **Narcissistic**
    
    Is an adjective used to describe individuals who have an excessive or exaggerated sense of their own importance, a deep need for admiration, and a lack of empathy for others. People who are narcissistic often prioritize themselves over others and seek constant validation and attention. This term is derived from the myth of Narcissus in Greek mythology, who fell in love with his own reflection.
