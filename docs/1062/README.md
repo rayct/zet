@@ -70,6 +70,6 @@ Remember to always test such operations on a smaller set of files or in a test e
 
 ---
 
-Documentation by: **Raymond C. TURNER**
+Documentation By: **Raymond C. TURNER**
 
-Last Updated: Saturday 26th August 2023 @ 18:25 GMT
+Last Updated: Monday 29th August 2023 @ 00:03 GMT
