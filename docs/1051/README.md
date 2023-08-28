@@ -215,6 +215,74 @@ Please note that this is a simplified example, and there are additional consider
    export GPG_TTY=$(tty)
    ```
 
+
+## .gitignore
+
+The `.gitignore` file is used to specify which files and directories should be ignored by Git when tracking changes in a repository. If you want to prevent changes to the `.gitignore` file itself from being committed and contributed to the repository, you can follow these steps:
+
+1. **Stage your changes selectively:** Instead of using `git add .` or `git add -A` to stage all changes, manually stage only the files you want to commit. This way, you can exclude changes to the `.gitignore` file.
+
+    ```bash
+    git add file1.txt file2.txt # Add the files you want to commit
+    ```
+
+2. **Check your staging area:** You can use `git status` to see which files are staged for commit. Ensure that the changes to the `.gitignore` file are not included in this list.
+
+    ```bash
+    git status
+    ```
+
+3. **Commit your changes:** Once you've staged the necessary changes, commit them.
+
+    ```bash
+    git commit -m "Your commit message here"
+    ```
+
+Changes to the `.gitignore` file will not be included in this commit.
+
+4. **Use `--skip-worktree` (Advanced):** If you want to ignore changes to the `.gitignore` file on an ongoing basis, you can use the `--skip-worktree` flag. This will mark the file as "assume unchanged," effectively ignoring any changes you make to it. However, be cautious with this approach as it's not a standard practice and might have some limitations.
+
+    To set the `--skip-worktree` flag:
+
+    ```bash
+    git update-index --skip-worktree .gitignore
+    ```
+
+Remember that the `.gitignore` file is often part of a project's configuration and should be consistent across collaborators. If you find yourself frequently needing to modify the `.gitignore` file, it might be worth discussing the changes with your team to ensure everyone is on the same page.
+
+Lastly, if you're concerned about accidentally committing changes to the `.gitignore` file, you can use pre-commit hooks or CI/CD pipelines to automate checks that prevent such commits. This would add an extra layer of protection and prevent the changes from being pushed to the repository.
+
+
+## Undo Last commit
+
+To undo the last commit you made, you have a couple of options. The right choice depends on whether you want to completely remove the commit or if you just want to make changes to it and create a new commit.
+
+1. **Undo the commit but keep the changes as unstaged:**
+   
+   If you want to keep the changes you made in the last commit but undo the commit itself, you can use the following commands:
+
+   ```bash
+   git reset HEAD^
+   ```
+
+   This will remove the most recent commit while keeping the changes in your working directory. The changes will be unstaged, allowing you to make further adjustments before committing again.
+
+2. **Completely remove the last commit:**
+
+   If you want to completely remove the last commit along with the changes, you can use the following command:
+
+   ```bash
+   git reset --hard HEAD^
+   ```
+
+   This will remove the last commit and all changes associated with it.
+
+Please be cautious when using the `--hard` option, as it will discard all changes without the possibility of recovery. Make sure you have a backup or are certain you want to permanently remove those changes.
+
+Remember that if you've already pushed the commit to a remote repository, you might need to coordinate with your team to handle the removal properly and avoid causing issues for others.
+
+As a general note, if you find yourself needing to frequently undo commits or modify history, consider using more localized branches or creating smaller commits that are easier to manage.
+
 ---
 
 Documentation By: **Raymond C. TURNER**
