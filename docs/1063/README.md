@@ -1,6 +1,6 @@
-#  
+#  Calculus and Algebra in order of Learning.
 
-The choice between learning algebra or calculus first depends on your current mathematical background, your goals, and the context in which you plan to use these mathematical concepts. Here's a general guideline:
+***The choice between learning algebra or calculus first depends on your current mathematical background, your goals, and the context in which you plan to use these mathematical concepts. Here's a general guideline:***
 
 **1. Algebra:**
 Algebra is the foundation of mathematics and is typically learned before moving on to more advanced topics like calculus. It teaches you fundamental concepts like equations, variables, functions, and operations on numbers and symbols. If you're new to mathematics or have limited experience, starting with algebra is a good idea. It will help you build a strong mathematical foundation that you'll use throughout your mathematical journey.
