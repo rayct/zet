@@ -67,7 +67,7 @@ It's important to note that not everyone with narcissistic traits has a diagnosa
 
 *"Her narcissistic tendencies, along with his, made it difficult for her to form genuine connections with others, as she was always focused on herself and her own needs."*
 
-
+---
 
 * ## **Ostentatious**
 
