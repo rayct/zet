@@ -2,6 +2,10 @@
 # And Most people fucking hate poetry.
 ##   - Overheard at a Washington, D.C. bar
 
+
+
+
+
 ---
 
 **The Big Short**
