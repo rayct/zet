@@ -36,6 +36,13 @@
 
 "I'm aware that labeling something as pretentious can sometimes be subjective and influenced by individual perceptions and biases. What one person considers pretentious, another might find genuinely engaging, meaningful, or, in my experience, quite frankly full of **SHIT!"**
 
+* ## **Duplicity**
+    "Duplicity" refers to the act of intentionally deceiving or misleading others by presenting false information, pretending to be someone you're not, or engaging in fraudulent activities. It involves creating a facade or a false appearance to gain an advantage, manipulate others, or achieve personal goals. Duplicity can occur in various contexts, including personal relationships, business dealings, politics, and more.
+
+**The term 'duplicity' is often used to describe dishonest or deceitful behavior in which individuals or entities engage in actions that contradict their stated intentions or values. It's closely related to terms like deception, fraud, and deceit. This is why I chose this one above all to be top of the list, as it closely demonstrates the exact representation of current experiences.**
+
+*In literature and storytelling, characters who exhibit duplicity often add complexity to the narrative, as their true motivations and actions are hidden from other characters and sometimes even the audience.*
+
 
 * ## **Narcissist** 
     A Narcissist is someone who has an excessive and inflated sense of self-importance, a deep need for admiration and attention, and a lack of empathy for others. This term originates from Greek mythology, where Narcissus was a character who fell in love with his own reflection in a pool of water. In psychology, narcissism is considered a personality trait that exists on a spectrum, ranging from healthy self-confidence to pathological self-centeredness.
