@@ -1,15 +1,17 @@
 # Zettelkasten for Turner, Raymond C.
 (rwxray)
 
-This is where I dump my knowledge as it happens, all my zettels ("slips" or notes) about almost anything and everything. The idea is rather simple really and very powerful.
+Your text looks great! Just a few minor suggestions for improvement:
 
-Everything is in docs or at https://rayct.github.io/zet 
+"This is where I dump my knowledge as it happens, all my zettels ('slips' or notes) about almost anything and everything. The idea is rather simple, really, and very powerful.
 
-This is a very community driven space for Inspiration for experienced vetrans to publish their Brilliance
+Everything is in docs or at https://rayct.github.io/zet.
 
-“The smarter you are, the less you talk.”
+This is a highly community-driven space for inspiration, where experienced veterans can publish their brilliance.
 
-A very Special Thank you to Robert S. Muhlestein (rwxrob) for Inspiring me to create this and for his supreme abilty and Intelect to educate.
+'The smarter you are, the less you talk.'
+
+A very special thank you to Robert S. Muhlestein (rwxrob) for inspiring me to create this and for his supreme ability and intellect to educate."
 
 ---
 
