@@ -7,6 +7,8 @@ Everything is in docs or at https://rayct.github.io/zet
 
 This is a very community driven space for Inspiration for experienced vetrans to publish their Brilliance
 
+“The smarter you are, the less you talk.”
+
 A very Special Thank you to Robert S. Muhlestein (rwxrob) for Inspiring me to create this and for his supreme abilty and Intelect to educate.
 
 ---
