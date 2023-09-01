@@ -41,7 +41,7 @@ To run this script, save it to a file (e.g., `honeypot.py`) and execute it using
 
 # Honeypot using Go
 
-Certainly! Here's an example of a basic TCP honeypot using Go:
+An example of a basic `TCP` honeypot using **Go**:
 
 ```go
 package main
@@ -113,6 +113,87 @@ Just like the previous Python example, this Go program creates a TCP honeypot th
 
 *Remember that setting up a honeypot should be done with care, as it can attract malicious activity. Additionally, consider implementing more advanced features and security measures when creating a production-ready honeypot.*
 
+---
+
+# A slightly more Advanced Honeypot Setup using Docker
+
+Creating an advanced honeypot involves a deep understanding of networking, security, and system administration. It's important to approach this responsibly, as honeypots can attract real attackers and potentially expose your systems to risks. Below is an example of a more advanced honeypot using Go and the Cowrie honeypot framework.
+
+The Cowrie honeypot is a widely used open-source honeypot that emulates a SSH server, capturing SSH-based attacks and gathering valuable information about attacker behavior. It provides a more advanced and comprehensive solution compared to a simple TCP listener.
+
+Here's how you can set up a basic Cowrie honeypot using Docker:
+
+1. Install Docker on your system if you haven't already: https://docs.docker.com/get-docker/
+
+2. Create a `docker-compose.yml` file with the following content:
+
+```yaml
+version: '3'
+services:
+  cowrie:
+    image: cowrie/cowrie
+    ports:
+      - "2222:2222"
+    volumes:
+      - ./cowrie-data:/cowrie/cowrie-git/var
+```
+
+3. Create a directory named `cowrie-data` in the same location as your `docker-compose.yml` file. This directory will store the Cowrie honeypot data.
+
+4. Open a terminal and navigate to the directory containing the `docker-compose.yml` file.
+
+5. Run the following command to start the Cowrie honeypot:
+
+```bash
+docker-compose up -d
+```
+
+This command will download the **Cowrie Docker** image and start the honeypot container. It will listen on port `2222` for incoming SSH connections.
+
+6. Monitor the honeypot logs and captured data using the `cowrie-data` directory.
+
+Keep in mind that this is just a basic setup of the Cowrie honeypot using Docker. The Cowrie project provides advanced configuration options, including customizing the behavior of the honeypot, analyzing captured data, and setting up alerting systems.
+
+*Remember to regularly update and monitor your honeypot setup, as attackers can evolve their techniques over time. Always prioritize security and ensure you're following legal guidelines when deploying and using a honeypot.*
+
+---
+
+# A slightly more Advanced Honeypot Setup using Podman
+
+Podman is an alternative containerization tool to Docker. Here's how I set up the Cowrie honeypot using Podman:
+
+1. Install Podman on your system if you haven't already: https://podman.io/getting-started/installation
+
+2. Create a `docker-compose.yml` file with the following content:
+
+```yaml
+version: '3'
+services:
+  cowrie:
+    image: cowrie/cowrie
+    ports:
+      - "2222:2222"
+    volumes:
+      - ./cowrie-data:/cowrie/cowrie-git/var
+```
+
+3. Create a directory named `cowrie-data` in the same location as your `docker-compose.yml` file. This directory will store the Cowrie honeypot data.
+
+4. Open a terminal and navigate to the directory containing the `docker-compose.yml` file.
+
+5. Run the following command to start the Cowrie honeypot using Podman:
+
+```bash
+podman-compose up -d
+```
+
+This command will download the Cowrie container image and start the honeypot container. It will listen on port `2222` for incoming SSH connections.
+
+6. Monitor the honeypot logs and captured data using the `cowrie-data` directory.
+
+Similar to Docker, Podman allows you to manage containers and interact with them using similar commands. The `podman-compose` tool is used as a replacement for `docker-compose` to manage multi-container applications.
+
+*Always ensure you're following best practices for security and adhere to legal guidelines when deploying and using a honeypot, regardless of the containerization tool you choose.*
 
 ---
 
