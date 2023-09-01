@@ -6,8 +6,14 @@
 
 ## The final report on the findings of the people who are about to be exposed. The thing that excites me the most is that they aren't even aware!
 
-## **"You only know what you have been allowed to know".**
 
+* ## **Benevolence** 
+
+    Benevolence is a noun that refers to the quality or disposition of being kind, charitable, and showing goodwill toward others. It denotes a genuine desire to promote the well-being and happiness of others, often expressed through acts of generosity, compassion, or helpfulness. A benevolent person or organization is one that is characterized by a willingness to do good and to help others without expecting anything in return. Benevolence is often associated with empathy, sympathy, and a genuine concern for the welfare of others.
+
+    *"But! Do not mistake benevolence for weakness"* 
+
+## **"You only know what you have been allowed to know".**
 
 ## "Tout sera révélé."
 
