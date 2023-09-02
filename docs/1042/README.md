@@ -211,8 +211,10 @@ If you're finding that your healthcare professional or GP is not showing suffici
 
 Remember that open and respectful communication is key. While healthcare professionals are experts, they may not always have all the answers immediately. If you continue to face challenges in receiving appropriate care, seeking a second opinion or consulting with a specialist can be valuable steps to ensure your health concerns are addressed.
 
+
+
 ---
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: 1 Day ago
+Last Updated: Sunday 3rd September 2023 @ 00:25 GMT
