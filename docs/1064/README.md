@@ -1,4 +1,4 @@
-# Meanings
+# CS50X 2023 Meanings
 
 ## **Contiguous** 
 1. Refers to things that are in close proximity or touching each other without any gaps or interruptions. It is often used to describe objects, areas, or concepts that are physically connected or adjacent to each other. For example, a contiguous landmass refers to a land area that is not broken up by bodies of water, while a contiguous memory allocation in computer programming refers to a block of memory that is allocated in a single, uninterrupted chunk.
