@@ -62,6 +62,103 @@ if __name__ == "__main__":
 
 # The Coleman-Liau index in C
 
+The equivalent C program to calculate the Coleman-Liau index of a given text: Using the CS50X Library.
+
+```c
+#include <stdio.h>
+#include <string.h>
+#include <ctype.h>
+#include <cs50.h>
+
+// Function to count the number of letters in the text
+int count_letters(const char *text) {
+    int count = 0;
+    for (int i = 0; text[i]; i++) {
+        if (isalpha(text[i])) {
+            count++;
+        }
+    }
+    return count;
+}
+
+// Function to count the number of words in the text
+int count_words(const char *text) {
+    int count = 0;
+    int is_word = 0;  // Flag to track if we are inside a word
+
+    for (int i = 0; text[i]; i++) {
+        if (isalnum(text[i])) {
+            if (!is_word) {
+                count++;
+                is_word = 1;
+            }
+        } else {
+            is_word = 0;
+        }
+    }
+
+    return count;
+}
+
+// Function to count the number of sentences in the text
+int count_sentences(const char *text) {
+    int count = 0;
+    for (int i = 0; text[i]; i++) {
+        if (text[i] == '.' || text[i] == '!' || text[i] == '?') {
+            count++;
+        }
+    }
+    return count;
+}
+
+// Function to calculate the Coleman-Liau index
+double calculate_coleman_liau_index(const char *text) {
+    int letters = count_letters(text);
+    int words = count_words(text);
+    int sentences = count_sentences(text);
+
+    // Calculate the average number of letters per 100 words
+    double L = ((double)letters / words) * 100.0;
+
+    // Calculate the average number of sentences per 100 words
+    double S = ((double)sentences / words) * 100.0;
+
+    // Calculate the Coleman-Liau index
+    double index = 0.0588 * L - 0.296 * S - 15.8;
+
+    return index;
+}
+
+int main() {
+    // Prompt the user for a string of text
+    string input_text = get_string("Enter the text: ");
+
+    // Calculate the Coleman-Liau index
+    double coleman_liau_index = calculate_coleman_liau_index(input_text);
+
+    // Determine the corresponding grade level
+    char *grade_level;
+    if (coleman_liau_index < 1) {
+        grade_level = "Preschool";
+    } else if (coleman_liau_index >= 16) {
+        grade_level = "College Graduate";
+    } else {
+        char grade_level_buffer[20];
+        sprintf(grade_level_buffer, "Grade %.0lf", coleman_liau_index);
+        grade_level = grade_level_buffer;
+    }
+
+    // Display the Coleman-Liau index and grade level
+    printf("Coleman-Liau Index: %.2lf\n", coleman_liau_index);
+    printf("Corresponding Grade Level: %s\n", grade_level);
+
+    return 0;
+}
+
+```
+
+---
+
 The equivalent C program to calculate the Coleman-Liau index of a given text:
 
 ```c

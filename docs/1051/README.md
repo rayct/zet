@@ -1,4 +1,4 @@
-[# GITHUB STUFF - 2023
+# GITHUB STUFF - 2023
 
 ## Setting up a GitHub Repo locally with CLI and Push the excisting content
 
