@@ -218,7 +218,7 @@ Remember that open and respectful communication is key. While healthcare profess
 
 "My bloating is having a detrimental impact on my physical and psychological health, significantly inhibiting my ability to exercise and maintain well-being while severely limiting my mobility. Overall, it is extremely debilitating on an hourly basis."
 
-All Tests so far have been extremly basic and Inconclusive.
+**All Tests so far have been extremly basic and Inconclusive.**
 
 
 ---
