@@ -212,6 +212,11 @@ If you're finding that your healthcare professional or GP is not showing suffici
 Remember that open and respectful communication is key. While healthcare professionals are experts, they may not always have all the answers immediately. If you continue to face challenges in receiving appropriate care, seeking a second opinion or consulting with a specialist can be valuable steps to ensure your health concerns are addressed.
 
 
+---
+
+# Outcome of the Effects
+
+"My bloating is having a detrimental impact on my physical and psychological health, significantly inhibiting my ability to exercise and maintain well-being while severely limiting my mobility. Overall, it is extremely debilitating on an hourly basis."
 
 ---
 
