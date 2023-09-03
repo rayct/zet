@@ -62,7 +62,7 @@ if __name__ == "__main__":
 
 # The Coleman-Liau index in C
 
-The equivalent C program to calculate the Coleman-Liau index of a given text: Using the CS50X Library.
+The equivalent C program to calculate the Coleman-Liau index of a given text: Using the <cs50.h> Library.
 
 ```c
 #include <stdio.h>
