@@ -1,26 +1,21 @@
 # **Smoke and Mirrors**
+## Part of my Behavioural Sciences Study for AI/ML - 2023/24
 
----
+## My Personal Experience of Psychlogical Bullying.
 
-## Epilouge
+### Epilouge
 
-## Truth is Poetry, and most people hate Poetry.
+#### Truth is Poetry, and most people hate Poetry.
 
-No one is more hated than he who speaks the truth.\
-    ― Plato
+#### No one is more hated than he who speaks the truth.
+#### ― Plato
 
 
-* ## **Benevolence** 
-
-    Benevolence is a noun that refers to the quality or disposition of being kind, charitable, and showing goodwill toward others. It denotes a genuine desire to promote the well-being and happiness of others, often expressed through acts of generosity, compassion, or helpfulness. A benevolent person or organization is one that is characterized by a willingness to do good and to help others without expecting anything in return. Benevolence is often associated with empathy, sympathy, and a genuine concern for the welfare of others.
-
-    *"But! Do not mistake benevolence for weakness"* 
-
-## **"You only know what you have been allowed to know".**
+## **"Remember! You only know what you have been allowed to know".**
 
 ## "Tout sera révélé."
 
-  "Remember, all actions have consequences. We're aware of your past deeds and are observing closely. The day of reckoning may approach sooner than you think. Reflect upon your choices."
+  "It's imperative to fully understand that all actions have consequences. We're aware of your past deeds and are observing closely. The day of reckoning may approach sooner than you think. Reflect upon your choices."
 
   "Pamiętaj, wszystkie działania mają konsekwencje. Jesteśmy świadomi twoich wcześniejszych czynów i obserwujemy uważnie. Dzień rozrachunku może nadejść szybciej niż myślisz. Zastanów się nad swoimi wyborami."
 
@@ -32,10 +27,35 @@ No one is more hated than he who speaks the truth.\
 
   "Помни, что все действия имеют последствия. Мы осведомлены о твоих прошлых поступках и внимательно наблюдаем. День расплаты может прийти ближе, чем ты думаешь. Обдумай свои выборы."
 
+
+## Cause and effect: Let's explore each of these concepts:
+
+1. **Entropy**:
+   - **Definition**: In physics and thermodynamics, entropy is a measure of the degree of disorder or randomness in a system. It represents the amount of energy in a system that is unavailable for doing work. High entropy implies high disorder, while low entropy implies order and organization.
+   - **Second Law of Thermodynamics**: This law states that in any energy exchange, if no energy enters or leaves the system, the potential energy of the state will always be less than that of the initial state. In other words, entropy tends to increase over time in a closed system, leading to greater disorder.
+   - **Information Theory**: In information theory, entropy is used to quantify the amount of uncertainty or surprise associated with a random variable. It measures the average amount of information contained in a message or data set.
+
+2. **Cause and Effect**:
+   - **Definition**: Cause and effect refer to the relationship between events where one event (the cause) leads to another event (the effect). It is a fundamental concept in philosophy, science, and everyday life.
+   - **Causality**: Causality is the principle that every event has a cause, and every cause produces one or more effects. Understanding causality is essential for explaining and predicting phenomena in various fields, including science and social sciences.
+   - **Deterministic vs. Probabilistic Causality**: Some causal relationships are deterministic, meaning that the cause will always produce the same effect under the same conditions. In contrast, probabilistic causality allows for the possibility of multiple outcomes even with the same cause due to probabilistic or random factors.
+   - **Causal Inference**: Causal inference is the process of determining whether a cause-and-effect relationship exists between two variables. This can be challenging, especially in complex systems where multiple factors may be at play.
+
+The relationship between entropy and cause and effect is not straightforward, but there are some important connections:
+
+- In physics, the increase in entropy over time is often associated with the arrow of time and the idea that natural processes tend to move from ordered (low entropy) states to more disordered (high entropy) states. This concept is related to the idea of causality, where causes precede effects in time.
+
+- In information theory, entropy is used to measure the uncertainty or unpredictability of events. The concept of cause and effect is related because the cause of an event is often used to predict its effect, and the degree of uncertainty (entropy) in this prediction can be quantified.
+
+*In summary, entropy, cause and effect are fundamental concepts that play important roles in understanding the behavior of physical systems, the flow of time, and the predictability of events, but their relationships can be complex and context-dependent. They are subjects of ongoing study and philosophical inquiry in various fields.*
+
 ---
 
-## *"This is a list of the most perfect words that describe the most horrible and cruelest people that I have ever had the misfortune to meet over the past 2 years."*
+* ## **Benevolence** 
 
+    Benevolence is a noun that refers to the quality or disposition of being kind, charitable, and showing goodwill toward others. It denotes a genuine desire to promote the well-being and happiness of others, often expressed through acts of generosity, compassion, or helpfulness. A benevolent person or organization is one that is characterized by a willingness to do good and to help others without expecting anything in return. Benevolence is often associated with empathy, sympathy, and a genuine concern for the welfare of others.
+
+    *"But! Do not mistake benevolence for weakness"* 
 
 * ## **Pretentious** 
 
