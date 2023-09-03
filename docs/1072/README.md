@@ -1,6 +1,6 @@
 # Behavioural Sciences Study for AI/ML 2023/24
 
-## Competitiveness and Ostentation 
+## Competitiveness and Ostentation.
 
 Competitiveness and Ostentation in individuals can be influenced by a combination of personal, psychological, social, and cultural factors. Here are some reasons why some people may exhibit high levels of competitiveness and ostentation:
 
