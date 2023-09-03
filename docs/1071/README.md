@@ -1,4 +1,6 @@
-# Behavioural Sciences Study for AI/ML 2023/24
+# Behavioural Sciences
+
+## AI/ML Study Material - 2023/24
 
 </br>
 

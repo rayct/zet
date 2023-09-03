@@ -1,4 +1,4 @@
-# Behavioural Sciences Study - 2023/24
+# Behavioural Sciences Study for AI/ML 2023/24
 
 ## Competitiveness and Ostentation 
 
