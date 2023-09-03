@@ -18,6 +18,8 @@ make difficult tasks possible\
 
 ---
 
+</br>
+
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Sunday 3rd September 2023 @ 00:25 GMT
+Last Updated: Sunday 3rd September 2023 @ 19:01 GMT
