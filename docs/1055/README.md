@@ -6,6 +6,9 @@
 
 ## Truth is Poetry, and most people hate Poetry.
 
+No one is more hated than he who speaks the truth.\
+    ― Plato
+
 
 * ## **Benevolence** 
 

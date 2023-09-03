@@ -10,6 +10,12 @@ This is a highly community-driven space for inspiration, where experienced veter
 
 'The smarter you are, the less you talk.'
 
+Graphical user interfaces make easy tasks easy, while command line interfaces\
+make difficult tasks possible\
+― William E. Shotts Jr., The Linux Command Line
+
+</br>
+
 A very special thank you to Robert S. Muhlestein (rwxrob) for inspiring me to create this and for his supreme ability and intellect to educate."
 
 ---
