@@ -4,7 +4,7 @@
 
 ## Epilouge
 
-## The final report on the findings of the people who are about to be exposed. The thing that excites me the most is that they aren't even aware!
+## Truth is Poetry, and most people hate Poetry.
 
 
 * ## **Benevolence** 
