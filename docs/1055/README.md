@@ -1,7 +1,7 @@
 # **Smoke and Mirrors**
 ## Part of my Behavioural Sciences Study for AI/ML - 2023/24
 
-## My Personal Experience of Psychlogical Bullying.
+## A Personal Experience of Psychlogical Bullying.
 
 ### Epilouge
 
