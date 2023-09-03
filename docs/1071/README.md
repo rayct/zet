@@ -1,6 +1,6 @@
-# My Study into Behavioural Sciences
+# Behavioural Sciences Study for AI/ML 2023/24
 
- <a href:=#1072>## A link to my Study Material</a>
+</br>
 
 Behavioral sciences encompass a range of academic disciplines that focus on the study of human and animal behavior. These sciences seek to understand, explain, and predict behaviors through systematic observation and experimentation. Some of the major disciplines within the behavioral sciences include:
 
