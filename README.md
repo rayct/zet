@@ -16,8 +16,6 @@ make difficult tasks possible\
 
 </br>
 
-A very special thank you to Robert S. Muhlestein (rwxrob) for inspiring me to create this and for his supreme ability and intellect to educate."
-
 ---
 
 Documentation By: **Raymond C. TURNER**
