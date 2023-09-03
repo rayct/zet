@@ -15,7 +15,9 @@
 
 ## "Tout sera révélé."
 
-  "It's imperative to fully understand that all actions have consequences. We're aware of your past deeds and are observing closely. The day of reckoning may approach sooner than you think. Reflect upon your choices."
+  "It's imperative to fully understand that all actions have consequences. Rest assured, we are keenly aware of your past deeds and are observing very closely. The day of reckoning may come sooner than you think. Please, reflect upon your choices."
+
+  "Tá sé riachtanach é a thuiscint go hiomlán go bhfuil toradh ag gach ghníomh. Bí cinnte, táimid go mór ar an eolas faoi d'obairí ón am atá thart agus táimid ag faire go géar go géar. D'fhéadfadh lá na páirce teacht níos luaithe ná a cheapann tú. Bíodh machnamh agat, le do roghanna."
 
   "Pamiętaj, wszystkie działania mają konsekwencje. Jesteśmy świadomi twoich wcześniejszych czynów i obserwujemy uważnie. Dzień rozrachunku może nadejść szybciej niż myślisz. Zastanów się nad swoimi wyborami."
 
