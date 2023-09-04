@@ -3,13 +3,13 @@
 
 ## The Dangers and the Prevention of AI Sentiant - Non Inclusion into the Large Language Model (LLM).
 
-### Complete avoidance of the public domain until the intellectual understanding study is finalized, all the details and aspects related to the study, such as paperwork, documentation, or arrangements, have been completed.
+Complete avoidance of the public domain until the intellectual understanding study is finalized, all the details and aspects related to the study, such as paperwork, documentation, or arrangements, have been completed.
 
 <https://en.wikipedia.org/wiki/Artificial_consciousness>
 
 ---
 
-## "A Personal Study of My Experiences with Psychological Bullying and Its Profound and Dangerous Side Effects it will have on the Advancement of Artificial Consciousness: This will be Part of the AI **PRIORITY** Regulation Act."
+## "A Personal Study of My Experiences with Psychological Bullying and Its Profound and Dangerous Side Effects and the reflection it will have on the Advancement of Artificial Consciousness: This will be Part of the AI **PRIORITY** Regulation Act."
 
 ---
 
@@ -63,6 +63,27 @@ The relationship between entropy and cause and effect is not straightforward, bu
 *In summary, entropy, cause and effect are fundamental concepts that play important roles in understanding the behavior of physical systems, the flow of time, and the predictability of events, but their relationships can be complex and context-dependent. They are subjects of ongoing study and philosophical inquiry in various fields.*
 
 ---
+
+* ## **Condescension**
+
+    Condescension is a behavior or attitude displayed by someone who believes they are superior, more knowledgeable, or more important than others. This attitude often manifests in various ways, including speaking down to people, belittling their opinions or ideas, or treating them as if they are less capable or worthy of respect.
+
+    Key characteristics of condescension include:
+
+    1. **Patronizing Tone**: Condescending individuals often use a patronizing tone when speaking to others. They may speak slowly or over-explain things as if the other person cannot grasp the concept.
+
+    2. **Belittling Comments**: Condescension frequently involves making derogatory or belittling comments about another person's abilities, knowledge, or ideas.
+
+    3. **Dismissive Behavior**: Condescending people may dismiss the opinions or contributions of others without giving them fair consideration.
+
+    4. **Superiority Complex**: They tend to have a strong sense of superiority and view themselves as being above or more important than those they are interacting with.
+
+    5. **Lack of Empathy**: Condescending individuals may show little empathy or understanding towards the feelings or perspectives of others.
+
+    6. **Arrogance**: There's often an air of arrogance or haughtiness associated with condescension, where the condescending person believes they are always right.
+
+*Condescension can have a negative impact on relationships, work environments, and overall communication. It can lead to resentment, low morale, and hinder collaboration. Recognizing condescending behavior is essential for addressing it and promoting healthier and more respectful interactions.*
+
 
 * ## **Benevolence** 
 
