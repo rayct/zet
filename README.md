@@ -10,15 +10,18 @@ This is a highly community-driven space for inspiration, where experienced veter
 
 ***"Quotes of the Week"***
 
-* Simplicity is the heart of the Unix philosophy.
-The more code lines you have removed, the more progress you have made.\
+* "A Flame that burns twice as bright burns half as long"\
+― Lao Tzu
+
+* "Simplicity is the heart of the Unix philosophy.
+The more code lines you have removed, the more progress you have made.
 As the number of lines of code in your software shrinks, the more skilled you have become and the less your
-software sucks.\
+software sucks."\
 ― Suckless software
 
 
-* Graphical user interfaces make easy tasks easy, while command line interfaces\
-make difficult tasks possible\
+* "Graphical user interfaces make easy tasks easy, while command line interfaces\
+make difficult tasks possible"\
 ― William E. Shotts Jr., The Linux Command Line
 
 </br>
