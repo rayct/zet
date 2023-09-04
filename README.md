@@ -12,8 +12,7 @@ This is a highly community-driven space for inspiration, where experienced veter
 
 * Simplicity is the heart of the Unix philosophy.
 The more code lines you have removed, the more progress you have made.\
-As the number of lines of code in
-your software shrinks, the more skilled you have become and the less your
+As the number of lines of code in your software shrinks, the more skilled you have become and the less your
 software sucks.\
 ― Suckless software
 
@@ -30,4 +29,4 @@ make difficult tasks possible\
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Mondday 4th September 2023 @ 00:42 GMT
+Last Updated: Mondday 4th September 2023 @ 15:59 GMT
