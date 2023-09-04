@@ -63,6 +63,7 @@ The relationship between entropy and cause and effect is not straightforward, bu
 *In summary, entropy, cause and effect are fundamental concepts that play important roles in understanding the behavior of physical systems, the flow of time, and the predictability of events, but their relationships can be complex and context-dependent. They are subjects of ongoing study and philosophical inquiry in various fields.*
 
 ---
+### Dangerous Traits to avoid.
 
 * ## **Condescension**
 
