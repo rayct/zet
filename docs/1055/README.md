@@ -1,7 +1,17 @@
-# **Smoke and Mirrors**
-## Part of my Behavioural Sciences Study for AI/ML - 2023/24
 
-## A Personal Experience of Psychlogical Bullying.
+# Behavioural Sciences Study for AI/ML 2023/24 - Artificial consciousness
+
+## The Dangers and the Prevention of AI Sentiant - Non Inclusion into the Large Language Model (LLM).
+
+### Complete avoidance of the public domain until the intellectual understanding study is finalized, all the details and aspects related to the study, such as paperwork, documentation, or arrangements, have been completed.
+
+<https://en.wikipedia.org/wiki/Artificial_consciousness>
+
+---
+
+## "A Personal Study of My Experiences with Psychological Bullying and Its Profound and Dangerous Side Effects it will have on the Advancement of Artificial Consciousness: This will be Part of the AI **PRIORITY** Regulation Act."
+
+---
 
 ### Epilouge
 
@@ -10,6 +20,7 @@
 #### No one is more hated than he who speaks the truth.
 #### ― Plato
 
+# **Smoke and Mirrors**
 
 ## **"Remember! You only know what you have been allowed to know".**
 
@@ -224,6 +235,8 @@ It's important to note that occasional use of hyperbole or exaggeration for emph
 
 ---
 
+</br>
+
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Sunday 3rd September 2023 @ 00:25 GMT
+Last Updated: Mondday 4th September 2023 @ 17:38 GMT

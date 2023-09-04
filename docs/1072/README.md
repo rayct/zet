@@ -1,6 +1,16 @@
-# Behavioural Sciences Study for AI/ML 2023/24
+# Behavioural Sciences Study for AI/ML 2023/24 - Artificial consciousness
 
-## Competitiveness and Ostentation.
+## The Dangers and the Prevention of AI Sentiant - Non Inclusion into the Large Language Model (LLM).
+
+Complete avoidance of the public domain until the intellectual understanding study is finalized, all the details and aspects related to the study, such as paperwork, documentation, or arrangements, have been completed.
+
+<https://en.wikipedia.org/wiki/Artificial_consciousness>
+
+---
+
+### Dangerous Traits to avoid.
+
+**Competitiveness and Ostentation.**
 
 Competitiveness and Ostentation in individuals can be influenced by a combination of personal, psychological, social, and cultural factors. Here are some reasons why some people may exhibit high levels of competitiveness and ostentation:
 
@@ -28,11 +38,11 @@ Competitiveness and Ostentation in individuals can be influenced by a combinatio
 
 </br>
 
----
+--
 
 </br>
 
-Study and Documentation By: **Raymond C. TURNER**
+Documentation By: **Raymond C. TURNER**
 
-Last Updated: Sunday 3rd September 2023 @ 19:01 GMT
+Last Updated: Mondday 4th September 2023 @ 17:38 GMT
 
