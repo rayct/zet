@@ -1,4 +1,5 @@
 # Fixing and Removing broken dependencies.
+
 Fixing and removing broken dependencies in Linux typically involves using package management tools like `apt` (for Debian-based systems like Ubuntu) or `yum` (for Red Hat-based systems like CentOS). Here are some general steps to help you address broken dependencies:
 
 **Note:** You should always be cautious when removing packages, especially if they are essential to the system. Removing the wrong packages can lead to a non-functional system. Always make sure you understand the implications of your actions before proceeding.
