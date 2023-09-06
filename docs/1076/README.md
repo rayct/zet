@@ -8,8 +8,7 @@ https://www.cloudskillsboost.google/public_profiles/012db591-f07e-430a-b405-ecad
 
 Sign in to your Google Developer profile to display your Google Cloud Skills Boost badge on your Google Developer profile. 
 
-
-
+---
 
 To insert an image into a Markdown (`.md`) document, you can use the following Markdown syntax:
 
@@ -41,8 +40,6 @@ Here are two examples:
 Replace "OpenAI Logo" and "Local Image" with your own alt text, and replace the URLs or file names with the appropriate image source you want to use.
 
 Remember that the exact syntax and rendering of images in Markdown may vary depending on the Markdown renderer or platform you're using, but the basic syntax shown above is widely supported.
-
-
 
 
 ---
