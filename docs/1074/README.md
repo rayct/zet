@@ -1,6 +1,8 @@
 ## Mercedes SLK 230 Common faults:
 
-Common faults can vary based on the model year, driving conditions, and maintenance history of a specific Mercedes SLK 230. However, I can provide you with a list of some common issues that SLK 230 owners have reported over the years:
+**Common faults can vary based on the model year, driving conditions, and maintenance history of a specific Mercedes SLK 230.** 
+
+A list of some common issues that SLK 230 owners have reported over the years:
 
 1. **Electrical Issues:** Mercedes vehicles, including the SLK 230, can sometimes experience electrical problems. These might include issues with the central locking system, malfunctioning power windows, faulty sensors, or problems with the convertible roof mechanism.
 
