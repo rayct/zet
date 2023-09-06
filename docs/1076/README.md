@@ -17,7 +17,7 @@ To insert an image into a Markdown (`.md`) document, you can use the following M
 ![Alt Text](/home/ray/Repos/github.com/rayct/zet/docs/1076/eUpPKQvwTZUF1OIcHrMK06zGg+D3tx5gbfJUJddnrxU=.png)
 ```
 
-![Alt Text](/home/ray/Repos/github.com/rayct/zet/docs/1076/eUpPKQvwTZUF1OIcHrMK06zGg+D3tx5gbfJUJddnrxU=.png)
+![Alt Text](/docs/1076/eUpPKQvwTZUF1OIcHrMK06zGg+D3tx5gbfJUJddnrxU=.png)
 
 Here's how it works:
 
