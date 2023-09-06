@@ -2,6 +2,8 @@
 
 ## The Dangers and the Prevention of AI Sentiant - Non Inclusion into the Large Language Model (LLM).
 
+## Generative AI is a Subset of Deep Learning
+
 Complete avoidance of the public domain until the intellectual understanding study is finalized, all the details and aspects related to the study, such as paperwork, documentation, or arrangements, have been completed.
 
 <https://en.wikipedia.org/wiki/Artificial_consciousness>
