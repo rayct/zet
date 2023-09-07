@@ -36,7 +36,7 @@ WOMEN, YOU ARE VALUABLE!! ❤
 
 Remember - Class is more desirable than Trash.
 
-Author - Diane Walls.
+ ― Author - Diane Walls.
 
 ---
 
@@ -45,20 +45,3 @@ Author - Diane Walls.
 Documentation By: **Raymond C. TURNER**
 
 Last Updated: Thursday 7th September 2023 @ 15:53 GMT
-
-
-
-
-
-
-
-
-
-
----
-
-</br>
-
-Documentation By: **Raymond C. TURNER**
-
-Last Updated: Wednesday 6th September 2023 @ 21:52 GMT
