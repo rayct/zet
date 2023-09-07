@@ -1,4 +1,6 @@
-# My Gripe WIth OOP
+# My Gripe WIth OOP - Bring Back C as the Foundational Language.
+
+## Really Open there Eye's.
 
 I don't like it that some languages or libraries like like (or try to) hide/shield from the programmer what's actually going on under the hood.
 
@@ -14,7 +16,12 @@ To use the `Random.Next()` method, however, **you don't have to understand how i
 
 I understand that it helps with productivity, but this is the problem with some of the more complex production software outhere, is that, if the developer does not understand what they are are writing because there just hitting targets then all hell breaks loose. Because 9/10 thay have started learning an OOP language first sugar coated with Garbage collectors.
 
-Fucking Learn C First, understand what Memory mangement is. Algorithms, Linked lists vs Array's and when not to use them.
+Fucking Learn C First, understand what Memory mangement is. Algorithms, Linked lists vs Array's, Linear Search, Binary Search. when to use them and when not to.
+
+* Sorting: Bubble Sort, Selection Sort, Merge Sort. Asymptotic Notation: 
+* Searching: Linear Search, Binary Search. 
+* Sorting: Bubble Sort, Selection Sort, Merge Sort.
+* Asymptotic Notation: 
 
 ## How can you determine whether you need to create an instance of a class before calling its methods?
 
