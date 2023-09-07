@@ -16,6 +16,23 @@ I understand that it helps with productivity, but this is the problem with some 
 
 Fucking Learn C First, understand what Memory mangement is. Algorithms, Linked lists vs Array's and when not to use them.
 
+## How can you determine whether you need to create an instance of a class before calling its methods?
+
+One approach for determining whether a method is stateful or stateless is to consult the **documentation**. The **documentation** includes examples that show whether the method must be called from the object instance or directly from the class.
+
+1. **DOCUMENTATION**!
+1. **REFACTOR**!
+1. **TEST**!
+
+1. **DOCUMENTATION**!
+1. **REFACTOR**!
+1. **TEST**!
+
+1. **DOCUMENTATION**!
+1. **REFACTOR**!
+1. **TEST**!
+
+OFFICIAL DOCUMENTATION IS YOUR BEST **FUCKING** FREIND!
 
 **Rant over for Now!**
 
