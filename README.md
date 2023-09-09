@@ -22,7 +22,6 @@ As the number of lines of code in your software shrinks, the more skilled you ha
 software sucks."\
 ― Suckless software
 
-
 * "Graphical user interfaces make easy tasks easy, while command line interfaces\
 make difficult tasks possible"\
 ― William E. Shotts Jr., The Linux Command Line
