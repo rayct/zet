@@ -269,6 +269,64 @@ This C# example provides a basic text-to-speech functionality using the built-in
 
 That's it! You've successfully executed your C# console application on your Mac using the .NET SDK.
 
+---
+
+## ERRORS
+**Visual Studio**
+The error message you're seeing, "error CS0234: The type or namespace name 'Speech' does not exist in the namespace 'System' (are you missing an assembly reference?)" suggests that your C# project is trying to use a type or namespace called 'Speech' from the 'System' namespace, but it cannot find it, likely because you're missing a necessary assembly reference.
+
+In C#, the 'System.Speech' namespace is typically used for text-to-speech functionality. To resolve this error, you need to make sure that you have the necessary assembly reference added to your project.
+
+Here are the steps to add the reference to 'System.Speech':
+
+1. Right-click on your project in the Solution Explorer in Visual Studio.
+2. Select "Add" and then "Reference..."
+
+3. In the "Reference Manager" dialog, go to the "Assemblies" or "Frameworks" section.
+
+4. Look for "System.Speech" in the list of available assemblies. It should be under the ".NET" or "Extensions" tab. If you cannot find it, you may need to use the "Browse" button to locate the assembly manually.
+
+5. Check the checkbox next to "System.Speech" to select it.
+
+6. Click the "OK" or "Add" button to add the reference to your project.
+
+7. Build your project again. The error should be resolved.
+
+After adding the reference, your C# code should be able to recognize the 'System.Speech' namespace and its classes.
+
+If you still encounter issues or if 'System.Speech' is not available in your current environment, you might consider using a different text-to-speech library or API, such as the Microsoft Cognitive Services Text-to-Speech API, which doesn't require 'System.Speech'.
+
+**VSCode**
+In Visual Studio Code, you can manage your C# project's references manually by editing the project file. Here's how you can add a reference to `System.Speech`:
+
+1. Open your C# project in Visual Studio Code.
+
+2. In the Explorer panel, locate your project's `.csproj` file (e.g., `Text-to-Speech.csproj`) and open it.
+
+3. Inside the `.csproj` file, you will see an XML structure that defines the project and its dependencies.
+
+4. To add a reference to `System.Speech`, you can add the following `<Reference>` element within the `<ItemGroup>` section of your `.csproj` file:
+
+   ```xml
+   <ItemGroup>
+     <Reference Include="System.Speech" />
+   </ItemGroup>
+   ```
+
+   Make sure it is within the `<ItemGroup>` section but outside of any existing `<PackageReference>` elements.
+
+5. Save the `.csproj` file.
+
+6. Now, you should rebuild your project to ensure that the reference is resolved. You can do this by opening a terminal in Visual Studio Code and running the following command:
+
+   ```bash
+   dotnet build
+   ```
+
+This will build your project and resolve the reference to `System.Speech`. If there are any issues with the reference, you'll see error messages in the terminal that you can address accordingly.
+
+After adding the reference, your C# code should recognize the `System.Speech` namespace and its classes.
+
 
 ---
 
