@@ -164,7 +164,110 @@ python tts_example.py
 
 This Python example provides a basic text-to-speech functionality using the `gTTS` library, which is simple to use for quick TTS tasks. If you need more advanced TTS capabilities, you may consider using other Python libraries or cloud-based TTS services like the Google Cloud Text-to-Speech API.
 
+---
 
+# Text-to-Speech (TTS) - 4
+## C#
+
+To create a new console application in a specified folder, type:\
+ `dotnet new console -o ./CsharpProjects/Text-to-Speech`
+
+A simple example of a text-to-speech program in C# using the `System.Speech.Synthesis` namespace, which is part of the .NET Framework. You don't need to install any additional libraries for this example, as the `System.Speech.Synthesis` namespace is included in .NET.
+
+```csharp
+using System;
+using System.Speech.Synthesis;
+
+class Program
+{
+    static void Main()
+    {
+        // Create a SpeechSynthesizer instance
+        using (SpeechSynthesizer synth = new SpeechSynthesizer())
+        {
+            // Text to be converted to speech
+            string text = "Hello, this is a simple text-to-speech example in C#.";
+
+            try
+            {
+                // Speak the text
+                synth.Speak(text);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
+            }
+        }
+    }
+}
+```
+
+In this C# code:
+
+1. We include the necessary namespaces, including `System` and `System.Speech.Synthesis`.
+
+2. We create a `SpeechSynthesizer` instance, which represents the text-to-speech engine.
+
+3. We provide the text message to be converted to speech in the `text` variable.
+
+4. We use `synth.Speak(text)` to convert and speak the text.
+
+5. We handle exceptions in case any errors occur during the speech synthesis.
+
+Compile and run the C# program using the C# compiler (e.g., Visual Studio or Visual Studio Code):
+
+```bash
+csc Program.cs
+Program.exe
+```
+
+This C# example provides a basic text-to-speech functionality using the built-in `System.Speech.Synthesis` namespace in .NET. If you need more advanced text-to-speech capabilities, you may explore third-party libraries or cloud-based text-to-speech services available for C#.
+
+
+
+## To execute a C# console application on a Mac, you need to use the .NET Core SDK or the newer .NET 5 or .NET 6 SDK. Follow these steps:
+
+1. **Install .NET SDK**:
+
+   Make sure you have the .NET SDK installed on your Mac. If you don't have it, you can download and install it from the official .NET website: https://dotnet.microsoft.com/download/dotnet.
+
+2. **Write and Save Your C# Code**:
+
+   Create a new text file with your C# code, or you can use an integrated development environment (IDE) like Visual Studio Code. Save your C# code with a `.cs` file extension (e.g., `Program.cs`).
+
+3. **Open Terminal**:
+
+   Launch the Terminal application on your Mac.
+
+4. **Navigate to the Directory**:
+
+   Use the `cd` command to navigate to the directory where your C# source code file is located. For example, if your code is in the Desktop directory, you can navigate there like this:
+
+   ```bash
+   cd ~/Desktop
+   ```
+
+5. **Compile Your C# Code**:
+
+   Compile your C# code using the `dotnet` command. Assuming your code file is named `Program.cs`, you can compile it like this:
+
+   ```bash
+   dotnet build Program.cs
+   ```
+
+   This will create an executable file in the `bin/Debug/net5.0` (or a similar) folder.
+
+6. **Run Your C# Application**:
+
+   Execute your C# application using the `dotnet run` command. Replace `Program.cs` with the actual name of your compiled executable if it's different:
+
+   ```bash
+   dotnet run Program.dll
+   ```
+
+   You should see the output of your C# console application in the Terminal.
+
+That's it! You've successfully executed your C# console application on your Mac using the .NET SDK.
 
 
 ---
