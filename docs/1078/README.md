@@ -1,4 +1,6 @@
-# My Gripe WIth OOP - Bring Back C as the Foundational Language.
+# My Gripe With OOP - Bring Back C as the Foundational Language.
+
+## C Is the basis of all languages.
 
 ## Really Open there Eye's.
 
