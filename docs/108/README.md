@@ -5,12 +5,15 @@
 * VI/Shell/POSIX/Commands
     * Recover from `E212`: Can't Open file for writing.
         - `:w /tmp/foo`
-        - `chmox` is aliased to `chmod +x` 
-        - `:q!`: Quit without saving.
-        - `git pull` is Imperitive before starting to code
-        - `which` shows you a binary even it exists in your `$PATH`
-        - `type` will show you the exact binary that is being used.
-        - 
+    * `chmox` is aliased to `chmod +x` 
+    * `:q!`: Quit without saving.
+    * `git pull` is Imperitive before starting to code
+    * `which` shows you a binary even it exists in your `$PATH`
+    * `type` will show you the exact binary that is being used.
+    * `shellcheck ./hello` Check for any problems
+    * `setlist` 
+    * `git diff`
+    * 
 
 
 
