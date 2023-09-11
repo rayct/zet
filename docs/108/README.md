@@ -13,7 +13,7 @@
     * `shellcheck ./hello` Check for any problems
     * `setlist` 
     * `git diff`
-    * 
+    * `char` = 8bits Long, A single byte
 
 
 
