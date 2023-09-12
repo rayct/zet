@@ -1,13 +1,14 @@
 # Polyglot Programming 2023/24
 
-* Shell
-* BASH
-* C
-* Python
-* JavaScript
+* **Shell**
+* **BASH**
+* **C**
+* **Python**
+* **JavaScript**
 * GO
+* Java
 * C++
-* C#
+* **C#**
 * ASM
 
 
@@ -22,4 +23,4 @@
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Monday 11th September 2023
+Last Updated: Tuesday 12th September 2023
