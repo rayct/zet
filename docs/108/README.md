@@ -15,8 +15,7 @@
     * `git diff`
     * `char` = 8bits Long, A single byte
 
-
-
+---
 
 ## Syntax
 * Syntax refers to the set of rules and principles that govern the structure and formation of sentences or code in a specific language. It determines how words and phrases should be combined to form valid and meaningful expressions or instructions. In language, syntax involves grammar rules for sentence formation, such as the proper order of the subject, verb, and object. In programming, syntax refers to the correct sequence of elements, statements, and symbols according to the rules of the programming language being used. Ensuring proper syntax is important, as it enables effective communication and accurate program execution."
@@ -48,4 +47,4 @@ Syntax is essential for understanding how language works and for creating gramma
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Monday 11th September 2023
+Last Update: Tuesday 12th September 2023
