@@ -32,7 +32,7 @@ If you suspect that your emails are being monitored without your consent, it's i
 10. **Reach Out for Support:**
     If you're feeling overwhelmed by the situation, consider reaching out to a counselor or therapist to help you navigate the emotional stress it might be causing.
 
-## *If you suspect that a neighbor, particularly one with connections to the military or law enforcement, is using their contacts to access your private information, it's important to take the situation seriously and address it with caution. Here's what you can consider doing:*
+## *If you suspect that a neighbour, particularly one with connections to the military or law enforcement, is using their contacts to access your private information, it's important to take the situation seriously and address it with caution. Here's what you can consider doing:*
 
 1. **Secure Your Information:**
    Take immediate steps to secure your personal information. Change passwords for your email accounts, social media profiles, and any other sensitive online accounts. Use strong, unique passwords and enable two-factor authentication where possible.
