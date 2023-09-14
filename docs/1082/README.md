@@ -49,4 +49,4 @@ These are some common `ls` commands and options. You can combine these options a
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Wednesday 14th September 2023
+Last Updated: Fridday 15th September 2023
