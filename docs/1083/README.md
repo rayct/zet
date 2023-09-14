@@ -1,5 +1,6 @@
 # Chadenfreude
 
+## Joy derived from the misfortunes of others
 
 Return to the Convent, by Eduardo Zamacois y Zabala, 1868. Is a painting that depicts a group of monks laughing while a lone monk struggles with an ass.
 
