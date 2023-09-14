@@ -1,5 +1,8 @@
 # Chadenfreude
 
+
+Return to the Convent, by Eduardo Zamacois y Zabala, 1868. Is a painting that depicts a group of monks laughing while a lone monk struggles with an ass.
+
 When individuals take pleasure from other people's misfortunes, it is often referred to as "schadenfreude." Schadenfreude is a complex and somewhat controversial emotion, characterized by finding joy or satisfaction in the suffering or misfortune of others.
 
 There can be various reasons behind schadenfreude:
@@ -22,4 +25,4 @@ Cultivating empathy and compassion for others, practicing kindness, and avoiding
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Wednesday 14th September 2023
+Last Updated: Thursday 14th September 2023
