@@ -1,5 +1,5 @@
 # Zettelkasten for Turner, Raymond C.
-</br>
+
 
 
 This is where I dump my knowledge as it happens, all my zettels ('slips' or notes) about almost anything and everything. The idea is rather simple, really, and very powerful.
@@ -26,11 +26,9 @@ software sucks."\
 make difficult tasks possible"\
 ― William E. Shotts Jr., The Linux Command Line
 
-</br>
 
 ---
 
-</br>
 
 Documentation By: **Raymond C. TURNER**
 
