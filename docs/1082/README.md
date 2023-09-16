@@ -1,4 +1,5 @@
 # Linux Long listing commands
+
 The `ls` command in Unix-like operating systems (such as Linux) is used to list files and directories in a directory. It is a versatile command with various options to customize the output. Here are some common `ls` commands and their options:
 
 1. **Basic `ls` Command:**
