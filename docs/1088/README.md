@@ -21,8 +21,6 @@ Here are some ways AI can complement data analysts rather than replace them:
 
 ---
 
-</br>
-
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Saturday 16th September 2023
+Last Update: Sunday 17th September 2023
