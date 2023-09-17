@@ -10,7 +10,7 @@ This is a highly community-driven space for inspiration, where experienced veter
 
 ***"Quotes of the Week"***
 
-* "You may fight a battle more than once to win it"\
+* "Sometimes, you must fight a battle more than once to truly conquer it."\
 ― Margret Thatcher
 
 * "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction"\
