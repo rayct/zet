@@ -21,15 +21,20 @@
 * So the idea here is divide and conquer.
     * In binary search, the idea the idea of the algorithm is to devide and conquer, reducing the search area by half each time, trying to find a target number.
         In order to leverage this power however, our array must be sorted, else we cannot make assumptions about the array's contents.
+
+
+        
     
-    **VIDEO TIME STAMP: 0:42**
+## Bubblesort
 
+## Selection Sort
 
+## Recursion
 
-
+## Merge Sort
 
 ---
 
 Documentation By: **Raymond C. TURNER**
 
-Last Update: Sunday 17th September 2023
+Last Update: Monday 18th September 2023
