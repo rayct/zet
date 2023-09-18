@@ -19,7 +19,8 @@ This is a highly community-driven space for inspiration, where experienced veter
 * "A Flame that burns twice as bright burns half as long"\
 ― Lao Tzu
 
-* "The good thing about science is that it's true whether or not you believe in it."\ ― Neil deGrasse Tyson
+* "The good thing about science is that it's true whether or not you believe in it"
+― Neil deGrasse Tyson
 
 * "Graphical user interfaces make easy tasks easy, while command line interfaces\
 make difficult tasks possible"\
