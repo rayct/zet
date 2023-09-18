@@ -26,11 +26,11 @@
         In order to leverage this power however, our array must be sorted, else we cannot make assumptions about the array's contents.
 
 * **In pseudocode:**
-* Repeat untill (sub)array is of size 0:
-  * Calculate the middle point of the current (sub)array.
-  * If the target is at the middle, stop.
-  * Otherwise, if the target is less than what's at the middle, repeat, changing the end point to be just to the left of the middle.
-  * Otherwise, if the target is greater than what's at the middle, repeat, changing the start point to be just to the right of the middle.
+  * Repeat untill (sub)array is of size 0:
+    * Calculate the middle point of the current (sub)array.
+    * If the target is at the middle, stop.
+    * Otherwise, if the target is less than what's at the middle, repeat, changing the end point to be just to the left of the middle.
+    * Otherwise, if the target is greater than what's at the middle, repeat, changing the start point to be just to the right of the middle.
   
 * **Worst-case scenario:** We have to devide a list of n elements in half repeatedly to find the target element, either because the target element will be found at the end of the last division or doesn't exist in the array at all.
   
