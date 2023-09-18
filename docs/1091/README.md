@@ -34,7 +34,7 @@
   
 * **Worst-case scenario:** We have to devide a list of n elements in half repeatedly to find the target element, either because the target element will be found at the end of the last division or doesn't exist in the array at all.
   
-* **Best-case scenario** The target element is at the midpoint of the full array, and so we can stop looking immediately after we start. 
+* **Best-case scenario:** The target element is at the midpoint of the full array, and so we can stop looking immediately after we start. 
 
 * **Recap**
     * So Worst-case is we don't find the element so it runs in `O (log n)`
