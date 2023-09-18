@@ -11,27 +11,19 @@ This is a highly community-driven space for inspiration, where experienced veter
 ***"Quotes of the Week"***
 
 * "The glutton holds a knife to his throat; it turns out to be his own."\
-
+― Ancient Proverb
 
 * "You may fight a battle more than once to win it."\
 ― Margret Thatcher
 
-
 * "Gluttony is not a secret vice."\
 ― Orson Welles
-
 
 * "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction"\
 ― Rachel Carson
 
-
-― Ancient Proverb
-
-
-
 * "The good thing about science is that it's true whether or not you believe in it"\
 ― Neil deGrasse Tyson
-
 
 * "Graphical user interfaces make easy tasks easy, while command line interfaces\
 make difficult tasks possible"\
