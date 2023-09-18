@@ -14,6 +14,8 @@
         * So Worst-case is we don't find the element so it runs in `O(n)`
         * And the Best-case we find the element immediately and so it runs in `Ω(1)`
 
+---
+
 ## Binary Search
 * **Target | Start | End | Middle**
 * Note!
@@ -41,6 +43,8 @@
     * And the Best-case we find the element immediately and so it runs in `Ω(1)`
 
 Binary search is a lot better than Linear search, however you have to deal with the process of sorting your array first, before you can leverage the power of Binary search.
+
+---
 
     
 ## Bubblesort
