@@ -10,6 +10,9 @@ This is a highly community-driven space for inspiration, where experienced veter
 
 ***"Quotes of the Week"***
 
+* "The glutton holds a knife to his throat; it turns out to be his own."\
+
+
 * "You may fight a battle more than once to win it."\
 ― Margret Thatcher
 
@@ -22,8 +25,7 @@ This is a highly community-driven space for inspiration, where experienced veter
 ― Rachel Carson
 
 
-* "A Flame that burns twice as bright burns half as long"\
-― Lao Tzu
+― Ancient Proverb
 
 
 
