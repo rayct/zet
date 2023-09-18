@@ -40,7 +40,8 @@ Here are some more quotes related to nature, the environment, and our relationsh
 
 6. "The good thing about science is that it's true whether or not you believe in it." - Neil deGrasse Tyson
 
-7. "The important achievement of Apollo was demonstrating that humanity is not forever chained to this planet and our visions go rather further than that and our opportunities are unlimited." - Neil Armstrong
+7. "The important achievement of Apollo was demonstrating that humanity is not forever chained to this planet and our visions go rather further than that and our opportunities are unlimited."
+- Neil Armstrong
 
 8. "Every atom in your body came from a star that exploded. And, the atoms in your left hand probably came from a different star than your right hand. It really is the most poetic thing I know about physics: You are all stardust." 
 - Lawrence M. Krauss

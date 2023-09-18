@@ -19,11 +19,7 @@ This is a highly community-driven space for inspiration, where experienced veter
 * "A Flame that burns twice as bright burns half as long"\
 ― Lao Tzu
 
-* "Simplicity is the heart of the Unix philosophy.
-The more code lines you have removed, the more progress you have made.
-As the number of lines of code in your software shrinks, the more skilled you have become and the less your
-software sucks."\
-― Suckless software
+* "The good thing about science is that it's true whether or not you believe in it."\ ― Neil deGrasse Tyson
 
 * "Graphical user interfaces make easy tasks easy, while command line interfaces\
 make difficult tasks possible"\
