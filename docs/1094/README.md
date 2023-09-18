@@ -1,4 +1,4 @@
-# Reflective traits of selfishness and gluttony:
+# Reflective traits of the selfishness and gluttony:
 
 * "Greed is a bottomless pit which exhausts the person in an endless effort to satisfy the need without ever reaching satisfaction."\
 ― Erich Fromm
