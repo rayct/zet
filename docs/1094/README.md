@@ -33,7 +33,11 @@
 * "Earth provides enough to satisfy every man's needs, but not every man's greed."
 — Mahatma Gandhi
 
+* "Greed is an insatiable abyss that relentlessly drains a person through ceaseless endeavors to outdo others, striving to satisfy the need without ever attaining satisfaction, gratification, or fulfillment."
+― Erich Fromm
+
 *Remember, these quotes are meant to convey the negative aspects of selfishness and gluttony and are not endorsements of such behaviors.*
+
 
 ―――
 
