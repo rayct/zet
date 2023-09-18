@@ -14,12 +14,17 @@ This is a highly community-driven space for inspiration, where experienced veter
 ― Margret Thatcher
 
 
+* "Gluttony is not a secret vice."\ 
+―  Orson Welles
+
+
 * "The more clearly we can focus our attention on the wonders and realities of the universe about us, the less taste we shall have for destruction"\
 ― Rachel Carson
 
 
 * "A Flame that burns twice as bright burns half as long"\
 ― Lao Tzu
+
 
 
 * "The good thing about science is that it's true whether or not you believe in it"\
