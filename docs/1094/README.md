@@ -30,6 +30,9 @@
 * "The glutton holds a knife to his throat; it turns out to be his own."\
 ― Ancient Proverb
 
+* "Earth provides enough to satisfy every man's needs, but not every man's greed."
+— Mahatma Gandhi
+
 *Remember, these quotes are meant to convey the negative aspects of selfishness and gluttony and are not endorsements of such behaviors.*
 
 ―――
