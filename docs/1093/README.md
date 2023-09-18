@@ -21,7 +21,31 @@ Here are some more quotes related to nature, the environment, and our relationsh
 
 10. "Earth provides enough to satisfy every man's needs, but not every man's greed." — Mahatma Gandhi
 
-These quotes reflect on the importance of valuing and preserving our natural environment for the well-being of both ourselves and the planet.
+*These quotes reflect on the importance of valuing and preserving our natural environment for the well-being of both ourselves and the planet.*
+
+---
+
+# Science and physics-related quotes:
+
+1. "Science is not only a disciple of reason but, also, one of romance and passion." - Stephen Hawking
+
+2. "To confine our attention to terrestrial matters would be to limit the human spirit." - Stephen Hawking
+
+3. "The most incomprehensible thing about the universe is that it is comprehensible." - Albert Einstein
+
+4. "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." - Albert Einstein
+
+5. "We are made of star-stuff." 
+- Carl Sagan
+
+6. "The good thing about science is that it's true whether or not you believe in it." - Neil deGrasse Tyson
+
+7. "The important achievement of Apollo was demonstrating that humanity is not forever chained to this planet and our visions go rather further than that and our opportunities are unlimited." - Neil Armstrong
+
+8. "Every atom in your body came from a star that exploded. And, the atoms in your left hand probably came from a different star than your right hand. It really is the most poetic thing I know about physics: You are all stardust." 
+- Lawrence M. Krauss
+
+*These quotes touch on various aspects of science, physics, imagination, and the awe-inspiring nature of the universe.*
 
 
 ---
