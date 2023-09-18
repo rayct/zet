@@ -10,9 +10,9 @@
             * **Worst-case scenario:** We have to look through the entire array of n elements, either because the target element is the last element of the array or doesn't exist in the array at all.
 
             * **Best-case scenario:** The target element is the first element of the array, and so we can stop looking immediately after we start. 
-    * **Recap**
-        * So Worst-case is we don't find the element so it runs in `O(n)`
-        * And the Best-case we find the element immediately and so it runs in `Ω(1)`
+* **Recap**
+    * So Worst-case is we don't find the element so it runs in `O(n)`
+    * And the Best-case we find the element immediately and so it runs in `Ω(1)`
 
 ---
 
