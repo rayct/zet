@@ -15,15 +15,22 @@
         * And the Best-case we find the element immediately and so it runs in `Ω(1)`
 
 ## Binary Search
+* **Target | Start | End | Middle**
 * Binary search is an algorithm we can use to find an element inside an array.
 * Unlike Linear search, it requires a special condition to be meet forehand, but it's so much more efficient if that condition is, in fact, met.
 
 * So the idea here is divide and conquer.
     * In binary search, the idea the idea of the algorithm is to devide and conquer, reducing the search area by half each time, trying to find a target number.
         In order to leverage this power however, our array must be sorted, else we cannot make assumptions about the array's contents.
+* **In pseudocode:**
+* Repeat untill (sub)array is of size 0:
+  * Calculate the middle point of the current (sub)array.
+  * If the target is at the middle, stop.
+  * Otherwise, if the target is less than what's at the middle, repeat, changing the end point to be just to the left of the middle.
+  * Otherwise, if the target is greater than what's at the middle, repeat, changing the start point to be just to the right of the middle.
+  * 
 
 
-        
     
 ## Bubblesort
 
