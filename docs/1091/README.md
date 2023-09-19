@@ -179,18 +179,71 @@ int fact2(int n)
   * The *nth*  element is the sum of the (*n-1*)th and (*n-1*)th elements.
 
 * **Multiple recursive cases:** The Collatz conjecture.
-* The Collatz conjecture is it applies to positive integers and speculates that it is always possible to get "back to 1" if you follow these steps:
+* **The Collatz conjecture** is it applies to positive integers and speculates that it is always possible to get "back to 1" if you follow these steps:
   * If *n* is 1, stop.
   * Otherwise if *n* is even, repeat this process on *n/2*. `n/2`  (n divided by 2).
   * Otherwise, if *n* is odd, repeat this process on *3n +1*. `3 * n +1` (3 times n plus 1).
 
 * **Exercise**
-* Write a recursive function collatz(n) that calculates how many steps it takes to get to 1 if you start from n and recurse as indicated above.
+* Write a recursive function collatz(n) that calculates how many steps it takes to get to 1 if you start from n and recurse as indicated above. (Follow the steps up above)
+
+```markdown
+| n | collatz(n)  |                                         Steps                                                | 
+|---|-------------|----------------------------------------------------------------------------------------------|
+| 1 |      0      | 1                                                                                            |
+| 2 |      1      | 2 -> 1                                                                                       |
+| 3 |      7      | 3 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1                                                       |
+| 4 |      2      | 4 -> 2 -> 1                                                                                  |
+| 5 |      5      | 5 -> 16 -> 8 -> 4 -> 2 -> 1                                                                  |
+| 6 |      8      | 6 -> 3 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1                                                  |
+| 7 |     16      | 7 -> 22 -> 11 -> 34 -> 17 -> 52 -> 26 -> 13 -> 40 -> 20 -> 10 -> 5 -> 16 -> 8 -> 4 -> 2 -> 1 |
+| 8 |      3      | 8 -> 4 -> 2 -> 1                                                                             |
+|15 |     17      | 15 -> 46 -> 23 -> 70 -> ... -> 8 -> 4 -> 2 -> 1                                              |
+|27 |     111     | 27 -> 82 -> 41 -> 124 -> ... -> 8 -> 4 -> 2 -> 1                                             |
+|50 |     24      | 50 -> 25 -> 76 -> 38 -> ... -> 8 -> 4 -> 2 -> 1                                              |
+```
+* A Possible Definition of the Collatz function
+
+```c
+int collatz(int n)
+{
+  // base case
+  if (n == 1)
+    return 0;
+  // even numbers
+  else if ((n % 2) == 0)
+    return 1 + collatz(n/2);
+  // odd numbers
+  else
+    return 1 + collatz(3*n + 1;
+
+}
+```
 
 ---
 
 ## Merge Sort
 
+* In merge sort the idea of the algorithm is to sort smaller array
+and thencombine those arrays together (merge them) in sorted order.
+
+* Merge sort leverages something called **recursion**, which we'll
+touch on in more detail in a future video.
+
+In pseudocode:
+  * Sort the left half of the array (assuming n > 1)
+  * Sort the right half of the array (assuming n > 1)
+  * Merge the two halves together
+A single-
+element array must necessarily be sorted.
+
+
+**Recap**
+* **Worst-case scenario:** We have to split *n* elements up and then recombine them, effectively doubling the sorted subarrays as we build them up. (combining sorted 1-element arrays into 2-element arrays, combining sorted 2-element arrays into 4-element arrays...) So in the worst-case scenario the runtime of merge sort is **O(*n log n*)** which in general is going to be less than or faster than *n* squared.
+
+* **Best-case scenario:** The array is already perfectly sorted. But we have split and recombine it back together with this algorithm. And in the bestst-case scenario the runtime of merge sort is **Ω(*n log n*)**. Again, it still *n* log *n*. So in the best-case scenario, it can be slower than say, bubble sort, where the array happens to be perfectly sorted. So as you may recall the omega there is *n*, and not *n* log *n*.
+
+But in the worst-case or maybe even the average case, merge sort is actually going to be faster, at the exspense of maybe taking up more memory because we have to recombine and create new segments in memory for our sub-arrays. So merge sort is a really powerful tool to have in your toolbox once you understand recursion, because it can make the speed of sorting an array that much faster.
 
 
 ---
