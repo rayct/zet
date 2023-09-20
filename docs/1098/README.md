@@ -2,7 +2,18 @@
 ## Neurosciences
 ### Microbiome
 
-Why Your Gut Is Your Second Brain | Emeran Mayer on Health Theory
+"Why Your Gut Is Your Second Brain"\
+― Dr Emeran Mayer MD
+
+* **On Health Theory**
+
+    * Brain Gut Connection.
+    * Stress and your Gut.
+    * Diet and Depression.
+    * Gut check
+    * The Brain Connetome
+
+---
 
 * Why it’s important our body works synergistically?
 * How stress impacts gut interactions.
