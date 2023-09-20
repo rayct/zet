@@ -2,6 +2,8 @@
 ## Neurosciences
 ### Microbiome
 
+Why Your Gut Is Your Second Brain | Emeran Mayer on Health Theory
+
 * Why it’s important our body works synergistically?
 * How stress impacts gut interactions.
 * The interaction between the “big brain” and the “second brain”.
@@ -19,6 +21,7 @@
 * The Brain Connectome Project.
 * The ONE thing you should do right now to improve your health.
 
+*Dr Emeran Mayer MD, gastroenterologist and author of **The Mind-Gut Connection***
 
 ---
 
