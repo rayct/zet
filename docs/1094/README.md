@@ -39,8 +39,8 @@
 *Remember, these quotes are meant to convey the negative aspects of selfishness and gluttony and are not endorsements of such behaviors.*
 
 
-―――
+---
 
 Documentation By: **Raymond C. TURNER**
 
-Last Update: Tuesday 19th September 2023
+Last Update: Friday 22nd September 2023
