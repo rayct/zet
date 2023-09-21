@@ -2,6 +2,7 @@
 
 ## By: The Social and Economic theorist 'Jeremy Rifkin'
 
+**TRANSCSRIPT**
 **8,059,950 views  13 Feb 2018**
 
 The global economy is in crisis. The exponential exhaustion of natural resources, declining productivity, slow growth, rising unemployment, and steep inequality, forces us to rethink our economic models. Where do we go from here? In this feature-length documentary, social and economic theorist Jeremy Rifkin lays out a road map to usher in a new economic system. 
@@ -967,4 +968,8 @@ And they say— There are eight or nine states that passed legislation now sayin
 profits don't have to be a first motive; therefore you won't risk hostile takeovers. So there's a lot of stuff moving, but it's difficult.
 So are you— I encourage you to do that. Take some risk. Don't sell out. That's what I'm saying.
 
-**Documentation By:** `Ray C. TURNER`
+---
+
+Documentation By: **Raymond C. TURNER**
+
+Last Update: Thursday 21st September 2023
