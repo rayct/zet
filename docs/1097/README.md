@@ -1,4 +1,4 @@
-# VI/VIM STUFF
+# VI/VIM RELATED
 
 In Vim, you can open a terminal directly within Vim itself using a feature called "terminal mode." This allows you to run shell commands and interact with the terminal without leaving Vim. Here's how you can open a terminal in Vim:
 
