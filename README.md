@@ -6,7 +6,6 @@ This is where I dump my knowledge as it happens, all my zettels ('slips' or note
 
 This is a highly community-driven space for inspiration, where experienced veterans can publish their brilliance.
 
-***"Quotes of the Week"***
 
 * "The glutton holds a knife to his throat; it turns out to be his own."\
 ― Ancient Proverb
