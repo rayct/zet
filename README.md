@@ -10,7 +10,7 @@ This is a highly community-driven space for inspiration, where experienced veter
 * "The glutton holds a knife to his throat; it turns out to be his own."\
 ― Ancient Proverb
 
-* "Life is not a bitch; Nemesis is."\
+* "Life's not a bitch; Nemesis is."\
 ― The Unknown
 
 * "You may fight a battle more than once to win it."\
