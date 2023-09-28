@@ -11,4 +11,4 @@ In broader usage, the term can refer to anyone who is not welcome or accepted in
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Update:** Sunday 24th September 2023
+**Last Updated:** Thursday 28th September 2023
