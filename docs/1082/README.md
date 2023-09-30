@@ -46,8 +46,6 @@ These are some common `ls` commands and options. You can combine these options a
 
 ---
 
-</br>
-
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Saturday 16th September 2023
+**Last Updated:** Saturday 30th September 2023
