@@ -7,5 +7,8 @@
         * Authors: (Ian GoodFellow, Yoshua Bengio and Aaron Courville)
 
 
-Documentation by: **Raymond C. TURNER**
-Updated: 1 Day ago
+---
+
+Documentation By: **Raymond C. TURNER**
+
+**Last Updated:** Saturday 30th September 2023

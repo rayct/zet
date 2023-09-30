@@ -90,4 +90,8 @@ You should see the installed Go version printed in the terminal.
 
 If you encounter any issues, please double-check the downloaded file's integrity and make sure you have the correct download URL for the ARMv6l architecture.
 
-**Documentation By:** `Raymond C. TURNER`
+---
+
+Documentation By: **Raymond C. TURNER**
+
+**Last Updated:** Saturday 30th September 2023

@@ -117,4 +117,8 @@ Some people may find it better to simply wait until the entire 2023 Boost has co
 
 "SKILSTAK", "SKILSTAK Beginner Boost", "SKILSTAK Boost", “Beginner Boost” and “Boost” are legal trademarks of Robert S. Muhlestein but can be used freely to refer to the this project without limitation.
 
-**Documentation By:** `Ray C. TURNER`
+---
+
+Documentation By: **Raymond C. TURNER**
+
+**Last Updated:** Saturday 30th September 2023

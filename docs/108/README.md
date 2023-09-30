@@ -43,8 +43,6 @@ Syntax is essential for understanding how language works and for creating gramma
 
 ---
 
-</br>
-
 Documentation By: **Raymond C. TURNER**
 
-Last Update: Tuesday 12th September 2023
+**Last Updated:** Saturday 30th September 2023
