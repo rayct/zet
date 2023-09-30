@@ -6,8 +6,6 @@ Share more about my experience with those data lineage tools and how they contri
 
 ---
 
-</br>
-
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Thursday 14th September 20232
+**Last Updated:** Saturday 30th September 2023
