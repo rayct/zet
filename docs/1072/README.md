@@ -40,11 +40,9 @@ Competitiveness and Ostentation in individuals can be influenced by a combinatio
 
 </br>
 
---
-
-</br>
+---
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Mondday 4th September 2023 @ 17:38 GMT
+**Last Updated:** Saturday 30th September 2023
 

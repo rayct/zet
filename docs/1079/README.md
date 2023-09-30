@@ -330,8 +330,6 @@ After adding the reference, your C# code should recognize the `System.Speech` na
 
 ---
 
-</br>
-
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Sunday 10th September 2023
+**Last Updated:** Saturday 30th September 2023
