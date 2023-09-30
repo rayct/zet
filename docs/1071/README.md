@@ -34,8 +34,6 @@ These disciplines often intersect and collaborate to provide a comprehensive und
 
 ---
 
-</br>
+Documentation By: **Raymond C. TURNER**
 
-Study and Documentation By: **Raymond C. TURNER**
-
-Last Updated: Sunday 3rd September 2023 @ 19:01 GMT
+**Last Updated:** Saturday 30th September 2023

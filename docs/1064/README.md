@@ -30,9 +30,8 @@ The cow's speech bubble contains the text "Hello, world!" in this example. The c
 It's worth noting that there are variations and extensions of the `cowsay` command that offer different animal characters, additional features, and customizations beyond the classic cow.
 
 
-
 ---
 
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Monday 29th August 2023 @ 01:56 GMT
+**Last Updated:** Saturday 30th September 2023

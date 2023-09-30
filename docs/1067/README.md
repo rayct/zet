@@ -197,6 +197,6 @@ Similar to Docker, Podman allows you to manage containers and interact with them
 
 ---
 
-Documentation by: **Raymond C. TURNER**
+Documentation By: **Raymond C. TURNER**
 
-Last Updated: Friday 1st August 2023 @ 02:55 GMT
+**Last Updated:** Saturday 30th September 2023
