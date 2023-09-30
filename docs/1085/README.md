@@ -40,8 +40,6 @@ Remember that merge conflicts are a normal part of collaborative development, an
 
 ---
 
-</br>
-
 Documentation By: **Raymond C. TURNER**
 
-Last Updated: Thursday 14th September 2023
+**Last Updated:** Saturday 30th September 2023
