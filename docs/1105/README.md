@@ -48,4 +48,4 @@ Understanding octal notation and using it with `chmod` allows you to quickly and
 
 Documentation By: **Raymond C. TURNER** (421ray)
 
-**Last Updated:** Sunday 31st September 2023
+**Last Updated:** Sunday 1st October 2023s
