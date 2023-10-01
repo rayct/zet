@@ -34,7 +34,10 @@
 — Mahatma Gandhi
 
 * "Greed is an insatiable abyss that relentlessly drains a person through ceaseless endeavors to outdo others, striving to satisfy the need without ever attaining satisfaction, gratification, or fulfillment."\
-― Erich Fromm
+― Erich From
+
+* "If you wish to be the king of the jungle, it's not enough to act like a king; you must be the king. And there can be no doubt because doubt causes chaos and leads to one's own demise."\
+― The Unknown Queen
 
 *Remember, these quotes are meant to convey the negative aspects of selfishness and gluttony and are not endorsements of such behaviors.*
 
@@ -43,4 +46,4 @@
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Updated:** Sunday 31st September 2023
+**Last Updated:** Sunday 1st October 2023
