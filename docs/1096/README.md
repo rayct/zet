@@ -69,4 +69,4 @@ To install Go (Golang) on Linux from the official Go website, follow these steps
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Update:** Sunday 24th September 2023
+**Last Updated:** Sunday 31st September 2023
