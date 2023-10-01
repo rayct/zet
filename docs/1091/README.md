@@ -250,4 +250,4 @@ But in the worst-case or maybe even the average case, merge sort is actually goi
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Updated:** Saturday 30th September 2023
+**Last Updated:** Sunday 31st September 2023
