@@ -24,4 +24,4 @@ Using the terminal within Vim allows for a seamless workflow where you can edit 
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Update:** Saturday 23rd September 2023
+**Last Updated:** Sunday 31st September 2023
