@@ -34,4 +34,4 @@ JuiceSSH offers a range of features such as multiple simultaneous connections, k
 
 Documentation By: **Raymond C. TURNER** (421ray)
 
-**Last Updated:** Monday 2nd October 2023
+**Last Updated:** Tuesday 3rd October 2023
