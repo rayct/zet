@@ -106,9 +106,18 @@ The folder structure for a project in go.work (a hypothetical framework or appli
 
 ---
 
-Updating
+## Updating the version of Go
 
+ ```bash
+ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.21.2.linux-amd64.tar.gz
+ ```
 
+```bash
+export PATH=$PATH:/usr/local/go/bin
+```
+ ```bash
+ go version
+ ```
 
 ---
 
