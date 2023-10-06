@@ -342,6 +342,13 @@ Remember to replace `"old dir name with spaces"` and `"new dir name"` with your 
 
 In general, using quotes around file or directory names with spaces is a safer approach, as it ensures that the entire name is treated as a single argument by the command-line interpreter. If you're working with scripting, be aware of the context in which you're using these commands, as different scripting languages may require slightly different approaches.
 
+---
+
+# Linux Distro Check
+
+* `lsb_release -a`
+
+
 
 ---
 
@@ -354,6 +361,6 @@ Choose the compression format based on your preferences and requirements. Each f
 
 ---
 
-Documentation by: **Raymond C. TURNER**
+Documentation By: **Raymond C. TURNER**
 
-Last Updated: Saturday 27th August 2023 @ 14:48 GMT
+**Last Updated:** Friday 6th October 2023
