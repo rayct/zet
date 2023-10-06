@@ -104,6 +104,10 @@ The folder structure for a project in go.work (a hypothetical framework or appli
 
 *This structure is a starting point and can be modified based on your specific project's needs, size, and complexity. It's important to organize your code in a way that makes sense for your project and team.*
 
+---
+
+Updating
+
 
 
 ---
