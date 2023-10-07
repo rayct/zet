@@ -29,6 +29,8 @@ This is a highly community-driven space for inspiration, where experienced veter
 make difficult tasks possible"\
 ― William E. Shotts Jr., The Linux Command Line
 
+* "Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip."\
+― Winston Churchill
 
 ---
 
