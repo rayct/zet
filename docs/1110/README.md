@@ -25,7 +25,7 @@
 * Wifi hacking
 * SDR for hackers
 * Radio basics for hackers
-* IP camera haqcking
+* IP camera hacking
 * X86 Assembler
 * Privilege escalation
 * Cryptography Basics for hackers
