@@ -27,4 +27,4 @@ Incorporating the PNPT framework into TCM security helps organizations in the he
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Updated:** Thursday 12th October 2023
+**Last Updated:** Friday 13th October 2023
