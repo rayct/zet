@@ -53,4 +53,4 @@ network forensics. Next week some new android hacking with some zero days.🙂
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Updated:** Thursday 12th October 2023
+**Last Updated:** Friday 13th October 2023
