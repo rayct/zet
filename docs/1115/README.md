@@ -129,10 +129,14 @@ For example, if you want to create an empty file named "example.txt" in a direct
 touch /path/to/documents/example.txt
 ```
 
+```bash
+touch 1119/README.md
+```
+
 This will create the "example.txt" file in the "documents" directory.
 
 ---
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Updated:** Tuesday 17th October 2023
+**Last Updated:** Wednesday 18th October 2023
