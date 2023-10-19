@@ -6,47 +6,55 @@ I was browsing options for Bluetooth keyboards recently and was lucky to hit an 
 
 * Step 2. Open terminal. Run the following commands:
 
-```bash
-sudo bluetoothctl
-[bluetooth]# power on
-[bluetooth]# agent KeyboardOnly
-[bluetooth]# default-agent
-[bluetooth]# pairable on
-```
+    ```bash
+    sudo bluetoothctl
+    [bluetooth]# power on
+    [bluetooth]# agent KeyboardOnly
+    [bluetooth]# default-agent
+    [bluetooth]# pairable on
+    ```
 * Step 3. Power on your Magic Keyboard. Hold the power button and do not release until step 5.
 
 * Step 4. In bluetoothctl type:
 
-```bash
-[bluetooth]# scan on
-```
+    ```bash
+    [bluetooth]# scan on
+    ```
 It will start scanning for available Bluetooth devices. What we are looking for would be indicated like this:
 
-```bash
-[NEW] Device 78:CA:39:XX:XX:XX Apple Wireless Keyboard
-```
+    ```bash
+    [NEW] Device 78:CA:39:XX:XX:XX Apple Wireless Keyboard
+    ```
 * Step 5. Copy MAC address for the keyboard from the previous step. Add keyboard as trusted device:
 
-[bluetooth]# trust 78:CA:39:XX:XX:XX
-Once it trusted start pairing:
+    ```bash
+    [bluetooth]# trust 78:CA:39:XX:XX:XX
+    Once it trusted start pairing:
+    ```
 
-[bluetooth]# pair 78:CA:39:XX:XX:XX
-Attempting to pair with 78:CA:39:XX:XX:XX
-[CHG] Device 78:CA:39:4F:CA:AF Connected: yes
-[agent] PIN code: 299251
+    ```bash
+    [bluetooth]# pair 78:CA:39:XX:XX:XX
+    Attempting to pair with 78:CA:39:XX:XX:XX
+    [CHG] Device 78:CA:39:4F:CA:AF Connected: yes
+    [agent] PIN code: 299251
+    ```
+
 * Step 5. Release the‘ Power on’ button on the keyboard and type PIN code on the keyboard. It won’t indicate anything in the terminal, but that's fine. Commit PIN by hitting ‘Enter’. If pairing is successful output will be similar to that:
 
-[CHG] Device 78:CA:39:XX:XX:XX ServicesResolved: yes
-[CHG] Device 78:CA:39:XX:XX:XX Paired: yes
-Pairing successful
+    ```bash
+    [CHG] Device 78:CA:39:XX:XX:XX ServicesResolved: yes
+    [CHG] Device 78:CA:39:XX:XX:XX Paired: yes
+    Pairing successful
+    ```
 * Step 6. Now your keyboard is paired, but most likely it will be acting as a Numpad. To resolve this issue run following in terminal:
 
-```bash
-sudo apt update
-sudo apt install numlockx
-numlockx off
-```
-*Probably it also makes sense to add 'numlock off' as startup command in 'gnome-session-properties'
+    ```bash
+    sudo apt update
+    sudo apt install numlockx
+    numlockx off
+    ```
+
+Probably it also makes sense to add 'numlock off' as startup command in 'gnome-session-properties'
 Congratulations — now you have fully working Apple Keyboard!
 
 ---
