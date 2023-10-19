@@ -20,11 +20,13 @@ I was browsing options for Bluetooth keyboards recently and was lucky to hit an 
     ```bash
     [bluetooth]# scan on
     ```
-It will start scanning for available Bluetooth devices. What we are looking for would be indicated like this:
+
+* It will start scanning for available Bluetooth devices. What we are looking for would be indicated like this:
 
     ```bash
     [NEW] Device 78:CA:39:XX:XX:XX Apple Wireless Keyboard
     ```
+    
 * Step 5. Copy MAC address for the keyboard from the previous step. Add keyboard as trusted device:
 
     ```bash
