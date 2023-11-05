@@ -1,4 +1,4 @@
-**Algebra  and Calculus Roadmap Course - 2023**
+# Algebra and Calculus Roadmap Course - 2023
 
 **The order in which I will learn algebra, pre-calculus, and calculus typically follows a structured progression in mathematics:**
 
