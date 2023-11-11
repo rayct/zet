@@ -4,10 +4,10 @@ Here are my recipes for the food I've been eating since 2010 when I've been my h
 
 There is a catch. Many of these recipes are impossible without a gadget. I've been known to take my Blendtec blender with me on camping trips and would probably bring my salsa maker now as well. I've just come to expect that I cannot use the blender during the early morning hours so I save my recipes with the blender until later in the day.
 
-* [Recipe: recovery drink](../2456)
-* [Recipe: morning oatmeal](../2455)
-* [Recipe: fresh salsa (or veggie juice)](../2454)
-* [Recipe: green smoothie](../2452)
+* [Recipe: recovery drink](../1125)
+* [Recipe: morning oatmeal](../1126)
+* [Recipe: fresh salsa (or veggie juice)](../1127)
+* [Recipe: green smoothie](../1128)
 * Recipe: oatmeal cookies (coming soon)
 * Recipe: egg burrito bowl (coming soon)
 * Recipe: tomatoes and almonds salad (coming soon)
