@@ -35,6 +35,15 @@ CS50 Tech Talk with Dr. Matt Welsh
 
 ---
 
+**FINAL THOUGHTS**
+
+* Unfortunately a lot of Hokus Pokus scare mongery. First CS is not about 'giving a computer instructions to complete a task'. That is one 1st year CS course. I have worked in Systems Architecture and Software Engineering for 6 years in (Japan, Europe and Canada) and I can tell you LLMs/AI  are not replacing anyone. Anybody claiming that, has either never designed production systems before or is trying to sell something. Nobody employs Software Engineers to 'write code blocks or write code for IO operations', Software Engineers earn a lot because they 'Build' and 'Architect' scalable production systems. Systems Design is a logical process that requires a lot of deep critical thinking and requires human intelligence (And No AI are not achieving nor will they ever achieve human intelligence). Decisions can never be automated or 'learnt'. The problem is that everyone thinks Software Engineering is 'programming'. I installed Copilot and uninstalled it 2 days later. I really can't see how Copilot will help me let alone replace me. Here is a tip for all Engineers, if you find the code from Copilot useful or that it makes you more 'productive', then you are probably writing really bad code and your codebase is probably a mess (Maybe why you will loos your job?). That said, I agree, Copilot is extremely good for Boilerplate codes and automating some CI/CD stuff. But the negatives far outweighs the positives.
+
+
+* The example with Conways game of life does no justice to the 50 years of programming language research he refers to. Also, Rust was designed to overcome the memory safety problems that plagued C and C++; it is a programming language that emphasizes performance and memory-safety. Programming languages like Fortran and C were designed the way they are for a very specific reason: They target Von Neumann architectures, and fall under the category of "Von Neumann programming languages". The goal of these languages is to provide humans with a language to specify the behavior of a Von Neumann machine, so of course the language itself will have constructs that model the von Neumann architecture. Programming languages like Rust or C do exactly what they were designed to do, they are not "attempts" to improve only code readability for Conways game of life when compared to Fortran.
+
+---
+
 Documentation By: **Raymond C. TURNER**
 
 **Revision:** Sunday 12th November 2023
