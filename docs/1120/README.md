@@ -5,7 +5,7 @@
 
 "The 100% Unlocked Biological Mind vs The AI Sentient Mind"
 
-## Super Empathy and Super Pursuaders
+## The Ethics of Digital Minds: A baffling new frontier
 
     * "Exceptional Empathy and Persuasion Skills"
     * "Superior Empathy and Highly Effective Super Persuaders"
