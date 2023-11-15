@@ -63,4 +63,4 @@ Congratulations — now you have fully working Apple Keyboard!
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Update:** Friday 20th October 2023
+**Revision:** Wednesday 15th November 2023
