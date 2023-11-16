@@ -13,4 +13,4 @@ exec lynx "$url"
 
 Documentation By: **Raymond C. TURNER**
 
-**Revision:** Saturday 11th November 2023
+**Revision:** Thursday 16th November 2023
