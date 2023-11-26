@@ -59,4 +59,4 @@ But the price of first class stamps also rose by 15p to £1.25 on October 2.
 
 Documentation By: **Raymond C. TURNER**
 
-**Last Updated:** Tuesday 10th October 2023
+**Revision:** Sunday 26th November 2023
