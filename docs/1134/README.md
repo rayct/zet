@@ -100,7 +100,7 @@ class ActionRespondScaffoldTypes(Action):
 
 ---
 
-Absolutely! Here's a comprehensive layout for an end-to-end production-grade chatbot for a scaffold hire company using the Rasa framework in Python:
+# A comprehensive layout for an end-to-end production-grade chatbot for a scaffold hire company using the Rasa framework in Python:
 
 ### 1. **Setup and Installation:**
 
