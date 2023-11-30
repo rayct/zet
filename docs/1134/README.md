@@ -1,8 +1,8 @@
-# End-to-end production-grade chatbot
+# Conversational AI - End-to-end production-grade chatbot
 
 * Training a production-ready chatbot for a scaffold hire company involves several steps, including data collection, intent classification, entity recognition, dialogue management, and deploying the bot on a platform. I can guide you through the process and provide an example using Python and a framework like Rasa.
 
-* Rasa is an open-source framework for building conversational AI. It allows you to create chatbots with natural language understanding and dialogue management capabilities. For this example, let's assume you have Rasa installed:
+* Rasa is an open-source framework for ***building conversational AI***. It allows you to create chatbots with natural language understanding and dialogue management capabilities. For this example, let's assume you have Rasa installed:
 
 1. **Setting Up Rasa:**
    Install Rasa by following the installation guide in their documentation.
