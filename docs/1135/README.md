@@ -46,8 +46,8 @@ Here is the list of available commands:
 
 ## Possible options:
 
-nordvpn set threatprotectionlite on or off — enable or disable Threat Protection Lite.
-nordvpn set killswitch on or off — enable or disable Kill Switch.
+`nordvpn set threatprotectionlite on or off — enable or disable Threat Protection Lite.`
+`nordvpn set killswitch on or off — enable or disable Kill Switch.`
 nordvpn set autoconnect on or off — enable or disable auto-connect. You can set a specific server for automatic connection using nordvpn set autoconnect on country_code+server_number. Example: nordvpn set autoconnect on us2435.
 
 nordvpn set notify on or off — enable or disable notifications.
