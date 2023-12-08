@@ -85,4 +85,4 @@ See `man get_*` after installation, or [CS50 Reference](https://reference.cs50.n
 
 Documentation By: **Raymond C. TURNER**
 
-**Revision:** Sunday 26th November 2023
+**Revision:** Friday 8th December 2023
