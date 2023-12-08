@@ -2,7 +2,7 @@
 
 PNPT (Prevent, Detect, Respond, and Predict) is a cybersecurity framework that aligns with the approach of many organizations in managing their cybersecurity risks and threats. It is a proactive and holistic approach that emphasizes not only preventing cyber threats but also detecting and responding to them effectively, as well as predicting potential threats based on data analysis and trends.
 
-Here's a breakdown of the components of PNPT in the context of TCM (Traditional Chinese Medicine) Security:
+A breakdown of the components of PNPT in the context of TCM (Traditional Chinese Medicine) Security:
 
 1. **Prevent (P)**:
    - Establish robust security measures to prevent cyber threats and attacks.
