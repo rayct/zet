@@ -81,4 +81,4 @@ nordvpn help or nordvpn h — see the list of available commands or help for a s
 
 Documentation By: **Raymond C. TURNER**
 
-**Revision:** Saturday 9th December 2023
+**Revision:** Tuesday 12th December 2023
