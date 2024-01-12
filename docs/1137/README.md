@@ -250,7 +250,128 @@ nmap -p 161,162 target
 nmap -p 6379 target
 ```
 
-Remember to use Nmap responsibly and ensure that you have proper authorization before scanning any network. Unauthorized scanning may violate laws and policies.
+---
+
+# Basic Commands
+
+1. **Basic Scan:**
+   ```bash
+   nmap target
+   ```
+   This performs a basic scan on the specified target.
+
+2. **Scan specific ports:**
+   ```bash
+   nmap -p 80,443 target
+   ```
+   This scans only the specified ports (80 and 443 in this example).
+
+3. **Scan all ports:**
+   ```bash
+   nmap -p- target
+   ```
+   This scans all 65,535 ports.
+
+4. **Scan a range of IP addresses:**
+   ```bash
+   nmap 192.168.1.1-50
+   ```
+   This scans a range of IP addresses.
+
+5. **Aggressive Scan:**
+   ```bash
+   nmap -A target
+   ```
+   This enables OS detection, version detection, script scanning, and traceroute.
+
+6. **Service Version Detection:**
+   ```bash
+   nmap -sV target
+   ```
+   This detects service versions.
+
+7. **Operating System Detection:**
+   ```bash
+   nmap -O target
+   ```
+   This attempts to identify the target's operating system.
+
+8. **Script Scanning:**
+   ```bash
+   nmap -sC target
+   ```
+   This scans with default scripts.
+
+9. **Scan using a specific script:**
+   ```bash
+   nmap --script=<script_name> target
+   ```
+   Replace `<script_name>` with the specific script you want to use.
+
+10. **Scan using multiple scripts:**
+    ```bash
+    nmap --script=<script_name1>,<script_name2> target
+    ```
+    Replace `<script_name1>` and `<script_name2>` with the specific scripts you want to use.
+
+11. **Ping Scan:**
+    ```bash
+    nmap -sn target
+    ```
+    This performs a ping scan, disabling port scanning.
+
+12. **UDP Scan:**
+    ```bash
+    nmap -sU target
+    ```
+    This scans for open UDP ports.
+
+13. **Verbose Output:**
+    ```bash
+    nmap -v target
+    ```
+    This provides more detailed output.
+
+14. **Output to a file:**
+    ```bash
+    nmap -oN output.txt target
+    ```
+    This saves the results to a file.
+
+15. **Exclude hosts from scan:**
+    ```bash
+    nmap --exclude 192.168.1.2 target
+    ```
+    This excludes the specified host from the scan.
+
+---
+
+# Scan your local network.
+
+Nmap for device discovery, you can follow these steps. Replace `192.168.1.0/24` with the appropriate subnet for your local network.
+
+1. **Install Nmap:**
+   Make sure Nmap is installed on your system. You can download it from the [official Nmap website](https://nmap.org/download.html) or install it using a package manager (e.g., `apt-get`, `yum`, or `brew`).
+
+2. **Open a Terminal or Command Prompt:**
+   Open a terminal window on Linux or macOS, or a command prompt on Windows.
+
+3. **Run the Nmap Scan:**
+   Use the following command to scan your local network for devices:
+
+   ```bash
+   nmap -sn 192.168.1.0/24
+   ```
+
+   This command uses the `-sn` option for a ping scan, which doesn't perform port scanning but sends ICMP echo requests (ping) to discover live hosts.
+
+4. **Review the Results:**
+   Nmap will display a list of devices that responded to the ping scan, along with their IP addresses and MAC addresses.
+
+Here's a breakdown of the command:
+- `nmap`: Launches the Nmap tool.
+- `-sn`: Disables port scanning and only performs host discovery.
+- `192.168.1.0/24`: Specifies the target IP range. Adjust this based on your local network subnet.
 
 
 
