@@ -35,6 +35,10 @@ make difficult tasks possible"\
 * "The true gung fu master aims his blows at himself, and when successful, he may even succeed in knocking himself out. The primary function of one’s tools is really revealed when they are self-directed and used to destroy greed, fear, anger and folly."\ 
 ― Bruce Lee
 
+* "You will continue to suffer if you have an emotional reaction to everything that is said to you. True power is sitting back and observing everything with logic. If words control you that means everyone else can control you. Breathe and allow things to pass."
+
+― Bruce Lee
+
 ---
 
 Documentation By: **Raymond C. TURNER**
