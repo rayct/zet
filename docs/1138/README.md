@@ -1,4 +1,6 @@
-Certainly! Breaking into the field of cybersecurity is an exciting journey, and having a foundation in IT skills, Linux, Windows, and hardware is a great start. Here are some tips for a beginner looking to enter the field of cybersecurity:
+# Cyber Security Carer Tips!
+
+Breaking into the field of cybersecurity is an exciting journey, and having a foundation in IT skills, Linux, Windows, and hardware is a great start. Here are some tips for a beginner looking to enter the field of cybersecurity:
 
 1. **Learn the Basics of Networking:**
    Understanding how networks operate is crucial in cybersecurity. Learn about IP addressing, subnets, routers, switches, and protocols (TCP/IP, UDP, etc.). This knowledge will form the basis of many security concepts.
