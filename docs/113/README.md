@@ -79,11 +79,8 @@ Building an advanced website chatbot for a scaffold hire company involves consid
 *While building your own NLP model provides customization, it's important to note that it requires a significant amount of expertise in machine learning, natural language processing, and software engineering. If you're looking for a quicker and potentially more accessible solution, using existing NLP frameworks or models might be a more practical choice, as they come with pre-trained capabilities and can be tailored to specific use cases.*
 
 
-
-
-
 ---
 
 Documentation By: **Raymond C. TURNER**
 
-**Revision:** Jan 29th, 2024
+**Revision:** Jan 30th, 2024
