@@ -15,6 +15,6 @@
 
 Documentation by: **Raymond C. TURNER**
 
-**Rev:** Feb 2nd, 2024
+**Revision:** Feb 2nd, 2024
 
 **codestak.io**
