@@ -1,0 +1,20 @@
+* Setting up Blootooth on Linux
+  * CLI Setup Commands
+      * `bluetoothctl`
+    * Put Device into scan mode
+      * `scan on`
+    * wait for mac address to show
+      * Type `connect [DEVICE_MAC_ADDRESS]`
+    * Wait for connection confirmation.
+    * Device will disconnect again.
+      * Type `pair [DEVICE_MAC_ADDRESS]`
+      * Type `trust [DEVICE_MAC_ADDRESS]`
+
+
+---
+
+Documentation by: **Raymond C. TURNER**
+
+**Rev:** Feb 2nd, 2024
+
+**codestak.io**
