@@ -45,9 +45,6 @@ make difficult tasks possible."
 
     ― Paul A. DIRAC
 
-
-
-
 ---
 
 Documentation by: **Raymond C. TURNER**
