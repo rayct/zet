@@ -1,6 +1,6 @@
 # MakeMKV
 
-* Install Instructions
+* Install Instructions Debian/Ubuntu/Mint
 
 ```shell
 sudo add-apt-repository ppa:heyarje/makemkv-beta
