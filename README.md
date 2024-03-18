@@ -39,6 +39,10 @@ make difficult tasks possible"\
 
 ― Bruce Lee
 
+* "I was taught at school never to start a sentence without knowing the end of it."\
+
+― Paul A. DIRAC
+
 ---
 
 Documentation By: **Raymond C. TURNER**
