@@ -1,5 +1,6 @@
-* Setting up Blootooth on Linux
-  * CLI Setup Commands
+# Setting up Blootooth on Linux
+
+## CLI Setup Commands
       * `bluetoothctl`
     * Put Device into scan mode
       * `scan on`
