@@ -1,15 +1,30 @@
-# CONTENT HERE
+= Chess Notes 2024
+
+1. **Pawn**:
+   - Pawns move forward one square, but they capture diagonally.
+   - On their first move, pawns have the option to advance two squares forward.
+   - Pawns promote to any other piece (except another pawn) if they reach the opposite end of the board.
+
+2. **Rook**:
+   - Rooks move horizontally or vertically across the board any number of unobstructed squares.
+
+3. **Knight**:
+   - Knights move in an L-shape, either two squares in one direction and one square perpendicular to that, or one square in one direction and two squares perpendicular to that.
+   - Knights are the only piece that can "jump" over other pieces.
+
+4. **Bishop**:
+   - Bishops move diagonally across the board any number of unobstructed squares.
+
+5. **Queen**:
+   - Queens combine the movement of rooks and bishops. They can move horizontally, vertically, or diagonally any number of unobstructed squares.
+
+6. **King**:
+   - Kings can move one square in any direction: horizontally, vertically, or diagonally.
+
+_Remember, each player has a set of these pieces, and the objective of the game is to checkmate the opponent's king, meaning to put it in a position where it cannot escape capture._
 
 
-
-
-
-
-
-
-
-
-
+---
 
 Documentation by: **Raymond C. TURNER**
 
