@@ -1,4 +1,4 @@
-= Chess Notes 2024
+= Chess Notes - 2024
 
 1. **Pawn**:
    - Pawns move forward one square, but they capture diagonally.
