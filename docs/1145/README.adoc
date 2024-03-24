@@ -64,6 +64,43 @@ ps -ef
 ps -ef | awk '{print $1}' | sort | uniq -c
 ---
 
+* Check what processes are executing on the processor every second.
+
+[source, bash]
+
+---
+pidstat 1 5
+---
+
+* See more CPU and Disk usage on the system in 1 second increments.
+
+[source, bash]
+
+---
+iostat -xz 1 5
+---
+
+* Network usage and load of the system.
+
+[source, bash]
+
+---
+sar -n DEV 1 5
+---
+
+* Check tcp packets and errors.
+
+[source, bash]
+
+---
+sar -n TCP,ETCP 1 5
+---
+
+* 
+
+
+
+
 ---
 
 Documentation by: **Raymond C. TURNER**
