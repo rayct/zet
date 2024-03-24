@@ -1,0 +1,73 @@
+= Linux System Commands 2024
+
+What is the release and version of the system?
+
+What is the kernel version?
+
+How long has the system been up, and how was its kernel called as GRUB booted it?
+
+
+* Check what version of Linux we're on.
+
+[source, bash]
+
+---
+cat /etc/*release
+---
+
+* Check Kernel Version
+
+[source, bash]
+
+---
+uname -r
+---
+
+* Check how long the system has been up.
+
+[source, bash]
+
+---
+uptime
+---
+
+* See how the system booted and what kernel parameters were passed when the system was started.
+
+[source, bash]
+
+---
+cat /proc/cmdline
+---
+
+*  Look at the virtual memory usage of this system.
+
+[source, bash]
+
+---
+vmstat 1 5
+---
+
+* Check the overall CPU usage of the system every second for 5 seconds.
+
+[source, bash]
+
+---
+mpstat 1 5
+---
+
+* Check what processes are running on the system
+
+[source, bash]
+
+---
+ps -ef
+ps -ef | awk '{print $1}' | sort | uniq -c
+---
+
+---
+
+Documentation by: **Raymond C. TURNER**
+
+**Revision:** March 24th, 2024
+
+**codestak.io**
