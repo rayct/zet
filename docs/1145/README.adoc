@@ -96,7 +96,6 @@ sar -n DEV 1 5
 sar -n TCP,ETCP 1 5
 ---
 
-* 
 
 
 
