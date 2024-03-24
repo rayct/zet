@@ -28,6 +28,6 @@ _Remember, each player has a set of these pieces, and the objective of the game 
 
 Documentation by: **Raymond C. TURNER**
 
-**Revision:** March 23rd, 2024
+**Revision:** March 24th, 2024
 
 **codestak.io**
