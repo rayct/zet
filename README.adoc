@@ -9,7 +9,7 @@ This is a highly community-driven space for inspiration, where experienced veter
 
 ---
 
-Documentation By: **Raymond C. TURNER**
+Documentation in asciidoc By: **Raymond C. TURNER**
 
 **Revision:** March 25th, 2024
 
